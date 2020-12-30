@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a page to track my progress for sports betting.
+This is a site to track my progress and experiments for sports betting.
 
 <i>Note (Podcast recordings before Dec 22, 2020):</i>
 
