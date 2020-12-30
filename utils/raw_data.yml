@@ -1,0 +1,322 @@
+- type: "BANK"
+  units: -10.0
+
+- sport: "NBA"
+  type: "F"
+  line: -125
+  units: 3.0
+  description: "PHX o 38.5 wins"
+  result: "PENDING"
+  date: "12/21/2020"
+
+- sport: "NBA"
+  type: "F"
+  line: -125
+  units: 3.0
+  description: "HOU u 35.5 wins"
+  result: "PENDING"
+  date: "12/21/2020"
+
+- sport: "NBA"
+  type: "F"
+  line: -120
+  units: 3.0
+  description: "TOR o 42.5 wins"
+  result: "PENDING"
+  date: "12/21/2020"
+
+- sport: "NBA"
+  type: "F"
+  line: -120
+  units: 3.0
+  description: "WAS o 33.5 wins"
+  result: "PENDING"
+  date: "12/21/2020"
+
+- sport: "NBA"
+  type: "F"
+  line: -111
+  units: 3.0
+  description: "WAS o 37.5 wins"
+  result: "PENDING"
+  date: "12/21/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -125
+  units: 1.0
+  description: "GSW @ BKN -7.0"
+  result: "WIN"
+  date: "12/22/2020"
+
+- sport: "NBA"
+  type: "T"
+  line: -110
+  units: 1.0
+  description: "BKN -3.0, LAC +7.5"
+  result: "WIN"
+  date: "12/22/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "ATL W @ CHI"
+  result: "WIN"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "SAS @ MEM W"
+  result: "LOSS"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "MIL -3.0 @ BOS"
+  result: "LOSS"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "NO @ TOR -3.0"
+  result: "LOSS"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "MIA -3.0 @ ORL"
+  result: "LOSS"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "CHA W @ CLE"
+  result: "LOSS"
+  date: "12/23/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -135
+  units: 1.0
+  description: "BKN W @ BOS"
+  result: "WIN"
+  date: "12/24/2020"
+
+- sport: "NFL"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "MIN @NO O 50.5"
+  result: "WIN"
+  date: "12/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 1.0
+  description: "MIN @ NO O 44.5, NO -1.0"
+  result: "WIN"
+  date: "12/24/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 1.0
+  description: "Andrew Wiggins o 1.5 3pt FGM"
+  result: "LOSS"
+  date: "12/25/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 1.0
+  description: "Lonzo Ball o 2.5 3pt FGM"
+  result: "LOSS"
+  date: "12/25/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +163
+  units: 1.0
+  description: "Lebron James o 2.5 3pt FGM"
+  result: "WIN"
+  date: "12/25/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -115
+  units: 1.0
+  description: "LAC @ DEN -2.5"
+  result: "WIN"
+  date: "12/25/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 1.0
+  description: "SF @ ARI +1, MIA @ LV +9"
+  result: "LOSS"
+  date: "12/26/2020"
+
+- sport: "NFL"
+  type: "ML"
+  line: +130
+  units: 0.5
+  description: "MIA @ LV W"
+  result: "LOSS"
+  date: "12/26/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -130
+  units: 2.0
+  description: "CLE 0.0, BAL, 0.0, KC 0.5"
+  result: "LOSS"
+  date: "12/27/2020"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 1.0
+  description: "BUF -7.0 @ NE"
+  result: "WIN"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "MEM @ BKN -6.5"
+  result: "LOSS"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "HOU @ DEN o 225.0"
+  result: "WIN"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "HOU @ DEN, HOU o 108.5"
+  result: "WIN"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "POR @ LAL, LAL o 114.5"
+  result: "LOSS"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "CJ McCollum o 2.5 3s"
+  result: "WIN"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "M Porter Jr o 1.5 3s"
+  result: "WIN"
+  date: "12/28/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "MIL -5.5 @ MIA"
+  result: "WIN"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "BOS +1.0 @ IND"
+  result: "WIN"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "GSW @ DET o226.5"
+  result: "LOSS"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 1.0
+  description: "Steph Curry o 3.5 3s"
+  result: "WIN"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.3
+  description: "Steph Curry o 4.5 3s"
+  result: "WIN"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +273
+  units: 0.2
+  description: "Steph Curry o 5.5 3s"
+  result: "LOSS"
+  date: "12/29/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "MIL -5.0 @ MIA"
+  result: "PENDING"
+  date: "12/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "MEM @ BOS -6.0"
+  result: "PENDING"
+  date: "12/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "LAL -6.0 @ SAS"
+  result: "PENDING"
+  date: "12/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "POR +3.5 @ LAC"
+  result: "PENDING"
+  date: "12/30/2020"

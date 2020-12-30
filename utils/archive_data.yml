@@ -1,0 +1,714 @@
+- type: "BANK"
+  units: -10.0
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +2531
+  units: 0.1
+  date: "08/11/2020"
+  result: "LOSS"
+  description: "WAS o4.5, CWS o4.5, HOU o5.0 LAA o5.0, LAD o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +290
+  units: 0.3
+  date: "08/11/2020"
+  result: "LOSS"
+  description: "LAA o5.0, LAD o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +272
+  units: 0.3
+  date: "08/11/2020"
+  result: "WIN"
+  description: "LAA o5.0, HOU o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +262
+  units: 0.3
+  date: "08/11/2020"
+  result: "LOSS"
+  description: "LAA o4.5, CWS o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +4631
+  units: 0.1
+  date: "08/12/2020"
+  result: "LOSS"
+  description: "PHI o5.0, TB o4.5, CWS o4.5, COL o5.5, KC o4.5, MIN o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +262
+  units: 0.3
+  date: "08/12/2020"
+  result: "WIN"
+  description: "CWS o4.5, COL o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: +289
+  units: 0.3
+  date: "08/12/2020"
+  result: "WIN"
+  description: "KC o4.5, MIN o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 234
+  units: 0.3
+  date: "08/12/2020"
+  result: "LOSS"
+  description: "PHI o5.0, TB o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 253
+  units: 0.3
+  date: "08/13/2020"
+  result: "WIN"
+  description: "TB o5.0, CIN o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 247
+  units: 0.3
+  date: "08/13/2020"
+  result: "WIN"
+  description: "TB o5.0, PIT o3.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2422
+  units: 0.16
+  date: "08/13/2020"
+  result: "LOSS"
+  description: "WAS @ NYM o9.0, BAL @ PHI o9.5, TB @ BOS o 5.0, PIT @ CIN o9.0, CHC o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 16303
+  units: 0.1
+  date: "08/14/2020"
+  result: "LOSS"
+  description: "TB o5.0, WAS o4.0, MIA o4.0, CLE o4.5, KC @ MIN o9.0, HOU o5.0, LAA o5.0, OAK o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 289
+  units: 0.3
+  date: "08/14/2020"
+  result: "LOSS"
+  description: "TB o5.0, MIN o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -111
+  units: 0.3
+  date: "08/14/2020"
+  result: "WIN"
+  description: "MIA o4.0, KC o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 266
+  units: 0.3
+  date: "08/14/2020"
+  result: "WIN"
+  description: "WAS o5.0, CLE o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -111
+  units: 0.3
+  date: "08/14/2020"
+  result: "WIN"
+  description: "OAK o4.5, LAD o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 262
+  units: 0.3
+  date: "08/14/2020"
+  result: "PUSH"
+  description: "HOU o5.0, OAK o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4576
+  units: 0.2
+  date: "08/14/2020"
+  result: "LOSS"
+  description: "TB o5.0, MIA o4.0, KC@MIN o9.0, HOU o5.0, LAD o5.0, OAK o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2361
+  units: 0.3
+  date: "08/14/2020"
+  result: "LOSS"
+  description: "TB o5.0, KC@MIN o9.0, HOU o5.0, LAD o5.0, OAK o4.5, MIA o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 300
+  units: 0.3
+  date: "08/15/2020"
+  result: "LOSS"
+  description: "PHI o5.0, ATL o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -116
+  units: 0.3
+  date: "08/15/2020"
+  result: "WIN"
+  description: "TB @ TOR o11, BOS@NYY o9.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 262
+  units: 0.3
+  date: "08/15/2020"
+  result: "LOSS"
+  description: "HOUo5.5, LADo5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 5023
+  units: 0.1
+  date: "08/15/2020"
+  result: "LOSS"
+  description: "PHI o5.0, ATL o5.0, BOS@NYY o9.0, LAD o5.0, TB@TOR o11.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 253
+  units: 0.3
+  date: "08/17/2020"
+  result: "WIN"
+  description: "CWS o5.0, LAD o6.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 240
+  units: 0.3
+  date: "08/17/2020"
+  result: "LOSS"
+  description: "MIN o5.5, TOR o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 262
+  units: 0.3
+  date: "08/17/2020"
+  result: "WIN"
+  description: "ATL o5.5, LAA o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 261
+  units: 0.3
+  date: "08/18/2020"
+  result: "WIN"
+  description: "PHI o5.5, WAS o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 275
+  units: 0.3
+  date: "08/18/2020"
+  result: "LOSS"
+  description: "CWS o5.0, LAD o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 320
+  units: 0.3
+  date: "08/18/2020"
+  result: "LOSS"
+  description: "NYM o5.5, OAK o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4897
+  units: 0.1
+  date: "08/18/2020"
+  result: "LOSS"
+  description: "OAK o5.0, NYM o5.0, LAD o5.5, WAS o4.5, PHI o5.5, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4897
+  units: 0.2
+  date: "08/18/2020"
+  result: "LOSS"
+  description: "NYM o5.0, LAD o5.5, WAS o4.5, PHI o5.5, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4897
+  units: 0.2
+  date: "08/18/2020"
+  result: "LOSS"
+  description: "LAD o5.5, WAS o4.5, PHI o5.5, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 242
+  units: 0.3
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "WAS o4.5, MIN o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 290
+  units: 0.3
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "PHI o6.0, TOR o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 251
+  units: 0.3
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "LAD o5.5, LAA o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4464
+  units: 0.1
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "PHI o6.0, TOR o4.5, WAS o4.5, MIN o5.0, LAD o5.5, LAA o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4464
+  units: 0.1
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "PHI o6.0, TOR o4.5, WAS o4.5, MIN o5.0, LAD o5.5, LAA o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4464
+  units: 0.1
+  date: "08/19/2020"
+  result: "LOSS"
+  description: "PHI o6.0, TOR o4.5, WAS o4.5, MIN o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 229
+  units: 0.3
+  date: "08/20/2020"
+  result: "LOSS"
+  description: "BAL o4.0, SD o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 253
+  units: 0.3
+  date: "08/20/2020"
+  result: "WIN"
+  description: "TB o4.0, CWS o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 253
+  units: 0.3
+  date: "08/20/2020"
+  result: "WIN"
+  description: "OAK o4.5, BOS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2234
+  units: 0.1
+  date: "08/20/2020"
+  result: "WIN"
+  description: "TB o4.0, CWS o4.5, SD o4.5, OAK o4.5, BOS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 280
+  units: 0.3
+  date: "08/21/2020"
+  result: "WIN"
+  description: "BOS o5.0, SF o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 290
+  units: 0.3
+  date: "08/21/2020"
+  result: "LOSS"
+  description: "LAA o5.0, LAD o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 266
+  units: 0.3
+  date: "08/21/2020"
+  result: "LOSS"
+  description: "CLE o5.0, PHI o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 68626
+  units: 0.1
+  date: "08/21/2020"
+  result: "LOSS"
+  description: "CLE o5.0, PHI o4.0, BOS o5.0, MIN o4.5, CWS o4.5, HOU o4.0, LAD o5.5, LAA o5.0, SF o4.5, SEA o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -105
+  units: 0.3
+  date: "08/24/2020"
+  result: "WIN"
+  description: "HOU o5.0, ARI o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 280
+  units: 0.3
+  date: "08/24/2020"
+  result: "LOSS"
+  description: "HOU o5.0, CIN o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 260
+  units: 0.3
+  date: "08/24/2020"
+  result: "LOSS"
+  description: "TB o5.0, MIA o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2753
+  units: 0.1
+  date: "08/24/2020"
+  result: "LOSS"
+  description: "TB o5.0, MIA o4.0, CIN o4.5, HOU o5.0, ARI o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 240
+  units: 0.3
+  date: "08/25/2020"
+  result: "LOSS"
+  description: "OAK o4.5, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 290
+  units: 0.3
+  date: "08/25/2020"
+  result: "LOSS"
+  description: "STL o5.5, SF o3.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 272
+  units: 0.3
+  date: "08/25/2020"
+  result: "LOSS"
+  description: "HOU o4.0, TOR o6.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4838
+  units: 0.1
+  date: "08/25/2020"
+  result: "LOSS"
+  description: "HOU o4.0, OAK o4.5, CWS o5.0, CHC o5.0, STL o5.5, SF o3.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 289
+  units: 0.3
+  date: "08/26/2020"
+  result: "LOSS"
+  description: "OAK o5.0, COL o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 242
+  units: 0.3
+  date: "08/26/2020"
+  result: "LOSS"
+  description: "SD o5.0, TB o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 256
+  units: 0.3
+  date: "08/26/2020"
+  result: "WIN"
+  description: "DET o4.5, ARI o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2286
+  units: 0.3
+  date: "08/26/2020"
+  result: "LOSS"
+  description: "TB o4.5, DET o4.5, OAK o4.5, COL o4.5, SD o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 262
+  units: 0.3
+  date: "08/27/2020"
+  result: "PUSH"
+  description: "WAS o5.0, BAL o3.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 247
+  units: 0.3
+  date: "08/27/2020"
+  result: "PUSH"
+  description: "TOR o5.5, OAK o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 256
+  units: 0.3
+  date: "08/27/2020"
+  result: "PUSH"
+  description: "TB o4.5, DET o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2268
+  units: 0.1
+  date: "08/27/2020"
+  result: "PUSH"
+  description: "TOR o5.5, OAK o5.5, TB o4.5, DET o4.0, WAS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 272
+  units: 0.3
+  date: "08/31/2020"
+  result: "WIN"
+  description: "CWS o4.5, ATL o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 272
+  units: 0.5
+  date: "08/31/2020"
+  result: "WIN"
+  description: "CWS o4.5, ATL o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 580
+  units: 0.3
+  date: "08/31/2020"
+  result: "WIN"
+  description: "CWS o4.5, ATL o5.5, TOR o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 1145
+  units: 0.1
+  date: "08/31/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.5, TOR o5.5, SD o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2179
+  units: 0.1
+  date: "08/31/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.5, TOR o5.5, SD o5.5, WASo4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 269
+  units: 0.6
+  date: "09/01/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 586
+  units: 0.3
+  date: "09/01/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.0, CLE o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 1283
+  units: 0.2
+  date: "09/01/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.0, CLE o5.0, HOU o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2576
+  units: 0.1
+  date: "09/01/2020"
+  result: "LOSS"
+  description: "CWS o4.5, ATL o5.0, CLE o5.0, HOU o5.5, LAD o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -105
+  units: 0.5
+  date: "09/02/2020"
+  result: "WIN"
+  description: "SD o5.5, ATL o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -105
+  units: 0.3
+  date: "09/02/2020"
+  result: "WIN"
+  description: "SD o5.5, ATL o5.5, CLE o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 260
+  units: 0.2
+  date: "09/02/2020"
+  result: "WIN"
+  description: "SD o5.5, ATL o5.5, CLE o5.0, MIN o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2422
+  units: 0.1
+  date: "09/02/2020"
+  result: "LOSS"
+  description: "SD o5.5, ATL o5.5, CLE o5.0, MIN o5.0, HOU o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 4634
+  units: 0.1
+  date: "09/02/2020"
+  result: "LOSS"
+  description: "SD o5.5, ATL o5.5, CLE o5.0, MIN o5.0, HOU o5.0, SF o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: -105
+  units: 0.6
+  date: "09/03/2020"
+  result: "WIN"
+  description: "PHI o5.5, LAD o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 280
+  units: 0.3
+  date: "09/03/2020"
+  result: "WIN"
+  description: "PHI o5.5, LAD o5.0, TOR o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 660
+  units: 0.2
+  date: "09/03/2020"
+  result: "WIN"
+  description: "PHI o5.5, LAD o5.0, TOR o5.5, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2544
+  units: 0.1
+  date: "09/03/2020"
+  result: "LOSS"
+  description: "PHI o5.5, LAD o5.0, TOR o5.5, CWS o5.0, SD o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 300
+  units: 0.8
+  date: "09/04/2020"
+  result: "LOSS"
+  description: "LAD o5.5, NYM o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 680
+  units: 0.4
+  date: "09/04/2020"
+  result: "LOSS"
+  description: "LAD o5.5, NYM o5.0, CWS o5.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 1460
+  units: 0.3
+  date: "09/04/2020"
+  result: "LOSS"
+  description: "LAD o5.5, NYM o5.0, CWS o5.0, SEA o4.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2942
+  units: 0.2
+  date: "09/04/2020"
+  result: "LOSS"
+  description: "LAD o5.5, NYM o5.0, CWS o5.0, SEA o4.5, SD o3.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 5679
+  units: 0.2
+  date: "09/04/2020"
+  result: "LOSS"
+  description: "LAD o5.5, NYM o5.0, CWS o5.0, SEA o4.5, SD o3.5, LAA o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 352
+  units: 0.6
+  date: "09/10/2020"
+  result: "LOSS"
+  description: "SD o5.0, LAA o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 642
+  units: 0.3
+  date: "09/10/2020"
+  result: "LOSS"
+  description: "SD o5.0, LAA o5.5, MIA o4.0"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 1205
+  units: 0.2
+  date: "09/10/2020"
+  result: "LOSS"
+  description: "SD o5.0, LAA o5.5, MIA o4.0, TB o5.5"
+
+- sport: "MLB"
+  type: "PARLAY"
+  line: 2446
+  units: 0.1
+  date: "09/10/2020"
+  result: "LOSS"
+  description: "SD o5.0, LAA o5.5, MIA o4.0, TB o5.5, CLE o4.5"
