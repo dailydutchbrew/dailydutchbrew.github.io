@@ -2,7 +2,24 @@
 win: 17
 loss: 14
 push: 0
-pending: 5
-total_units: 37.5
-net_units: 14.47
-bank: -10.0
+pending: 9
+total_units: 39.5
+account_units: 22.47
+pending_units: 17.0
+bank: -25.0
+futures:
+- sport: NBA
+  units: 3.0
+  description: PHX o 38.5 wins
+- sport: NBA
+  units: 3.0
+  description: HOU u 35.5 wins
+- sport: NBA
+  units: 3.0
+  description: TOR o 42.5 wins
+- sport: NBA
+  units: 3.0
+  description: WAS o 33.5 wins
+- sport: NBA
+  units: 3.0
+  description: GSW o 37.5 wins

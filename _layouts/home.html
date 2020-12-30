@@ -45,9 +45,15 @@ layout: default
 
   <h2>Record:</h2>
   <h3>Overall: {{ site.data.totals.win }} - {{ site.data.totals.loss }} - {{ site.data.totals.push }}</h3>
-  <h3>Units: {{ site.data.totals.net_units }} units</h3>
+  <h3>Units: {{ site.data.totals.account_units }} units ({{ site.data.totals.pending_units }} pending)</h3>
   <h3>Bank: {{ site.data.totals.bank }} units</h3>
-  {{ content }}
+
+  <h2>Futures:</h2>
+  {%- for future in site.data.totals.futures -%}
+  <p>
+    {{ future.sport }} - {{ future.description }} - {{ future.units }} units
+  </p>
+  {%- endfor -%}
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}

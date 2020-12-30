@@ -1,5 +1,5 @@
 - type: "BANK"
-  units: -10.0
+  units: -25.0
 
 - sport: "NBA"
   type: "F"
@@ -37,7 +37,7 @@
   type: "F"
   line: -111
   units: 3.0
-  description: "WAS o 37.5 wins"
+  description: "GSW o 37.5 wins"
   result: "PENDING"
   date: "12/21/2020"
 
