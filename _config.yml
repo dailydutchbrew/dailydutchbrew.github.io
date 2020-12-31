@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Daily Dutchbrew Podcast
-email: dailydutchbrew@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website for The Daily Dutchbrew Podcast. My thoughts and bets on sports.
 baseurl: "" # the subpath of your site, e.g. /blog
