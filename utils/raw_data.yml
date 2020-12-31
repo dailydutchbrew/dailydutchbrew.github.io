@@ -294,7 +294,7 @@
   line: -110
   units: 0.5
   description: "MIL -5.0 @ MIA"
-  result: "PENDING"
+  result: "LOSS"
   date: "12/30/2020"
 
 - sport: "NBA"
@@ -302,15 +302,15 @@
   line: -115
   units: 0.5
   description: "MEM @ BOS -6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "12/30/2020"
 
 - sport: "NBA"
   type: "PS"
   line: -110
   units: 0.5
-  description: "LAL -6.0 @ SAS"
-  result: "PENDING"
+  description: "LAL -5.0 @ SAS"
+  result: "WIN"
   date: "12/30/2020"
 
 - sport: "NBA"
@@ -318,5 +318,53 @@
   line: -110
   units: 0.5
   description: "POR +3.5 @ LAC"
-  result: "PENDING"
+  result: "LOSS"
   date: "12/30/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -154
+  units: 0.5
+  description: "Malcolm Brogdon o 1.5 3's"
+  result: "PENDING"
+  date: "12/31/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "James Harden o 4.5 3's"
+  result: "PENDING"
+  date: "12/31/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -154
+  units: 0.5
+  description: "Lonzo Ball o 1.5 3's"
+  result: "PENDING"
+  date: "12/31/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Lu Dort o 1.5 3's"
+  result: "PENDING"
+  date: "12/31/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "PHI -2.5 @ ORL"
+  result: "PENDING"
+  date: "12/31/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: +175
+  units: 0.5
+  description: "SAC @ ORL o239"
+  result: "PENDING"
+  date: "12/31/2020"
