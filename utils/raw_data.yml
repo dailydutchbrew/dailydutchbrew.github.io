@@ -326,7 +326,7 @@
   line: -154
   units: 0.5
   description: "Malcolm Brogdon o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "12/31/2020"
 
 - sport: "NBA"
@@ -334,7 +334,7 @@
   line: +100
   units: 0.5
   description: "James Harden o 4.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "12/31/2020"
 
 - sport: "NBA"
@@ -342,7 +342,7 @@
   line: -154
   units: 0.5
   description: "Lonzo Ball o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "12/31/2020"
 
 - sport: "NBA"
@@ -350,7 +350,7 @@
   line: -143
   units: 0.5
   description: "Lu Dort o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "12/31/2020"
 
 - sport: "NBA"
@@ -358,13 +358,29 @@
   line: -110
   units: 0.5
   description: "PHI -2.5 @ ORL"
-  result: "PENDING"
+  result: "WIN"
   date: "12/31/2020"
 
 - sport: "NBA"
   type: "OU"
   line: +175
   units: 0.5
-  description: "SAC @ ORL o239"
-  result: "PENDING"
+  description: "SAC @ HOU o239"
+  result: "WIN"
   date: "12/31/2020"
+
+- sport: "NHL"
+  type: "F"
+  line: +300
+  units: 2.0
+  description: "CGY or WPG to win the North Division"
+  result: "PENDING"
+  date: "01/01/2021"
+
+- sport: "NHL"
+  type: "F"
+  line: +600
+  units: 1.0
+  description: "WAS to win the East Division"
+  result: "PENDING"
+  date: "01/01/2021"

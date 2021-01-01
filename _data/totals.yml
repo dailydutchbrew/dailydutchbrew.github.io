@@ -1,10 +1,10 @@
 ---
-win: 19
-loss: 16
+win: 24
+loss: 17
 push: 0
-pending: 11
-total_units: 42.5
-account_units: 22.36
+pending: 7
+total_units: 45.5
+account_units: 26.69
 pending_units: 18.0
 bank: -25.0
 futures:
@@ -23,3 +23,9 @@ futures:
 - sport: NBA
   units: 3.0
   description: GSW o 37.5 wins
+- sport: NHL
+  units: 2.0
+  description: CGY or WPG to win the North Division
+- sport: NHL
+  units: 1.0
+  description: WAS to win the East Division
