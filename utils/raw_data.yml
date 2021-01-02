@@ -384,3 +384,51 @@
   description: "WAS to win the East Division"
   result: "PENDING"
   date: "01/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "James Harden o 4.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "John Wall o 1.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -154
+  units: 0.5
+  description: "Reggie Bullock o 1.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "Lu Dort o 1.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "Kyle Lowry o 2.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Fred Van Vleet o 2.5 3's"
+  result: "PENDING"
+  date: "01/02/2020"
