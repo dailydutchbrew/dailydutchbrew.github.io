@@ -8,6 +8,7 @@ WIN = 'WIN'
 LOSS = 'LOSS'
 PUSH = 'PUSH'
 PENDING = 'PENDING'
+VOID = 'VOID'
 BANK = 'BANK'
 FUTURE = 'F'
 
@@ -15,6 +16,7 @@ win = 0
 loss = 0
 push = 0
 pending = 0
+void = 0
 pending_units = 0
 total_units = 0
 account_units = 0
@@ -55,6 +57,9 @@ bets.each do |bet|
     pending += 1
     account_units -= units
     pending_units += units
+  when VOID
+    void += 1
+    account_units += units
   end
 
   total_units += units
@@ -73,6 +78,7 @@ totals = {
   'loss' => loss,
   'push' => push,
   'pending' => pending,
+  'void' => void,
   'total_units' => total_units,
   'account_units' => account_units.round(2),
   'pending_units' => pending_units,

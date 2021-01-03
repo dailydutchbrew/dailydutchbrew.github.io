@@ -1,10 +1,11 @@
 ---
-win: 24
-loss: 17
+win: 28
+loss: 18
 push: 0
 pending: 13
-total_units: 48.5
-account_units: 23.69
+void: 1
+total_units: 51.5
+account_units: 27.19
 pending_units: 21.0
 bank: -25.0
 futures:

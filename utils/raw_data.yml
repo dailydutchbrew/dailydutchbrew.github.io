@@ -390,7 +390,7 @@
   line: +100
   units: 0.5
   description: "James Harden o 4.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "01/02/2020"
 
 - sport: "NBA"
@@ -398,7 +398,7 @@
   line: -143
   units: 0.5
   description: "John Wall o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/02/2020"
 
 - sport: "NBA"
@@ -406,7 +406,7 @@
   line: -154
   units: 0.5
   description: "Reggie Bullock o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/02/2020"
 
 - sport: "NBA"
@@ -414,7 +414,7 @@
   line: -167
   units: 0.5
   description: "Lu Dort o 1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/02/2020"
 
 - sport: "NBA"
@@ -422,7 +422,7 @@
   line: -105
   units: 0.5
   description: "Kyle Lowry o 2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/02/2020"
 
 - sport: "NBA"
@@ -430,5 +430,53 @@
   line: -143
   units: 0.5
   description: "Fred Van Vleet o 2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/02/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "Joe Harris o 2.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "Kevin Durant o 2.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.5
+  description: "Kyrie Irving o 3.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "CJ McCollum o 3.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +108
+  units: 0.5
+  description: "Damian Lillard o 4.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +102
+  units: 0.5
+  description: "Steph Curryo 4.5 3's"
+  result: "PENDING"
+  date: "01/03/2020"
