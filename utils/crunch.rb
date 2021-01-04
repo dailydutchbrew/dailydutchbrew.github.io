@@ -65,6 +65,7 @@ bets.each do |bet|
   total_units += units
 
   if bet['type'] == FUTURE && result == PENDING
+    account_units -= units
     futures << {
       'sport' => bet['sport'],
       'units' => units,
