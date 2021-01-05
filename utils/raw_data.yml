@@ -486,7 +486,7 @@
   line: -167
   units: 1
   description: "Malcolm Brogdon o 1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/04/2020"
 
 - sport: "NBA"
@@ -494,7 +494,7 @@
   line: -114
   units: 1
   description: "Kyle Lowry o 2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/04/2020"
 
 - sport: "NBA"
@@ -502,5 +502,29 @@
   line: -115
   units: 1
   description: "MIL @ DET o 224"
-  result: "PENDING"
+  result: "WIN"
   date: "01/04/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +116
+  units: 0.5
+  description: "CJ McCollum o 3.5 3's"
+  result: "PENDING"
+  date: "01/05/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +108
+  units: 0.5
+  description: "Damian Lillard o 4.5 3's"
+  result: "PENDING"
+  date: "01/05/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.5
+  description: "Lillard o 3.5, McCollum o 2.5 3's"
+  result: "PENDING"
+  date: "01/05/2020"
