@@ -510,7 +510,7 @@
   line: +116
   units: 0.5
   description: "CJ McCollum o 3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/05/2020"
 
 - sport: "NBA"
@@ -518,7 +518,7 @@
   line: +108
   units: 0.5
   description: "Damian Lillard o 4.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/05/2020"
 
 - sport: "NBA"
@@ -526,5 +526,69 @@
   line: +122
   units: 0.5
   description: "Lillard o 3.5, McCollum o 2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/05/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "Brogdon o 2.5 3's"
+  result: "WIN"
+  date: "01/06/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "Harden o 4.5 3's"
+  result: "LOSS"
+  date: "01/06/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "DiVicenzo o 1.5 3's"
+  result: "LOSS"
+  date: "01/06/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "HOU @ IND o225"
+  result: "LOSS"
+  date: "01/06/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "Doncic o2.5 3's"
+  result: "PENDING"
+  date: "01/07/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "McCollum o3.5 3's"
+  result: "PENDING"
+  date: "01/07/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +131
+  units: 0.5
+  description: "Lillard o4.5 3's"
+  result: "PENDING"
+  date: "01/07/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "SA @ LAL u 224.5"
+  result: "PENDING"
+  date: "01/07/2020"

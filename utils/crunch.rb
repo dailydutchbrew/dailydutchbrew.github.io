@@ -79,6 +79,7 @@ totals = {
   'loss' => loss,
   'push' => push,
   'pending' => pending,
+  'win_pct' => (win / (win + loss).to_f).round(3),
   'void' => void,
   'total_units' => total_units,
   'account_units' => account_units.round(2),

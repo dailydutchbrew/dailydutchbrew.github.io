@@ -1,12 +1,13 @@
 ---
-win: 33
-loss: 22
+win: 35
+loss: 27
 push: 0
-pending: 10
+pending: 11
+win_pct: 0.565
 void: 1
-total_units: 56.0
-account_units: 14.77
-pending_units: 19.5
+total_units: 60.0
+account_units: 13.85
+pending_units: 20.0
 bank: -25.0
 futures:
 - sport: NBA
