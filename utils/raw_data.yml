@@ -566,7 +566,7 @@
   line: -130
   units: 0.5
   description: "Doncic o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/07/2020"
 
 - sport: "NBA"
@@ -574,7 +574,7 @@
   line: +124
   units: 0.5
   description: "McCollum o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/07/2020"
 
 - sport: "NBA"
@@ -582,7 +582,7 @@
   line: +131
   units: 0.5
   description: "Lillard o4.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/07/2020"
 
 - sport: "NBA"
@@ -590,5 +590,29 @@
   line: -110
   units: 0.5
   description: "SA @ LAL u 224.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/07/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +125
+  units: 0.5
+  description: "Lonzo Ball o2.5 3's"
+  result: "PENDING"
+  date: "01/08/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Gordon Hayward o1.5 3's"
+  result: "PENDING"
+  date: "01/08/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "M. Bridges o1.5 3's"
+  result: "PENDING"
+  date: "01/08/2020"
