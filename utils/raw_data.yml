@@ -598,7 +598,7 @@
   line: +125
   units: 0.5
   description: "Lonzo Ball o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/08/2020"
 
 - sport: "NBA"
@@ -606,7 +606,7 @@
   line: -143
   units: 0.5
   description: "Gordon Hayward o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/08/2020"
 
 - sport: "NBA"
@@ -614,5 +614,101 @@
   line: -156
   units: 0.5
   description: "M. Bridges o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/08/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "D. Lillard o4.5 3's"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "CJ McCollum o3.5 3's"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "BUF -1, IND @ BUF o 45.5"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "LAR +9.5, LAR @ SEA u 48"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "WAS +15, u 51"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TB @ WAS u 44.5"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "PS"
+  line: +105
+  units: 0.5
+  description: "BAL @ TEN +3.0"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "TEN +9, BAL @ TEN o48.5"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "PIT +0, NO -4.05"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "CFB"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "OSU @ ALA -7.0"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NHL"
+  type: "F"
+  line: -135
+  units: 2.0
+  description: "OTT o 45.5 points"
+  result: "PENDING"
+  date: "01/09/2020"
+
+- sport: "NHL"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "WPG o 60.5 points"
+  result: "PENDING"
+  date: "01/09/2020"

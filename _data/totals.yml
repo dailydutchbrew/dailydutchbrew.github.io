@@ -1,13 +1,13 @@
 ---
-win: 37
-loss: 29
+win: 38
+loss: 31
 push: 0
-pending: 10
-win_pct: 0.561
+pending: 19
+win_pct: 0.551
 void: 1
-total_units: 61.5
-account_units: 15.62
-pending_units: 19.5
+total_units: 71.5
+account_units: 1.97
+pending_units: 28.0
 bank: -25.0
 futures:
 - sport: NBA
@@ -31,3 +31,9 @@ futures:
 - sport: NHL
   units: 1.0
   description: WAS to win the East Division
+- sport: NHL
+  units: 2.0
+  description: OTT o 45.5 points
+- sport: NHL
+  units: 3.0
+  description: WPG o 60.5 points
