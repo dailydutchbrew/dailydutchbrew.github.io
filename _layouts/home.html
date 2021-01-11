@@ -44,14 +44,20 @@ layout: default
   {%- endif -%}
 
   <h2>Record:</h2>
-  <h3>Overall: {{ site.data.totals.win }} - {{ site.data.totals.loss }} - {{ site.data.totals.push }}</h3>
+  <h3>Overall: {{ site.data.totals.win }} - {{ site.data.totals.loss }} - {{ site.data.totals.push }} ({{ site.data.totals.win_pct }})</h3>
   <h3>Units: {{ site.data.totals.account_units }} units ({{ site.data.totals.pending_units }} pending)</h3>
   <h3>Bank: {{ site.data.totals.bank }} units</h3>
 
+  <h2>Pending:</h2>
+  {%- for pending in site.data.totals.non_future_pending -%}
+  <p>
+  {{ pending.sport }} - {{ pending.description }} - {{ pending.units }} units ({{ pending.line }})
+  </p>
+  {%- endfor -%}
   <h2>Futures:</h2>
   {%- for future in site.data.totals.futures -%}
   <p>
-    {{ future.sport }} - {{ future.description }} - {{ future.units }} units
+  {{ future.sport }} - {{ future.description }} - {{ future.units }} units ({{ future.line }})
   </p>
   {%- endfor -%}
 

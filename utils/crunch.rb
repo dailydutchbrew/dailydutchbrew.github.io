@@ -22,6 +22,7 @@ total_units = 0
 account_units = 0
 bank = 0
 futures = []
+non_future_pending = []
 
 def calculate_american_odds_payout(units, odds)
   if odds.positive?
@@ -43,10 +44,11 @@ bets.each do |bet|
   line = bet['line']
   result = bet['result']
   potential_payout = calculate_american_odds_payout(units, line)
+
   case result
   when WIN
     win += 1
-    account_units += potential_payout
+    account_units += (potential_payout - units)
   when LOSS
     loss += 1
     account_units -= units
@@ -57,21 +59,23 @@ bets.each do |bet|
     pending += 1
     account_units -= units
     pending_units += units
+
+    payload = {
+      'sport' => bet['sport'],
+      'units' => units,
+      'description' => bet['description'],
+      'line' => "%+d" % bet['line']
+    }
+    if bet['type'] == FUTURE
+      futures << payload
+    else
+      non_future_pending << payload
+    end
   when VOID
     void += 1
     account_units += units
   end
-
   total_units += units
-
-  if bet['type'] == FUTURE && result == PENDING
-    account_units -= units
-    futures << {
-      'sport' => bet['sport'],
-      'units' => units,
-      'description' => bet['description']
-    }
-  end
 end
 
 totals = {
@@ -85,7 +89,8 @@ totals = {
   'account_units' => account_units.round(2),
   'pending_units' => pending_units,
   'bank' => bank,
-  'futures' => futures
+  'futures' => futures,
+  'non_future_pending' => non_future_pending
 }
 
 puts totals.inspect

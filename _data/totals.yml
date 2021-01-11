@@ -1,39 +1,77 @@
 ---
-win: 38
-loss: 31
+win: 40
+loss: 40
 push: 0
-pending: 19
-win_pct: 0.551
+pending: 16
+win_pct: 0.5
 void: 1
-total_units: 71.5
-account_units: 1.97
-pending_units: 28.0
-bank: -25.0
+total_units: 82.5
+account_units: 1.65
+pending_units: 33.5
+bank: -35.0
 futures:
 - sport: NBA
   units: 3.0
   description: PHX o 38.5 wins
+  line: "-125"
 - sport: NBA
   units: 3.0
   description: HOU u 35.5 wins
+  line: "-125"
 - sport: NBA
   units: 3.0
   description: TOR o 42.5 wins
+  line: "-120"
 - sport: NBA
   units: 3.0
   description: WAS o 33.5 wins
+  line: "-120"
 - sport: NBA
   units: 3.0
   description: GSW o 37.5 wins
+  line: "-111"
 - sport: NHL
-  units: 2.0
-  description: CGY or WPG to win the North Division
-- sport: NHL
-  units: 1.0
-  description: WAS to win the East Division
-- sport: NHL
-  units: 2.0
+  units: 3.0
   description: OTT o 45.5 points
+  line: "-135"
 - sport: NHL
   units: 3.0
   description: WPG o 60.5 points
+  line: "-115"
+- sport: NHL
+  units: 3.0
+  description: TB o 70.5 points
+  line: "-115"
+- sport: NHL
+  units: 3.0
+  description: PIT o 63.5 points
+  line: "-115"
+- sport: NHL
+  units: 1.0
+  description: CGY to win the North Division
+  line: "+700"
+- sport: NHL
+  units: 1.0
+  description: MTL to win the North Division
+  line: "+600"
+- sport: NHL
+  units: 1.0
+  description: WAS to win the East Division
+  line: "+600"
+- sport: NHL
+  units: 2.0
+  description: COL to win the West Division
+  line: "+600"
+non_future_pending:
+- sport: CFB
+  units: 0.5
+  description: OSU @ ALA -7.0
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: Lillard o4.5 3's
+  line: "+110"
+- sport: NBA
+  units: 0.5
+  description: McCollum o3.5 3's
+  line: "-115"
