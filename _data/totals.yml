@@ -1,13 +1,13 @@
 ---
-win: 40
-loss: 40
+win: 42
+loss: 41
 push: 0
-pending: 16
-win_pct: 0.5
+pending: 17
+win_pct: 0.506
 void: 1
-total_units: 82.5
-account_units: 1.65
-pending_units: 33.5
+total_units: 86.0
+account_units: -0.03
+pending_units: 35.5
 bank: -35.0
 futures:
 - sport: NBA
@@ -61,17 +61,21 @@ futures:
 - sport: NHL
   units: 2.0
   description: COL to win the West Division
-  line: "+600"
+  line: "+175"
 non_future_pending:
-- sport: CFB
-  units: 0.5
-  description: OSU @ ALA -7.0
-  line: "-130"
+- sport: NBA
+  units: 1
+  description: Caris LeVert o1.5 3's
+  line: "-143"
+- sport: NBA
+  units: 1
+  description: Royce O'Neale o1.5 3's
+  line: "-112"
+- sport: NBA
+  units: 1
+  description: Shai Gilgeous-Alexander o2.5 3's
+  line: "+143"
 - sport: NBA
   units: 0.5
-  description: Lillard o4.5 3's
-  line: "+110"
-- sport: NBA
-  units: 0.5
-  description: McCollum o3.5 3's
-  line: "-115"
+  description: LeVert o1.5, O'Neale o1.5, Gilgeous-Alexander o2.5 3's
+  line: "+690"

@@ -678,7 +678,7 @@
   line: -130
   units: 0.5
   description: "OSU @ ALA -7.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/09/2020"
 
 - sport: "NHL"
@@ -758,7 +758,7 @@
 
 - sport: "NHL"
   type: "F"
-  line: +600
+  line: +175
   units: 2.0
   description: "COL to win the West Division"
   result: "PENDING"
@@ -769,13 +769,45 @@
   line: +110
   units: 0.5
   description: "Lillard o4.5 3's"
-  result: "PENDING"
-  date: "01/10/2020"
+  result: "LOSS"
+  date: "01/11/2020"
 
 - sport: "NBA"
   type: "P"
   line: -115
   units: 0.5
   description: "McCollum o3.5 3's"
+  result: "WIN"
+  date: "01/11/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 1
+  description: "Caris LeVert o1.5 3's"
   result: "PENDING"
-  date: "01/10/2020"
+  date: "01/12/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -112
+  units: 1
+  description: "Royce O'Neale o1.5 3's"
+  result: "PENDING"
+  date: "01/12/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +143
+  units: 1
+  description: "Shai Gilgeous-Alexander o2.5 3's"
+  result: "PENDING"
+  date: "01/12/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +690
+  units: 0.5
+  description: "LeVert o1.5, O'Neale o1.5, Gilgeous-Alexander o2.5 3's"
+  result: "PENDING"
+  date: "01/12/2020"
