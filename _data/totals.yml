@@ -1,13 +1,13 @@
 ---
-win: 42
-loss: 41
+win: 43
+loss: 44
 push: 0
-pending: 17
-win_pct: 0.506
+pending: 18
+win_pct: 0.494
 void: 1
-total_units: 86.0
+total_units: 97.7
 account_units: -0.03
-pending_units: 35.5
+pending_units: 43.7
 bank: -35.0
 futures:
 - sport: NBA
@@ -64,18 +64,23 @@ futures:
   line: "+175"
 non_future_pending:
 - sport: NBA
-  units: 1
-  description: Caris LeVert o1.5 3's
-  line: "-143"
-- sport: NBA
-  units: 1
-  description: Royce O'Neale o1.5 3's
-  line: "-112"
-- sport: NBA
-  units: 1
-  description: Shai Gilgeous-Alexander o2.5 3's
-  line: "+143"
+  units: 0.5
+  description: CJ McCollum o3.5 3's
+  line: "-108"
 - sport: NBA
   units: 0.5
-  description: LeVert o1.5, O'Neale o1.5, Gilgeous-Alexander o2.5 3's
-  line: "+690"
+  description: D Lillard o4.5 3's
+  line: "+112"
+- sport: NBA
+  units: 0.5
+  description: B Hield o3.5 3's
+  line: "-122"
+- sport: NBA
+  units: 0.2
+  description: McCollum o3.5, Lillard o4.5, Hield o3.5 3's
+  line: "+550"
+- sport: NHL
+  units: 10
+  description: 'TUE: PHI o3.0, MON o3.0, TB o4.0, VAN o3.0, COL o3.0, WED: WAS o3.5,
+    BOS o3.5, NYR o3.0, CAR o3.5, CGY o3.0, NSH o3.0, ARI o3.0, VGS o3.5, MIN o3.0'
+  line: "+100"

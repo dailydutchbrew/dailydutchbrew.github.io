@@ -785,7 +785,7 @@
   line: -143
   units: 1
   description: "Caris LeVert o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/12/2020"
 
 - sport: "NBA"
@@ -793,7 +793,7 @@
   line: -112
   units: 1
   description: "Royce O'Neale o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/12/2020"
 
 - sport: "NBA"
@@ -801,7 +801,7 @@
   line: +143
   units: 1
   description: "Shai Gilgeous-Alexander o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/12/2020"
 
 - sport: "NBA"
@@ -809,5 +809,45 @@
   line: +690
   units: 0.5
   description: "LeVert o1.5, O'Neale o1.5, Gilgeous-Alexander o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/12/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "CJ McCollum o3.5 3's"
+  result: "PENDING"
+  date: "01/13/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "D Lillard o4.5 3's"
+  result: "PENDING"
+  date: "01/13/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -122
+  units: 0.5
+  description: "B Hield o3.5 3's"
+  result: "PENDING"
+  date: "01/13/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +550
+  units: 0.2
+  description: "McCollum o3.5, Lillard o4.5, Hield o3.5 3's"
+  result: "PENDING"
+  date: "01/13/2020"
+
+- sport: "NHL"
+  type: "BONUS"
+  line: +100
+  units: 10
+  description: "TUE: PHI o3.0, MON o3.0, TB o4.0, VAN o3.0, COL o3.0, WED: WAS o3.5, BOS o3.5, NYR o3.0, CAR o3.5, CGY o3.0, NSH o3.0, ARI o3.0, VGS o3.5, MIN o3.0"
+  result: "PENDING"
+  date: "01/13/2020"

@@ -11,6 +11,7 @@ PENDING = 'PENDING'
 VOID = 'VOID'
 BANK = 'BANK'
 FUTURE = 'F'
+BONUS = 'BONUS'
 
 win = 0
 loss = 0
@@ -39,6 +40,10 @@ bets.each do |bet|
     bank += units
     account_units -= units
     next
+  end
+
+  if bet['type'] == BONUS
+    account_units += units
   end
 
   line = bet['line']
