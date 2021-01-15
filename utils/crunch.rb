@@ -12,7 +12,11 @@ VOID = 'VOID'
 BANK = 'BANK'
 FUTURE = 'F'
 BONUS = 'BONUS'
+PARLAY = 'PARLAY'
 
+parlay_win = 0
+parlay_loss = 0
+parlay_push = 0
 win = 0
 loss = 0
 push = 0
@@ -36,15 +40,14 @@ end
 bets.each do |bet|
   units = bet['units']
 
-  if bet['type'] == BANK
+  type = bet['type']
+  if type == BANK
     bank += units
     account_units -= units
     next
   end
 
-  if bet['type'] == BONUS
-    account_units += units
-  end
+  # account_units += units if type == BONUS
 
   line = bet['line']
   result = bet['result']
@@ -52,13 +55,25 @@ bets.each do |bet|
 
   case result
   when WIN
-    win += 1
+    if type == PARLAY
+      parlay_win += 1
+    else
+      win += 1
+    end
     account_units += (potential_payout - units)
   when LOSS
-    loss += 1
+    if type == PARLAY
+      parlay_loss += 1
+    else
+      loss += 1
+    end
     account_units -= units
   when PUSH
-    push += 1
+    if type == PARLAY
+      parlay_push += 1
+    else
+      push += 1
+    end
     account_units += units
   when PENDING
     pending += 1
@@ -87,6 +102,9 @@ totals = {
   'win' => win,
   'loss' => loss,
   'push' => push,
+  'parlay_win' => parlay_win,
+  'parlay_loss' => parlay_loss,
+  'parlay_push' => parlay_push,
   'pending' => pending,
   'win_pct' => (win / (win + loss).to_f).round(3),
   'void' => void,

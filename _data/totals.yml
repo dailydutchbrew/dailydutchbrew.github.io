@@ -1,14 +1,17 @@
 ---
-win: 47
-loss: 44
+win: 50
+loss: 47
 push: 0
-pending: 24
-win_pct: 0.516
-void: 1
-total_units: 102.00000000000001
-account_units: -0.1
-pending_units: 46.3
-bank: -35.0
+parlay_win: 1
+parlay_loss: 3
+parlay_push: 0
+pending: 17
+win_pct: 0.515
+void: 2
+total_units: 101.65000000000002
+account_units: 2.0
+pending_units: 33.65
+bank: -27.0
 futures:
 - sport: NBA
   units: 3.0
@@ -65,46 +68,17 @@ futures:
 non_future_pending:
 - sport: NBA
   units: 0.5
-  description: CJ McCollum o3.5 3's
-  line: "-145"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o3.5 3's
-  line: "-172"
-- sport: NBA
-  units: 0.5
-  description: R Covington o1.5 3's
-  line: "-141"
-- sport: NBA
-  units: 0.5
-  description: M Brogdon o2.5 3's
+  description: B Hield o3.5 3's
   line: "-135"
 - sport: NBA
+  units: 0.5
+  description: P George o3.5 3's
+  line: "-133"
+- sport: NBA
+  units: 0.5
+  description: N Batum o1.5 3's
+  line: "+106"
+- sport: NBA
   units: 0.15
-  description: McCollum o3.5, Lillard o3.5, Covington o1.5, Brogdon o2.5 3's
-  line: "+650"
-- sport: NHL
-  units: 0.5
-  description: NYR (vs NYI) o2.5 Goals
-  line: "-150"
-- sport: NHL
-  units: 0.5
-  description: VGK (vs ANA) o3.5 Goals
-  line: "-110"
-- sport: NHL
-  units: 0.5
-  description: CAR (vs DET) o3.5 Goals
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: WAS (vs BUF) o3.5 Goals
-  line: "+115"
-- sport: NHL
-  units: 0.15
-  description: WAS o3.5, NYR o2.5, CAR o3.5, ANA o3.5 Goals
-  line: "+1154"
-- sport: NHL
-  units: 10
-  description: 'TUE: PHI o3.0, MON o3.0, TB o4.0, VAN o3.0, COL o3.0, WED: WAS o3.5,
-    BOS o3.5, NYR o3.0, CAR o3.5, CGY o3.0, NSH o3.0, ARI o3.0, VGS o3.5, MIN o3.0'
-  line: "+100"
+  description: Hield o3.5, George o3.5, Batum o1.5 3's
+  line: "+470"

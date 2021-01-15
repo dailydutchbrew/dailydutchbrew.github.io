@@ -506,7 +506,7 @@
   date: "01/05/2020"
 
 - sport: "NBA"
-  type: "PARLAY"
+  type: "P"
   line: +122
   units: 0.5
   description: "Lillard o 3.5, McCollum o 2.5 3's"
@@ -849,7 +849,7 @@
   line: -145
   units: 0.5
   description: "CJ McCollum o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/14/2020"
 
 - sport: "NBA"
@@ -857,7 +857,7 @@
   line: -172
   units: 0.5
   description: "D Lillard o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NBA"
@@ -865,7 +865,7 @@
   line: -141
   units: 0.5
   description: "R Covington o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NBA"
@@ -873,7 +873,7 @@
   line: -135
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/14/2020"
 
 - sport: "NBA"
@@ -881,7 +881,7 @@
   line: +650
   units: 0.15
   description: "McCollum o3.5, Lillard o3.5, Covington o1.5, Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NHL"
@@ -889,7 +889,7 @@
   line: -150
   units: 0.5
   description: "NYR (vs NYI) o2.5 Goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NHL"
@@ -897,7 +897,7 @@
   line: -110
   units: 0.5
   description: "VGK (vs ANA) o3.5 Goals"
-  result: "PENDING"
+  result: "WIN"
   date: "01/14/2020"
 
 - sport: "NHL"
@@ -905,7 +905,7 @@
   line: -120
   units: 0.5
   description: "CAR (vs DET) o3.5 Goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NHL"
@@ -913,7 +913,7 @@
   line: +115
   units: 0.5
   description: "WAS (vs BUF) o3.5 Goals"
-  result: "PENDING"
+  result: "WIN"
   date: "01/14/2020"
 
 - sport: "NHL"
@@ -921,13 +921,49 @@
   line: +1154
   units: 0.15
   description: "WAS o3.5, NYR o2.5, CAR o3.5, ANA o3.5 Goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/14/2020"
 
 - sport: "NHL"
   type: "BONUS"
   line: +100
-  units: 10
+  units: 8
   description: "TUE: PHI o3.0, MON o3.0, TB o4.0, VAN o3.0, COL o3.0, WED: WAS o3.5, BOS o3.5, NYR o3.0, CAR o3.5, CGY o3.0, NSH o3.0, ARI o3.0, VGS o3.5, MIN o3.0"
-  result: "PENDING"
+  note: "won 81.17 with a 100 token"
+  result: "VOID"
   date: "01/14/2020"
+
+- type: "BANK"
+  units: +8.0
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "B Hield o3.5 3's"
+  result: "PENDING"
+  date: "01/15/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -133
+  units: 0.5
+  description: "P George o3.5 3's"
+  result: "PENDING"
+  date: "01/15/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 0.5
+  description: "N Batum o1.5 3's"
+  result: "PENDING"
+  date: "01/15/2020"
+
+- sport: "NBA"
+  type: "PARLAY"
+  line: +470
+  units: 0.15
+  description: "Hield o3.5, George o3.5, Batum o1.5 3's"
+  result: "PENDING"
+  date: "01/15/2020"
