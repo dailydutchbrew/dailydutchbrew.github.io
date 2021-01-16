@@ -941,7 +941,7 @@
   line: -135
   units: 0.5
   description: "B Hield o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/15/2020"
 
 - sport: "NBA"
@@ -949,7 +949,7 @@
   line: -133
   units: 0.5
   description: "P George o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/15/2020"
 
 - sport: "NBA"
@@ -957,7 +957,7 @@
   line: +106
   units: 0.5
   description: "N Batum o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/15/2020"
 
 - sport: "NBA"
@@ -965,5 +965,45 @@
   line: +470
   units: 0.15
   description: "Hield o3.5, George o3.5, Batum o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/15/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: +105
+  units: 0.5
+  description: "VGK + CAR wins"
+  result: "PENDING"
+  date: "01/16/2020"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +677
+  units: 0.5
+  description: "VGK + CAR + MON + NYR wins"
+  result: "PENDING"
+  date: "01/16/2020"
+
+- sport: "NFL"
+  type: "ML"
+  line: +125
+  units: 1.0
+  description: "BAL win"
+  result: "PENDING"
+  date: "01/16/2020"
+
+- sport: "NFL"
+  type: "BETBACK"
+  line: +771
+  units: 0.5
+  description: "KC + GB + BAL + TB win"
+  result: "PENDING"
+  date: "01/16/2020"
+
+- sport: "UFC"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "Max Holloway"
+  result: "PENDING"
+  date: "01/16/2020"

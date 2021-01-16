@@ -1,16 +1,19 @@
 ---
-win: 50
-loss: 47
+win: 51
+loss: 49
 push: 0
 parlay_win: 1
-parlay_loss: 3
+parlay_loss: 4
 parlay_push: 0
-pending: 17
-win_pct: 0.515
+betback_win: 0
+betback_loss: 0
+betback_push: 0
+pending: 18
+win_pct: 0.51
 void: 2
-total_units: 101.65000000000002
-account_units: 2.0
-pending_units: 33.65
+total_units: 104.65000000000002
+account_units: -0.13
+pending_units: 35.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -66,19 +69,23 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NBA
+- sport: NHL
   units: 0.5
-  description: B Hield o3.5 3's
-  line: "-135"
-- sport: NBA
+  description: VGK + CAR wins
+  line: "+105"
+- sport: NHL
   units: 0.5
-  description: P George o3.5 3's
-  line: "-133"
-- sport: NBA
+  description: VGK + CAR + MON + NYR wins
+  line: "+677"
+- sport: NFL
+  units: 1.0
+  description: BAL win
+  line: "+125"
+- sport: NFL
   units: 0.5
-  description: N Batum o1.5 3's
-  line: "+106"
-- sport: NBA
-  units: 0.15
-  description: Hield o3.5, George o3.5, Batum o1.5 3's
-  line: "+470"
+  description: KC + GB + BAL + TB win
+  line: "+771"
+- sport: UFC
+  units: 0.5
+  description: Max Holloway
+  line: "-165"

@@ -13,7 +13,11 @@ BANK = 'BANK'
 FUTURE = 'F'
 BONUS = 'BONUS'
 PARLAY = 'PARLAY'
+BETBACK = 'BETBACK'
 
+betback_win = 0
+betback_loss = 0
+betback_push = 0
 parlay_win = 0
 parlay_loss = 0
 parlay_push = 0
@@ -57,6 +61,8 @@ bets.each do |bet|
   when WIN
     if type == PARLAY
       parlay_win += 1
+    elsif type == BETBACK
+      betback_win += 1
     else
       win += 1
     end
@@ -64,6 +70,8 @@ bets.each do |bet|
   when LOSS
     if type == PARLAY
       parlay_loss += 1
+    elsif type == BETBACK
+      betback_loss += 1
     else
       loss += 1
     end
@@ -71,6 +79,8 @@ bets.each do |bet|
   when PUSH
     if type == PARLAY
       parlay_push += 1
+    elsif type == BETBACK
+      betback_push += 1
     else
       push += 1
     end
@@ -105,6 +115,9 @@ totals = {
   'parlay_win' => parlay_win,
   'parlay_loss' => parlay_loss,
   'parlay_push' => parlay_push,
+  'betback_win' => betback_win,
+  'betback_loss' => betback_loss,
+  'betback_push' => betback_push,
   'pending' => pending,
   'win_pct' => (win / (win + loss).to_f).round(3),
   'void' => void,
