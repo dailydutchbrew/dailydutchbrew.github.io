@@ -997,7 +997,7 @@
   line: +771
   units: 0.5
   description: "KC + GB + BAL + TB win"
-  result: "PENDING"
+  result: "PUSH"
   date: "01/16/2020"
 
 - sport: "UFC"
@@ -1013,7 +1013,7 @@
   line: -115
   units: 1.0
   description: "WAS @ PIT o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/17/2020"
 
 - sport: "NHL"
@@ -1021,7 +1021,7 @@
   line: -130
   units: 1.0
   description: "CHI @ FLA o6.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/17/2020"
 
 - sport: "NHL"
@@ -1029,7 +1029,7 @@
   line: +242
   units: 1.0
   description: "WAS o3.0, CHI o3.0 goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/17/2020"
 
 - sport: "NBA"
@@ -1037,7 +1037,7 @@
   line: -123
   units: 0.5
   description: "K. Porzingis o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/17/2020"
 
 - sport: "NBA"
@@ -1045,7 +1045,7 @@
   line: -106
   units: 0.5
   description: "J. Clarkson o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/17/2020"
 
 - sport: "NBA"
@@ -1053,7 +1053,7 @@
   line: +102
   units: 0.5
   description: "D. Mitchell o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/17/2020"
 
 - sport: "NBA"
@@ -1061,7 +1061,7 @@
   line: +550
   units: 0.25
   description: "Porzingis o2.5, Clarkson o2.5, Mitchell o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/17/2020"
 
 - sport: "NFL"
@@ -1069,5 +1069,61 @@
   line: +140
   units: 1.0
   description: "TB win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/17/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -120
+  units: 1.0
+  description: "ORL(@NYK) win"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -165
+  units: 1.0
+  description: "CLB(@DET) win"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "BUF @ PHI o6.0"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: +115
+  units: 1.0
+  description: "ANA(@MIN) win"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: +130
+  units: 1.0
+  description: "STL(vs SJS) -1.5"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "WPG @ TOR o6.5"
+  result: "PENDING"
+  date: "01/18/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +330
+  units: 0.5
+  description: "STL o3.5, PHI o3.5 goals"
+  result: "PENDING"
+  date: "01/18/2020"

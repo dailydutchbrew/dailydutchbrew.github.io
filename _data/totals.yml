@@ -1,19 +1,19 @@
 ---
-win: 52
-loss: 51
+win: 56
+loss: 53
 push: 0
 parlay_win: 1
-parlay_loss: 4
+parlay_loss: 6
 parlay_push: 0
 betback_win: 0
 betback_loss: 0
-betback_push: 1
-pending: 22
-win_pct: 0.505
+betback_push: 2
+pending: 20
+win_pct: 0.514
 void: 2
-total_units: 110.40000000000002
-account_units: -4.07
-pending_units: 38.25
+total_units: 116.90000000000002
+account_units: -2.56
+pending_units: 38.5
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,39 +69,31 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NFL
-  units: 0.5
-  description: KC + GB + BAL + TB win
-  line: "+771"
+- sport: NBA
+  units: 1.0
+  description: ORL(@NYK) win
+  line: "-120"
 - sport: NHL
   units: 1.0
-  description: WAS @ PIT o6.0
-  line: "-115"
+  description: CLB(@DET) win
+  line: "-165"
 - sport: NHL
   units: 1.0
-  description: CHI @ FLA o6.5
-  line: "-130"
+  description: BUF @ PHI o6.0
+  line: "-110"
 - sport: NHL
   units: 1.0
-  description: WAS o3.0, CHI o3.0 goals
-  line: "+242"
-- sport: NBA
-  units: 0.5
-  description: K. Porzingis o2.5 3's
-  line: "-123"
-- sport: NBA
-  units: 0.5
-  description: J. Clarkson o2.5 3's
-  line: "-106"
-- sport: NBA
-  units: 0.5
-  description: D. Mitchell o3.5 3's
-  line: "+102"
-- sport: NBA
-  units: 0.25
-  description: Porzingis o2.5, Clarkson o2.5, Mitchell o3.5 3's
-  line: "+550"
-- sport: NFL
+  description: ANA(@MIN) win
+  line: "+115"
+- sport: NHL
   units: 1.0
-  description: TB win
-  line: "+140"
+  description: STL(vs SJS) -1.5
+  line: "+130"
+- sport: NHL
+  units: 1.0
+  description: WPG @ TOR o6.5
+  line: "-110"
+- sport: NHL
+  units: 0.5
+  description: STL o3.5, PHI o3.5 goals
+  line: "+330"
