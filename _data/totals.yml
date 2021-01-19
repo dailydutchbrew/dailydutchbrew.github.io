@@ -1,19 +1,19 @@
 ---
-win: 56
-loss: 53
+win: 59
+loss: 56
 push: 0
 parlay_win: 1
-parlay_loss: 6
+parlay_loss: 7
 parlay_push: 0
 betback_win: 0
 betback_loss: 0
 betback_push: 2
-pending: 20
-win_pct: 0.514
+pending: 21
+win_pct: 0.513
 void: 2
-total_units: 116.90000000000002
-account_units: -2.56
-pending_units: 38.5
+total_units: 122.40000000000002
+account_units: -2.4
+pending_units: 37.5
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,31 +69,35 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NBA
-  units: 1.0
-  description: ORL(@NYK) win
-  line: "-120"
 - sport: NHL
   units: 1.0
-  description: CLB(@DET) win
-  line: "-165"
-- sport: NHL
-  units: 1.0
-  description: BUF @ PHI o6.0
-  line: "-110"
-- sport: NHL
-  units: 1.0
-  description: ANA(@MIN) win
-  line: "+115"
-- sport: NHL
-  units: 1.0
-  description: STL(vs SJS) -1.5
-  line: "+130"
-- sport: NHL
-  units: 1.0
-  description: WPG @ TOR o6.5
-  line: "-110"
+  description: PHI(vsBUF) win
+  line: "-155"
 - sport: NHL
   units: 0.5
-  description: STL o3.5, PHI o3.5 goals
-  line: "+330"
+  description: WAS(@PIT) win
+  line: "+105"
+- sport: NHL
+  units: 0.5
+  description: CHI(@FLA) win
+  line: "+145"
+- sport: NHL
+  units: 0.5
+  description: PHI, WAS, CHI, LAK win
+  line: "+1039"
+- sport: NHL
+  units: 0.5
+  description: WAS @ PIT o6.0 + CHI @ FLA o6.0
+  line: "+224"
+- sport: NHL
+  units: 0.5
+  description: WAS @ PIT o6.0 + CHI @ FLA o6.0 + BUF @ PHI o6.0
+  line: "+518"
+- sport: NHL
+  units: 1.0
+  description: WAS @ PIT o6.0
+  line: "-150"
+- sport: NHL
+  units: 1.0
+  description: CHI @ FLA o6.0
+  line: "-165"
