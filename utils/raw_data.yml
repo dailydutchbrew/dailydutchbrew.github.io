@@ -1133,7 +1133,7 @@
   line: -155
   units: 1.0
   description: "PHI(vsBUF) win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1141,7 +1141,7 @@
   line: +105
   units: 0.5
   description: "WAS(@PIT) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1149,7 +1149,7 @@
   line: +145
   units: 0.5
   description: "CHI(@FLA) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1157,7 +1157,7 @@
   line: +1039
   units: 0.5
   description: "PHI, WAS, CHI, LAK win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1165,7 +1165,7 @@
   line: +224
   units: 0.5
   description: "WAS @ PIT o6.0 + CHI @ FLA o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1173,7 +1173,7 @@
   line: +518
   units: 0.5
   description: "WAS @ PIT o6.0 + CHI @ FLA o6.0 + BUF @ PHI o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1181,7 +1181,7 @@
   line: -150
   units: 1.0
   description: "WAS @ PIT o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/19/2020"
 
 - sport: "NHL"
@@ -1189,5 +1189,85 @@
   line: -165
   units: 1.0
   description: "CHI @ FLA o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/19/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +275
+  units: 0.5
+  description: "TOR(vsEDM) o3.5 + MIN(@ANA) o3.0"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +351
+  units: 0.5
+  description: "MON(@VAN) o3.5 + STL(vsSJS) o3.5"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NBA"
+  type: "BETBACK"
+  line: +626
+  units: 0.5
+  description: "LAC, BKN, MEM, PHX, DAL win"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: +100
+  units: 0.5
+  description: "MEM(@POR) win"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "DAL(@IND) win"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "EDM @ TOR o6.5"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "P"
+  line: -115
+  units: 1.0
+  description: "TOR o3.5"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "P"
+  line: -115
+  units: 1.0
+  description: "MIN o2.5"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "P"
+  line: +100
+  units: 1.0
+  description: "STL o3.5"
+  result: "PENDING"
+  date: "01/20/2020"
+
+- sport: "NHL"
+  type: "P"
+  line: +115
+  units: 1.0
+  description: "MTL o3.5"
+  result: "PENDING"
+  date: "01/20/2020"
