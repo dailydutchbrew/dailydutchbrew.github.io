@@ -1,19 +1,19 @@
 ---
-win: 62
-loss: 58
+win: 65
+loss: 61
 push: 0
 parlay_win: 2
-parlay_loss: 8
+parlay_loss: 10
 parlay_push: 0
 betback_win: 0
 betback_loss: 1
-betback_push: 2
-pending: 23
-win_pct: 0.517
-void: 2
-total_units: 129.40000000000003
-account_units: -2.86
-pending_units: 39.0
+betback_push: 3
+pending: 19
+win_pct: 0.516
+void: 3
+total_units: 133.40000000000003
+account_units: 0.14
+pending_units: 36.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -71,41 +71,25 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 0.5
-  description: TOR(vsEDM) o3.5 + MIN(@ANA) o3.0
-  line: "+275"
+  description: OTT, PHI, TB, COL win
+  line: "+898"
 - sport: NHL
   units: 0.5
-  description: MON(@VAN) o3.5 + STL(vsSJS) o3.5
-  line: "+351"
-- sport: NBA
-  units: 0.5
-  description: LAC, BKN, MEM, PHX, DAL win
-  line: "+626"
-- sport: NBA
-  units: 0.5
-  description: MEM(@POR) win
-  line: "+100"
-- sport: NBA
-  units: 0.5
-  description: DAL(@IND) win
-  line: "-105"
+  description: COL o3.5, TB o3.5 goals
+  line: "+350"
 - sport: NHL
   units: 0.5
-  description: EDM @ TOR o6.5
-  line: "-125"
-- sport: NHL
-  units: 1.0
-  description: TOR o3.5
+  description: COL o3.5 goals
   line: "-115"
 - sport: NHL
-  units: 1.0
-  description: MIN o2.5
-  line: "-115"
+  units: 0.5
+  description: TB o3.5 goals
+  line: "+120"
 - sport: NHL
   units: 1.0
-  description: STL o3.5
-  line: "+100"
+  description: WPG @ OTT o6.0
+  line: "-120"
 - sport: NHL
   units: 1.0
-  description: MTL o3.5
-  line: "+115"
+  description: Away Goals > Home Goals
+  line: "-145"
