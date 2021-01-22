@@ -1277,7 +1277,7 @@
   line: +898
   units: 0.5
   description: "OTT, PHI, TB, COL win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/21/2020"
 
 - sport: "NHL"
@@ -1285,7 +1285,7 @@
   line: +350
   units: 0.5
   description: "COL o3.5, TB o3.5 goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/21/2020"
 
 - sport: "NHL"
@@ -1293,7 +1293,7 @@
   line: -115
   units: 0.5
   description: "COL o3.5 goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/21/2020"
 
 - sport: "NHL"
@@ -1301,7 +1301,7 @@
   line: +120
   units: 0.5
   description: "TB o3.5 goals"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/21/2020"
 
 - sport: "NHL"
@@ -1309,7 +1309,7 @@
   line: -120
   units: 1.0
   description: "WPG @ OTT o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/21/2020"
 
 - sport: "NHL"
@@ -1317,5 +1317,165 @@
   line: -145
   units: 1.0
   description: "Away Goals > Home Goals"
-  result: "PENDING"
+  result: "WIN"
   date: "01/21/2020"
+
+- sport: "UFC"
+  type: "P"
+  line: -200
+  units: 1.0
+  description: "C McGregor win by KO, TKO, DQ"
+  result: "PENDING"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 1.0
+  description: "BUF(@WAS) win"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "NYR @ PIT o6.5"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "DET @ CHI o6.0"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +898
+  units: 0.25
+  description: "BUF win + TOR win + DET @ CHI o 6.0 + NYR @ PIT o6.0"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +305
+  units: 0.25
+  description: "EDM @ TOR o6.0 + DET @ CHI o6.0 + VGK @ ARI o 5.5 + COL @ ANA o5.5"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +305
+  units: 0.5
+  description: "TOR win + SJS win"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "PARLAY"
+  line: +300
+  units: 0.5
+  description: "BKN(@CLE) o115.5 + NYK(@SAC) o107.5"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "TOR(vs EDM) win"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "BKN(@CLE) o115.5"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "BKN(@CLE) o58.5 first half"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "BKN(@CLE) o29.5 first half"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "BKN(@CLE) -4.0 first half"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "BKN(@CLE) -7.0"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "NYK(@SAC) o54.5 first half"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "NYK(@SAC) o107.5"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "Away goals > Home goals"
+  result: "LOSS"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "LIVE"
+  line: +105
+  units: 6.5
+  description: "VGK(@MIN) o6.5"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NHL"
+  type: "LIVE"
+  line: -185
+  units: 1.0
+  description: "COL(vsANA) win"
+  result: "WIN"
+  date: "01/22/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -130
+  units: 1.0
+  description: "GB +3.0, BUF +10.0"
+  result: "PENDING"
+  date: "01/22/2020"

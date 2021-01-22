@@ -1,19 +1,19 @@
 ---
-win: 65
-loss: 61
+win: 72
+loss: 72
 push: 0
 parlay_win: 2
-parlay_loss: 10
+parlay_loss: 15
 parlay_push: 0
 betback_win: 0
-betback_loss: 1
+betback_loss: 2
 betback_push: 3
-pending: 19
-win_pct: 0.516
+pending: 15
+win_pct: 0.5
 void: 3
-total_units: 133.40000000000003
-account_units: 0.14
-pending_units: 36.0
+total_units: 150.90000000000003
+account_units: 2.87
+pending_units: 34.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,27 +69,11 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NHL
-  units: 0.5
-  description: OTT, PHI, TB, COL win
-  line: "+898"
-- sport: NHL
-  units: 0.5
-  description: COL o3.5, TB o3.5 goals
-  line: "+350"
-- sport: NHL
-  units: 0.5
-  description: COL o3.5 goals
-  line: "-115"
-- sport: NHL
-  units: 0.5
-  description: TB o3.5 goals
-  line: "+120"
-- sport: NHL
+- sport: UFC
   units: 1.0
-  description: WPG @ OTT o6.0
-  line: "-120"
-- sport: NHL
+  description: C McGregor win by KO, TKO, DQ
+  line: "-200"
+- sport: NFL
   units: 1.0
-  description: Away Goals > Home Goals
-  line: "-145"
+  description: GB +3.0, BUF +10.0
+  line: "-130"
