@@ -1,19 +1,19 @@
 ---
-win: 72
-loss: 72
+win: 84
+loss: 76
 push: 0
-parlay_win: 2
-parlay_loss: 15
+parlay_win: 6
+parlay_loss: 17
 parlay_push: 0
 betback_win: 0
 betback_loss: 2
 betback_push: 3
-pending: 15
-win_pct: 0.5
+pending: 14
+win_pct: 0.525
 void: 3
-total_units: 150.90000000000003
-account_units: 2.87
-pending_units: 34.0
+total_units: 160.00000000000003
+account_units: 8.35
+pending_units: 33.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,10 +69,6 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: UFC
-  units: 1.0
-  description: C McGregor win by KO, TKO, DQ
-  line: "-200"
 - sport: NFL
   units: 1.0
   description: GB +3.0, BUF +10.0
