@@ -1647,3 +1647,115 @@
   description: "Ribas + Tsarukyan + Hooker wins"
   result: "LOSS"
   date: "01/23/2020"
+
+- sport: "NFL"
+  type: "P"
+  line: -165
+  units: 1.0
+  description: "GB o 13.5 HT"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "BUF o 12.5 HT"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 0.5
+  description: "GB +3 + TB @ GB o45"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 0.5
+  description: "BUF +10 + BUF @ KC o47.5"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 0.5
+  description: "GB +3 + BUF @ KC o47.5"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 0.5
+  description: "BUF +10 + TB @ GB o45"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 1.0
+  description: "BUF +16, GB +9, TB @ GB o39, BUF @ KC o41.5"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "BUF(@WAS) u6.0"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "TOR(@CGY) win"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "VGK(@ARI) o5.5"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "VGK(@ARI) o5.5"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -170
+  units: 0.5
+  description: "VGK(@ARI) win"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: +115
+  units: 0.5
+  description: "DET(@CHI) win"
+  result: "PENDING"
+  date: "01/24/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "DET(@CHI) u6.0"
+  result: "PENDING"
+  date: "01/24/2020"
