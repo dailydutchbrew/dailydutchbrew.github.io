@@ -1,6 +1,6 @@
 ---
-win: 84
-loss: 76
+win: 91
+loss: 89
 push: 0
 parlay_win: 6
 parlay_loss: 17
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 0
 betback_loss: 2
 betback_push: 3
-pending: 28
-win_pct: 0.525
+pending: 17
+win_pct: 0.506
 void: 3
-total_units: 168.00000000000003
-account_units: 0.35
-pending_units: 41.0
+total_units: 172.25000000000003
+account_units: 1.82
+pending_units: 35.25
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,63 +69,19 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NFL
+- sport: NHL
   units: 1.0
-  description: GB +3.0, BUF +10.0
-  line: "-130"
-- sport: NFL
+  description: OTT @ VAN win
+  line: "-150"
+- sport: NHL
+  units: 0.25
+  description: OTT @ VAN -1.5
+  line: "+160"
+- sport: NHL
   units: 1.0
-  description: GB o 13.5 HT
-  line: "-165"
-- sport: NFL
-  units: 0.5
-  description: BUF o 12.5 HT
-  line: "-130"
-- sport: NFL
-  units: 0.5
-  description: GB +3 + TB @ GB o45
-  line: "-140"
-- sport: NFL
-  units: 0.5
-  description: BUF +10 + BUF @ KC o47.5
-  line: "-140"
-- sport: NFL
-  units: 0.5
-  description: GB +3 + BUF @ KC o47.5
-  line: "-140"
-- sport: NFL
-  units: 0.5
-  description: BUF +10 + TB @ GB o45
-  line: "-140"
-- sport: NFL
+  description: OTT @ VAN o 6.0
+  line: "-125"
+- sport: NBA
   units: 1.0
-  description: BUF +16, GB +9, TB @ GB o39, BUF @ KC o41.5
+  description: BKN(vs MIA) -6.0
   line: "-140"
-- sport: NHL
-  units: 0.5
-  description: BUF(@WAS) u6.0
-  line: "-115"
-- sport: NHL
-  units: 0.5
-  description: TOR(@CGY) win
-  line: "-105"
-- sport: NHL
-  units: 0.5
-  description: VGK(@ARI) o5.5
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: VGK(@ARI) o5.5
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: VGK(@ARI) win
-  line: "-170"
-- sport: NHL
-  units: 0.5
-  description: DET(@CHI) win
-  line: "+115"
-- sport: NHL
-  units: 0.5
-  description: DET(@CHI) u6.0
-  line: "-115"
