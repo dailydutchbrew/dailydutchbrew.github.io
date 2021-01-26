@@ -1,5 +1,5 @@
 ---
-win: 91
+win: 95
 loss: 89
 push: 0
 parlay_win: 6
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 0
 betback_loss: 2
 betback_push: 3
-pending: 17
-win_pct: 0.506
+pending: 19
+win_pct: 0.516
 void: 3
-total_units: 172.25000000000003
-account_units: 1.82
-pending_units: 35.25
+total_units: 177.75000000000003
+account_units: 2.16
+pending_units: 37.5
 bank: -27.0
 futures:
 - sport: NBA
@@ -71,17 +71,25 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: OTT @ VAN win
-  line: "-150"
-- sport: NHL
-  units: 0.25
-  description: OTT @ VAN -1.5
-  line: "+160"
+  description: TOR @ CGY o6.0
+  line: "-135"
 - sport: NHL
   units: 1.0
-  description: OTT @ VAN o 6.0
+  description: FLA @ CLB o5.5
   line: "-125"
-- sport: NBA
+- sport: NHL
   units: 1.0
-  description: BKN(vs MIA) -6.0
-  line: "-140"
+  description: PIT @ BOS o6.0
+  line: "+105"
+- sport: NHL
+  units: 1.0
+  description: ANA @ ARI u5.5
+  line: "-125"
+- sport: NHL
+  units: 1.0
+  description: STL @ VGK o6.0
+  line: "+100"
+- sport: NBA
+  units: 0.5
+  description: WAS @ HOU o230
+  line: "-135"

@@ -1805,7 +1805,7 @@
   line: -150
   units: 1.0
   description: "OTT @ VAN win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/25/2020"
 
 - sport: "NHL"
@@ -1813,7 +1813,7 @@
   line: +160
   units: 0.25
   description: "OTT @ VAN -1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/25/2020"
 
 - sport: "NHL"
@@ -1821,7 +1821,7 @@
   line: -125
   units: 1.0
   description: "OTT @ VAN o 6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/25/2020"
 
 - sport: "NBA"
@@ -1829,5 +1829,53 @@
   line: -140
   units: 1.0
   description: "BKN(vs MIA) -6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/25/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -135
+  units: 1.0
+  description: "TOR @ CGY o6.0"
+  result: "PENDING"
+  date: "01/26/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 1.0
+  description: "FLA @ CLB o5.5"
+  result: "PENDING"
+  date: "01/26/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: +105
+  units: 1.0
+  description: "PIT @ BOS o6.0"
+  result: "PENDING"
+  date: "01/26/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 1.0
+  description: "ANA @ ARI u5.5"
+  result: "PENDING"
+  date: "01/26/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: +100
+  units: 1.0
+  description: "STL @ VGK o6.0"
+  result: "PENDING"
+  date: "01/26/2020"
+
+- sport: "NBA"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "WAS @ HOU o230"
+  result: "PENDING"
+  date: "01/26/2020"
