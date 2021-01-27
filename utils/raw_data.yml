@@ -1837,7 +1837,7 @@
   line: -135
   units: 1.0
   description: "TOR @ CGY o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/26/2020"
 
 - sport: "NHL"
@@ -1845,7 +1845,7 @@
   line: -125
   units: 1.0
   description: "FLA @ CLB o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/26/2020"
 
 - sport: "NHL"
@@ -1853,7 +1853,7 @@
   line: +105
   units: 1.0
   description: "PIT @ BOS o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/26/2020"
 
 - sport: "NHL"
@@ -1861,7 +1861,7 @@
   line: -125
   units: 1.0
   description: "ANA @ ARI u5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/26/2020"
 
 - sport: "NHL"
@@ -1869,7 +1869,7 @@
   line: +100
   units: 1.0
   description: "STL @ VGK o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/26/2020"
 
 - sport: "NBA"
@@ -1877,5 +1877,109 @@
   line: -135
   units: 0.5
   description: "WAS @ HOU o230"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/26/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -160
+  units: 1.0
+  description: "OTT @ VAN o6.0"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 1.0
+  description: "VAN(vs OTT) win"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "CHI @ NSH u6.0"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 1.0
+  description: "NSH(@ CHI) win"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +200
+  units: 0.5
+  description: "NSH(@ CHI) win + o6.0"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +852
+  units: 0.25
+  description: "NSH(@ CHI) win + o6.0, VAN(vs OTT) win + o6.5"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.25
+  description: "J Harris o2.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -137
+  units: 0.25
+  description: "K Durant o2.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -122
+  units: 0.25
+  description: "K Irving o2.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.25
+  description: "D Green o1.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -145
+  units: 0.25
+  description: "L Walker IV o1.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.25
+  description: "F VanVleet o3.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -179
+  units: 0.25
+  description: "L Ball o1.5 3's"
+  result: "PENDING"
+  date: "01/27/2020"
