@@ -1989,7 +1989,7 @@
   line: +877
   units: 0.25
   description: "STL @ VGK o5.5 + FLA @ CBJ o5.5 + ANA @ ARI u6.0 + SJS @ COL o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -1997,7 +1997,7 @@
   line: +845
   units: 0.25
   description: "CGY @ MON o6.0 + NYI @ WAS u6.0 + PIT @ BOS u6.0 + TOR @ EDM o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2005,7 +2005,7 @@
   line: -110
   units: 0.5
   description: "CGY @ MON o6.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2013,7 +2013,7 @@
   line: -120
   units: 1.0
   description: "FLA @ CBJ o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2021,7 +2021,7 @@
   line: -135
   units: 0.5
   description: "NYI @ WAS u5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2029,7 +2029,7 @@
   line: -135
   units: 0.5
   description: "PIT @ BOS u6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2037,7 +2037,7 @@
   line: -135
   units: 1.0
   description: "ANA @ ARI u5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2045,7 +2045,7 @@
   line: -120
   units: 1.0
   description: "SJS @ COL o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2053,7 +2053,7 @@
   line: +105
   units: 1.0
   description: "STL @ VGK o6.0"
-  result: "PENDING"
+  result: "VOID"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2061,7 +2061,7 @@
   line: -115
   units: 0.5
   description: "OTT @ VAN u6.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/28/2020"
 
 - sport: "NHL"
@@ -2069,5 +2069,141 @@
   line: -110
   units: 0.5
   description: "TOR @ EDM o6.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/28/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "CBJ @ CHI o5.5"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +230
+  units: 0.5
+  description: "CBJ win + CBJ @ CHI o5.5"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "B Ingram o2.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PARLAY"
+  line: +500
+  units: 0.25
+  description: "M Brogdon + T Young + B Ingram o2.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "K Lowry o2.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "B Hield  o3.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "F VanVleet  o3.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PARLAY"
+  line: -118
+  units: 0.5
+  description: "Lowry o2.5 + Hield o3.5 + VanVleet  o3.5 3's"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "ATL(@WAS) -3.0"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "IND(@CHA) -3.0"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "MIL(@NO) -6.0"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "SAC(@TOR) -4.0"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "BKN(@OKC) -8.0"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "P"
+  line: -140
+  units: 0.5
+  description: "BKN(@OKC) -5.0 HT"
+  result: "PENDING"
+  date: "01/29//2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "DEN(@SAS) -3.0"
+  result: "PENDING"
+  date: "01/29//2020"

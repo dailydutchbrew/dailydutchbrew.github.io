@@ -1,19 +1,19 @@
 ---
-win: 106
-loss: 94
-push: 1
+win: 110
+loss: 97
+push: 2
 parlay_win: 7
-parlay_loss: 18
+parlay_loss: 20
 parlay_push: 0
 betback_win: 0
 betback_loss: 2
 betback_push: 3
-pending: 24
-win_pct: 0.53
-void: 3
-total_units: 191.25000000000003
-account_units: 6.31
-pending_units: 39.0
+pending: 30
+win_pct: 0.531
+void: 4
+total_units: 200.00000000000003
+account_units: 5.06
+pending_units: 40.75
 bank: -27.0
 futures:
 - sport: NBA
@@ -70,46 +70,70 @@ futures:
   line: "+175"
 non_future_pending:
 - sport: NHL
-  units: 0.25
-  description: STL @ VGK o5.5 + FLA @ CBJ o5.5 + ANA @ ARI u6.0 + SJS @ COL o6.0
-  line: "+877"
-- sport: NHL
-  units: 0.25
-  description: CGY @ MON o6.0 + NYI @ WAS u6.0 + PIT @ BOS u6.0 + TOR @ EDM o6.0
-  line: "+845"
-- sport: NHL
-  units: 0.5
-  description: CGY @ MON o6.0
-  line: "-110"
-- sport: NHL
   units: 1.0
-  description: FLA @ CBJ o5.5
+  description: CBJ @ CHI o5.5
   line: "-120"
 - sport: NHL
   units: 0.5
-  description: NYI @ WAS u5.5
-  line: "-135"
-- sport: NHL
+  description: CBJ win + CBJ @ CHI o5.5
+  line: "+230"
+- sport: NBA
   units: 0.5
-  description: PIT @ BOS u6.0
+  description: M Brogdon o2.5 3's
   line: "-135"
-- sport: NHL
-  units: 1.0
-  description: ANA @ ARI u5.5
-  line: "-135"
-- sport: NHL
-  units: 1.0
-  description: SJS @ COL o6.0
+- sport: NBA
+  units: 0.5
+  description: T Young o2.5 3's
+  line: "-108"
+- sport: NBA
+  units: 0.5
+  description: B Ingram o2.5 3's
   line: "-120"
-- sport: NHL
-  units: 1.0
-  description: STL @ VGK o6.0
-  line: "+105"
-- sport: NHL
+- sport: NBA
+  units: 0.25
+  description: M Brogdon + T Young + B Ingram o2.5 3's
+  line: "+500"
+- sport: NBA
   units: 0.5
-  description: OTT @ VAN u6.5
-  line: "-115"
-- sport: NHL
+  description: K Lowry o2.5 3's
+  line: "-156"
+- sport: NBA
   units: 0.5
-  description: TOR @ EDM o6.5
+  description: B Hield  o3.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: F VanVleet  o3.5 3's
+  line: "-118"
+- sport: NBA
+  units: 0.5
+  description: Lowry o2.5 + Hield o3.5 + VanVleet  o3.5 3's
+  line: "-118"
+- sport: NBA
+  units: 0.5
+  description: ATL(@WAS) -3.0
+  line: "-140"
+- sport: NBA
+  units: 0.5
+  description: IND(@CHA) -3.0
   line: "-110"
+- sport: NBA
+  units: 0.5
+  description: MIL(@NO) -6.0
+  line: "-110"
+- sport: NBA
+  units: 0.5
+  description: SAC(@TOR) -4.0
+  line: "-140"
+- sport: NBA
+  units: 0.5
+  description: BKN(@OKC) -8.0
+  line: "-140"
+- sport: NBA
+  units: 0.5
+  description: BKN(@OKC) -5.0 HT
+  line: "-140"
+- sport: NBA
+  units: 0.5
+  description: DEN(@SAS) -3.0
+  line: "-140"
