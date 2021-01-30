@@ -2077,7 +2077,7 @@
   line: -120
   units: 1.0
   description: "CBJ @ CHI o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NHL"
@@ -2085,7 +2085,7 @@
   line: +230
   units: 0.5
   description: "CBJ win + CBJ @ CHI o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2093,7 +2093,7 @@
   line: -135
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2101,7 +2101,7 @@
   line: -108
   units: 0.5
   description: "T Young o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2109,7 +2109,7 @@
   line: -120
   units: 0.5
   description: "B Ingram o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2117,7 +2117,7 @@
   line: +500
   units: 0.25
   description: "M Brogdon + T Young + B Ingram o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2125,7 +2125,7 @@
   line: -156
   units: 0.5
   description: "K Lowry o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2133,7 +2133,7 @@
   line: -156
   units: 0.5
   description: "B Hield  o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2141,7 +2141,7 @@
   line: -118
   units: 0.5
   description: "F VanVleet  o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2149,7 +2149,7 @@
   line: -118
   units: 0.5
   description: "Lowry o2.5 + Hield o3.5 + VanVleet  o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2157,7 +2157,7 @@
   line: -140
   units: 0.5
   description: "ATL(@WAS) -3.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2165,7 +2165,7 @@
   line: -110
   units: 0.5
   description: "IND(@CHA) -3.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2173,7 +2173,7 @@
   line: -110
   units: 0.5
   description: "MIL(@NO) -6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2181,7 +2181,7 @@
   line: -140
   units: 0.5
   description: "SAC(@TOR) -4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2189,7 +2189,7 @@
   line: -140
   units: 0.5
   description: "BKN(@OKC) -8.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2197,7 +2197,7 @@
   line: -140
   units: 0.5
   description: "BKN(@OKC) -5.0 HT"
-  result: "PENDING"
+  result: "WIN"
   date: "01/29//2020"
 
 - sport: "NBA"
@@ -2205,5 +2205,117 @@
   line: -140
   units: 0.5
   description: "DEN(@SAS) -3.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/29//2020"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +805
+  units: 0.5
+  description: "FLA + COL + STL + VAN wins"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -150
+  units: 1.0
+  description: "COL(@MIN) win"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -155
+  units: 1.0
+  description: "STL(@ANA) win"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +977
+  units: 0.25
+  description: "DAL @ CAR u5.5 + NYI @ PHI u5.5 + CGY @ MON o5.5 + BOS @ WAS o5.5"
+  result: "LOSS"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -140
+  units: 0.5
+  description: "DAL @ CAR u5.5"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "NYI @ PHI u5.5"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "BOS @ WAS o5.5"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "OU"
+  line: +105
+  units: 0.5
+  description: "CGY @ MON o5.5"
+  result: "LOSS"
+  date: "01/30/2020"
+
+- sport: "NHL"
+  type: "SALAMI"
+  line: -115
+  units: 0.5
+  description: "Away Goals > Home Goals"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: +1032
+  units: 0.25
+  description: "GSW(-4.0) + MIL(-7.0) + SAS(-3.0) + PHX win"
+  result: "LOSS"
+  date: "01/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -120
+  units: 1.0
+  description: "GSW(vs DET) -4.0"
+  result: "WIN"
+  date: "01/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -130
+  units: 1.0
+  description: "MIL(@ CHA) -7.0"
+  result: "LOSS"
+  date: "01/30/2020"
+
+- sport: "NBA"
+  type: "PS"
+  line: -120
+  units: 1.0
+  description: "SAS(vs MEM) -3.0"
+  result: "LOSS"
+  date: "01/30/2020"
+
+- sport: "NBA"
+  type: "ML"
+  line: +100
+  units: 1.0
+  description: "PHX(vs DAL) win"
+  result: "WIN"
+  date: "01/30/2020"
