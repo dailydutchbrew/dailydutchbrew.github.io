@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 1
 betback_loss: 2
 betback_push: 3
-pending: 13
+pending: 32
 win_pct: 0.536
 void: 4
-total_units: 209.50000000000003
-account_units: 18.48
-pending_units: 32.0
+total_units: 221.10000000000002
+account_units: 6.88
+pending_units: 43.6
 bank: -27.0
 futures:
 - sport: NBA
@@ -68,4 +68,80 @@ futures:
   units: 2.0
   description: COL to win the West Division
   line: "+175"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 1.0
+  description: LAC(@ NYK) -8.0
+  line: "-105"
+- sport: NHL
+  units: 1.0
+  description: NJD @ BUF o5.5
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: FLA @ DET o6.0
+  line: "+110"
+- sport: NHL
+  units: 1.0
+  description: NYI @ PHI o5.5
+  line: "+115"
+- sport: NHL
+  units: 1.0
+  description: COL @ MIN o5.5
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: OTT @ EDM o6.5
+  line: "-105"
+- sport: NHL
+  units: 0.25
+  description: FLA @ DET o6.0 + NYI @ PHI o5.5 + COL @ MIN o5.5 + OTT @ EDM o6.5
+  line: "+1362"
+- sport: NHL
+  units: 0.5
+  description: CAR(vs DAL) win
+  line: "-120"
+- sport: NHL
+  units: 0.5
+  description: DET(vs FLA) win
+  line: "+155"
+- sport: NHL
+  units: 0.5
+  description: CHI(vsCBJ) win
+  line: "+120"
+- sport: NHL
+  units: 0.5
+  description: PHI(vsNYI) win
+  line: "-120"
+- sport: NHL
+  units: 0.5
+  description: MIN(vsCOL) win
+  line: "+130"
+- sport: NHL
+  units: 0.5
+  description: ANA(vsSTL) win
+  line: "+140"
+- sport: NHL
+  units: 0.1
+  description: CAR + DET + CHI + PHI + MIN + ANA wins
+  line: "+10030"
+- sport: NBA
+  units: 0.5
+  description: M Brogden o2.5 3's
+  line: "-123"
+- sport: NBA
+  units: 0.5
+  description: T Ross o1.5 3's
+  line: "-154"
+- sport: NBA
+  units: 0.5
+  description: R Westbrook o1.5 3's
+  line: "+138"
+- sport: NBA
+  units: 0.5
+  description: B Beal o2.5 3's
+  line: "-130"
+- sport: NBA
+  units: 0.25
+  description: M Brogden o2.5 + T Ross o1.5 + R Westbrook o1.5 + B Beal o2.5 3's
+  line: "+1050"
