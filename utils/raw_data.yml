@@ -2325,7 +2325,7 @@
   line: -105
   units: 1.0
   description: "LAC(@ NYK) -8.0"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2333,7 +2333,7 @@
   line: -120
   units: 1.0
   description: "NJD @ BUF o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2341,7 +2341,7 @@
   line: +110
   units: 1.0
   description: "FLA @ DET o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2349,7 +2349,7 @@
   line: +115
   units: 1.0
   description: "NYI @ PHI o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2357,7 +2357,7 @@
   line: -120
   units: 1.0
   description: "COL @ MIN o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2365,7 +2365,7 @@
   line: -105
   units: 1.0
   description: "OTT @ EDM o6.5"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2373,7 +2373,7 @@
   line: +1362
   units: 0.25
   description: "FLA @ DET o6.0 + NYI @ PHI o5.5 + COL @ MIN o5.5 + OTT @ EDM o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2381,7 +2381,7 @@
   line: -120
   units: 0.5
   description: "CAR(vs DAL) win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2389,7 +2389,7 @@
   line: +155
   units: 0.5
   description: "DET(vs FLA) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2397,7 +2397,7 @@
   line: +120
   units: 0.5
   description: "CHI(vsCBJ) win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2405,7 +2405,7 @@
   line: -120
   units: 0.5
   description: "PHI(vsNYI) win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2413,7 +2413,7 @@
   line: +130
   units: 0.5
   description: "MIN(vsCOL) win"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2421,7 +2421,7 @@
   line: +140
   units: 0.5
   description: "ANA(vsSTL) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NHL"
@@ -2429,7 +2429,7 @@
   line: +10030
   units: 0.1
   description: "CAR + DET + CHI + PHI + MIN + ANA wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NBA"
@@ -2437,7 +2437,7 @@
   line: -123
   units: 0.5
   description: "M Brogden o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NBA"
@@ -2445,7 +2445,7 @@
   line: -154
   units: 0.5
   description: "T Ross o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NBA"
@@ -2453,7 +2453,7 @@
   line: +138
   units: 0.5
   description: "R Westbrook o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "01/31/2020"
 
 - sport: "NBA"
@@ -2461,7 +2461,7 @@
   line: -130
   units: 0.5
   description: "B Beal o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
 
 - sport: "NBA"
@@ -2469,5 +2469,109 @@
   line: +1050
   units: 0.25
   description: "M Brogden o2.5 + T Ross o1.5 + R Westbrook o1.5 + B Beal o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/31/2020"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 1.0
+  description: "NYR(vsPIT) win"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 1.0
+  description: "BOS(@WAS) win"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +140
+  units: 1.0
+  description: "VAN(@MON) win"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "BOS @ BOS o5.5"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "PIT @ NYR o5.5"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: +100
+  units: 1.0
+  description: "VAN @ MTL u6.0"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 1.0
+  description: "CGY @ WPG u6.0"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +700
+  units: 0.25
+  description: "NYR + VAN + BOS wins"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +1235
+  units: 0.25
+  description: "CGY @ WPG u6.0 + VAN @ MTL u 6.0 + PIT @ NYR o6.0 + BOS @ WAS o5.5"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: +155
+  units: 1.0
+  description: "NYK(@CHI) win"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -120
+  units: 1.0
+  description: "SAS(vsMEM) -3.0"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -140
+  units: 1.0
+  description: "HOU(@OKC) -3.0"
+  result: "PENDING"
+  date: "02/01/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -130
+  units: 1.0
+  description: "NO(vsSAC) -3.0"
+  result: "PENDING"
+  date: "02/01/2021"

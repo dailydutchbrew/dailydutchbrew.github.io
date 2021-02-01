@@ -1,19 +1,19 @@
 ---
-win: 125
-loss: 108
+win: 136
+loss: 113
 push: 2
 parlay_win: 8
-parlay_loss: 23
+parlay_loss: 26
 parlay_push: 0
 betback_win: 1
 betback_loss: 2
 betback_push: 3
-pending: 32
-win_pct: 0.536
+pending: 26
+win_pct: 0.546
 void: 4
-total_units: 221.10000000000002
-account_units: 6.88
-pending_units: 43.6
+total_units: 232.60000000000002
+account_units: 11.28
+pending_units: 43.5
 bank: -27.0
 futures:
 - sport: NBA
@@ -69,79 +69,55 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NBA
+- sport: NHL
   units: 1.0
-  description: LAC(@ NYK) -8.0
+  description: NYR(vsPIT) win
   line: "-105"
 - sport: NHL
   units: 1.0
-  description: NJD @ BUF o5.5
-  line: "-120"
+  description: BOS(@WAS) win
+  line: "-145"
 - sport: NHL
   units: 1.0
-  description: FLA @ DET o6.0
-  line: "+110"
-- sport: NHL
-  units: 1.0
-  description: NYI @ PHI o5.5
-  line: "+115"
-- sport: NHL
-  units: 1.0
-  description: COL @ MIN o5.5
-  line: "-120"
-- sport: NHL
-  units: 1.0
-  description: OTT @ EDM o6.5
-  line: "-105"
-- sport: NHL
-  units: 0.25
-  description: FLA @ DET o6.0 + NYI @ PHI o5.5 + COL @ MIN o5.5 + OTT @ EDM o6.5
-  line: "+1362"
-- sport: NHL
-  units: 0.5
-  description: CAR(vs DAL) win
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: DET(vs FLA) win
-  line: "+155"
-- sport: NHL
-  units: 0.5
-  description: CHI(vsCBJ) win
-  line: "+120"
-- sport: NHL
-  units: 0.5
-  description: PHI(vsNYI) win
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: MIN(vsCOL) win
-  line: "+130"
-- sport: NHL
-  units: 0.5
-  description: ANA(vsSTL) win
+  description: VAN(@MON) win
   line: "+140"
 - sport: NHL
-  units: 0.1
-  description: CAR + DET + CHI + PHI + MIN + ANA wins
-  line: "+10030"
-- sport: NBA
-  units: 0.5
-  description: M Brogden o2.5 3's
-  line: "-123"
-- sport: NBA
-  units: 0.5
-  description: T Ross o1.5 3's
-  line: "-154"
-- sport: NBA
-  units: 0.5
-  description: R Westbrook o1.5 3's
-  line: "+138"
-- sport: NBA
-  units: 0.5
-  description: B Beal o2.5 3's
-  line: "-130"
-- sport: NBA
+  units: 1.0
+  description: BOS @ BOS o5.5
+  line: "-115"
+- sport: NHL
+  units: 1.0
+  description: PIT @ NYR o5.5
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: VAN @ MTL u6.0
+  line: "+100"
+- sport: NHL
+  units: 1.0
+  description: CGY @ WPG u6.0
+  line: "-105"
+- sport: NHL
   units: 0.25
-  description: M Brogden o2.5 + T Ross o1.5 + R Westbrook o1.5 + B Beal o2.5 3's
-  line: "+1050"
+  description: NYR + VAN + BOS wins
+  line: "+700"
+- sport: NHL
+  units: 0.25
+  description: CGY @ WPG u6.0 + VAN @ MTL u 6.0 + PIT @ NYR o6.0 + BOS @ WAS o5.5
+  line: "+1235"
+- sport: NBA
+  units: 1.0
+  description: NYK(@CHI) win
+  line: "+155"
+- sport: NBA
+  units: 1.0
+  description: SAS(vsMEM) -3.0
+  line: "-120"
+- sport: NBA
+  units: 1.0
+  description: HOU(@OKC) -3.0
+  line: "-140"
+- sport: NBA
+  units: 1.0
+  description: NO(vsSAC) -3.0
+  line: "-130"
