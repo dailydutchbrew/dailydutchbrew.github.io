@@ -1,19 +1,19 @@
 ---
-win: 140
-loss: 120
+win: 146
+loss: 123
 push: 2
 parlay_win: 8
 parlay_loss: 28
 parlay_push: 0
-betback_win: 1
+betback_win: 2
 betback_loss: 2
 betback_push: 3
-pending: 23
-win_pct: 0.538
+pending: 19
+win_pct: 0.543
 void: 5
-total_units: 243.60000000000002
-account_units: 9.51
-pending_units: 42.0
+total_units: 249.10000000000002
+account_units: 21.8
+pending_units: 37.5
 bank: -27.0
 futures:
 - sport: NBA
@@ -71,41 +71,25 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: OTT @ EDM o6.5
-  line: "-130"
-- sport: NHL
-  units: 1.0
-  description: VAN @ MTL o6.0
+  description: DET @ TB o5.5
   line: "-120"
 - sport: NHL
   units: 1.0
-  description: CGY @ WPG o6.0
-  line: "-120"
+  description: BOS @ PHI o5.5
+  line: "-110"
 - sport: NHL
   units: 1.0
-  description: DAL @ CBJ o5.0
-  line: "-130"
+  description: PHI(vs BOS) win
+  line: "+115"
 - sport: NHL
   units: 1.0
-  description: MIN @ COL o5.5
-  line: "-120"
+  description: TB(vs DET) -1.5
+  line: "-125"
 - sport: NHL
+  units: 0.5
+  description: PHI(vs BOS) win o5.5 + TB(vs DET) win o5.5
+  line: "+881"
+- sport: NBA
   units: 1.0
-  description: ANA(@LAK) win
-  line: "+105"
-- sport: NHL
-  units: 1.0
-  description: STL(vsARI) win
-  line: "-170"
-- sport: NHL
-  units: 1.0
-  description: CAR(@CHI) win
-  line: "-170"
-- sport: NHL
-  units: 1.0
-  description: COL(vsMIN) win
-  line: "-175"
-- sport: NHL
-  units: 1.0
-  description: STL + COL + EDM + ANA wins
-  line: "+639"
+  description: MIL + PHI + SAS + PHX + NYK wins
+  line: "+623"

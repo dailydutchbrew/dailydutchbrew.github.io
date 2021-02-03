@@ -2589,7 +2589,7 @@
   line: -130
   units: 1.0
   description: "OTT @ EDM o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2597,7 +2597,7 @@
   line: -120
   units: 1.0
   description: "VAN @ MTL o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2605,7 +2605,7 @@
   line: -120
   units: 1.0
   description: "CGY @ WPG o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2613,7 +2613,7 @@
   line: -130
   units: 1.0
   description: "DAL @ CBJ o5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2621,7 +2621,7 @@
   line: -120
   units: 1.0
   description: "MIN @ COL o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2629,7 +2629,7 @@
   line: +105
   units: 1.0
   description: "ANA(@LAK) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2637,7 +2637,7 @@
   line: -170
   units: 1.0
   description: "STL(vsARI) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2645,7 +2645,7 @@
   line: -170
   units: 1.0
   description: "CAR(@CHI) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2653,7 +2653,7 @@
   line: -175
   units: 1.0
   description: "COL(vsMIN) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
 
 - sport: "NHL"
@@ -2661,5 +2661,53 @@
   line: +639
   units: 1.0
   description: "STL + COL + EDM + ANA wins"
-  result: "PENDING"
+  result: "WIN"
   date: "02/02/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "DET @ TB o5.5"
+  result: "PENDING"
+  date: "02/03/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "BOS @ PHI o5.5"
+  result: "PENDING"
+  date: "02/03/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +115
+  units: 1.0
+  description: "PHI(vs BOS) win"
+  result: "PENDING"
+  date: "02/03/2021"
+
+- sport: "NHL"
+  type: "PS"
+  line: -125
+  units: 1.0
+  description: "TB(vs DET) -1.5"
+  result: "PENDING"
+  date: "02/03/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +881
+  units: 0.5
+  description: "PHI(vs BOS) win o5.5 + TB(vs DET) win o5.5"
+  result: "PENDING"
+  date: "02/03/2021"
+
+- sport: "NBA"
+  type: "BETBACK"
+  line: +623
+  units: 1.0
+  description: "MIL + PHI + SAS + PHX + NYK wins"
+  result: "PENDING"
+  date: "02/03/2021"
