@@ -1,19 +1,19 @@
 ---
-win: 136
-loss: 113
+win: 140
+loss: 120
 push: 2
 parlay_win: 8
-parlay_loss: 26
+parlay_loss: 28
 parlay_push: 0
 betback_win: 1
 betback_loss: 2
 betback_push: 3
-pending: 26
-win_pct: 0.546
-void: 4
-total_units: 232.60000000000002
-account_units: 11.28
-pending_units: 43.5
+pending: 23
+win_pct: 0.538
+void: 5
+total_units: 243.60000000000002
+account_units: 9.51
+pending_units: 42.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -71,53 +71,41 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: NYR(vsPIT) win
-  line: "-105"
-- sport: NHL
-  units: 1.0
-  description: BOS(@WAS) win
-  line: "-145"
-- sport: NHL
-  units: 1.0
-  description: VAN(@MON) win
-  line: "+140"
-- sport: NHL
-  units: 1.0
-  description: BOS @ BOS o5.5
-  line: "-115"
-- sport: NHL
-  units: 1.0
-  description: PIT @ NYR o5.5
-  line: "-120"
-- sport: NHL
-  units: 1.0
-  description: VAN @ MTL u6.0
-  line: "+100"
-- sport: NHL
-  units: 1.0
-  description: CGY @ WPG u6.0
-  line: "-105"
-- sport: NHL
-  units: 0.25
-  description: NYR + VAN + BOS wins
-  line: "+700"
-- sport: NHL
-  units: 0.25
-  description: CGY @ WPG u6.0 + VAN @ MTL u 6.0 + PIT @ NYR o6.0 + BOS @ WAS o5.5
-  line: "+1235"
-- sport: NBA
-  units: 1.0
-  description: NYK(@CHI) win
-  line: "+155"
-- sport: NBA
-  units: 1.0
-  description: SAS(vsMEM) -3.0
-  line: "-120"
-- sport: NBA
-  units: 1.0
-  description: HOU(@OKC) -3.0
-  line: "-140"
-- sport: NBA
-  units: 1.0
-  description: NO(vsSAC) -3.0
+  description: OTT @ EDM o6.5
   line: "-130"
+- sport: NHL
+  units: 1.0
+  description: VAN @ MTL o6.0
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: CGY @ WPG o6.0
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: DAL @ CBJ o5.0
+  line: "-130"
+- sport: NHL
+  units: 1.0
+  description: MIN @ COL o5.5
+  line: "-120"
+- sport: NHL
+  units: 1.0
+  description: ANA(@LAK) win
+  line: "+105"
+- sport: NHL
+  units: 1.0
+  description: STL(vsARI) win
+  line: "-170"
+- sport: NHL
+  units: 1.0
+  description: CAR(@CHI) win
+  line: "-170"
+- sport: NHL
+  units: 1.0
+  description: COL(vsMIN) win
+  line: "-175"
+- sport: NHL
+  units: 1.0
+  description: STL + COL + EDM + ANA wins
+  line: "+639"
