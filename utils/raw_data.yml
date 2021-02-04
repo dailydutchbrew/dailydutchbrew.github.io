@@ -2669,7 +2669,7 @@
   line: -120
   units: 1.0
   description: "DET @ TB o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/03/2021"
 
 - sport: "NHL"
@@ -2677,7 +2677,7 @@
   line: -110
   units: 1.0
   description: "BOS @ PHI o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/03/2021"
 
 - sport: "NHL"
@@ -2685,7 +2685,7 @@
   line: +115
   units: 1.0
   description: "PHI(vs BOS) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/03/2021"
 
 - sport: "NHL"
@@ -2693,7 +2693,7 @@
   line: -125
   units: 1.0
   description: "TB(vs DET) -1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/03/2021"
 
 - sport: "NHL"
@@ -2701,7 +2701,7 @@
   line: +881
   units: 0.5
   description: "PHI(vs BOS) win o5.5 + TB(vs DET) win o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/03/2021"
 
 - sport: "NBA"
@@ -2709,5 +2709,117 @@
   line: +623
   units: 1.0
   description: "MIL + PHI + SAS + PHX + NYK wins"
-  result: "PENDING"
+  result: "PUSH"
   date: "02/03/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +404
+  units: 1.0
+  description: "MTL + TOR + STL + CAR wins"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 1.0
+  description: "DAL(@CBJ) win"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 1.0
+  description: "FLA(vsNSH) win"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 1.0
+  description: "WAS(vsNYR) win"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -175
+  units: 1.0
+  description: "CAR(@CHI) win"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -165
+  units: 1.0
+  description: "ARI(@STL) win"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: +125
+  units: 0.5
+  description: "TOR(vsVAN) -1.5"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: +150
+  units: 0.5
+  description: "STL(vsARI) -1.5"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: +135
+  units: 0.5
+  description: "CAR(@CHI) -1.5"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: -130
+  units: 0.5
+  description: "MTL(vsOTT) -1.5"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -135
+  units: 1.0
+  description: "DAL @ CBJ o5.0"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -135
+  units: 1.0
+  description: "WAS @ NYR o6.0"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "OTT @ MTL o6.5"
+  result: "PENDING"
+  date: "02/04/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 1.0
+  description: "VAN @ TOR o6.5"
+  result: "PENDING"
+  date: "02/04/2021"

@@ -1,19 +1,19 @@
 ---
-win: 146
-loss: 123
+win: 149
+loss: 124
 push: 2
 parlay_win: 8
-parlay_loss: 28
+parlay_loss: 29
 parlay_push: 0
 betback_win: 2
 betback_loss: 2
-betback_push: 3
-pending: 19
-win_pct: 0.543
+betback_push: 4
+pending: 27
+win_pct: 0.546
 void: 5
-total_units: 249.10000000000002
-account_units: 21.8
-pending_units: 37.5
+total_units: 261.1
+account_units: 17.34
+pending_units: 44.0
 bank: -27.0
 futures:
 - sport: NBA
@@ -71,25 +71,57 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: DET @ TB o5.5
-  line: "-120"
+  description: MTL + TOR + STL + CAR wins
+  line: "+404"
 - sport: NHL
   units: 1.0
-  description: BOS @ PHI o5.5
-  line: "-110"
+  description: DAL(@CBJ) win
+  line: "-115"
 - sport: NHL
   units: 1.0
-  description: PHI(vs BOS) win
-  line: "+115"
+  description: FLA(vsNSH) win
+  line: "-115"
 - sport: NHL
   units: 1.0
-  description: TB(vs DET) -1.5
-  line: "-125"
+  description: WAS(vsNYR) win
+  line: "-105"
+- sport: NHL
+  units: 1.0
+  description: CAR(@CHI) win
+  line: "-175"
+- sport: NHL
+  units: 1.0
+  description: ARI(@STL) win
+  line: "-165"
 - sport: NHL
   units: 0.5
-  description: PHI(vs BOS) win o5.5 + TB(vs DET) win o5.5
-  line: "+881"
-- sport: NBA
+  description: TOR(vsVAN) -1.5
+  line: "+125"
+- sport: NHL
+  units: 0.5
+  description: STL(vsARI) -1.5
+  line: "+150"
+- sport: NHL
+  units: 0.5
+  description: CAR(@CHI) -1.5
+  line: "+135"
+- sport: NHL
+  units: 0.5
+  description: MTL(vsOTT) -1.5
+  line: "-130"
+- sport: NHL
   units: 1.0
-  description: MIL + PHI + SAS + PHX + NYK wins
-  line: "+623"
+  description: DAL @ CBJ o5.0
+  line: "-135"
+- sport: NHL
+  units: 1.0
+  description: WAS @ NYR o6.0
+  line: "-135"
+- sport: NHL
+  units: 1.0
+  description: OTT @ MTL o6.5
+  line: "-115"
+- sport: NHL
+  units: 1.0
+  description: VAN @ TOR o6.5
+  line: "-125"
