@@ -1,6 +1,6 @@
 ---
-win: 152
-loss: 133
+win: 155
+loss: 139
 push: 3
 parlay_win: 8
 parlay_loss: 29
@@ -9,10 +9,10 @@ betback_win: 2
 betback_loss: 2
 betback_push: 5
 pending: 17
-win_pct: 0.533
+win_pct: 0.527
 void: 5
-total_units: 265.1
-account_units: 22.01
+total_units: 273.6
+account_units: 18.95
 pending_units: 36.0
 bank: -27.0
 futures:
@@ -71,17 +71,17 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: NSH @ FLA o5.5
+  description: MTL + STL + NYI + TOR win
+  line: "+538"
+- sport: NHL
+  units: 1.0
+  description: NYI(vsPIT) win
   line: "-110"
 - sport: NHL
   units: 1.0
-  description: TB(@DET) -1.5
-  line: "-140"
+  description: VAN @ TOR o6.5
+  line: "-120"
 - sport: NHL
   units: 1.0
-  description: VGK(@LAK) -1.5
-  line: "+110"
-- sport: NHL
-  units: 1.0
-  description: ANA(vsSJS) win
-  line: "-115"
+  description: EDM @ CGY o6.0
+  line: "-135"

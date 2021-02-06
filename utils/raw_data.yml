@@ -2829,7 +2829,7 @@
   line: -110
   units: 1.0
   description: "NSH @ FLA o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/05/2021"
 
 - sport: "NHL"
@@ -2837,7 +2837,7 @@
   line: -140
   units: 1.0
   description: "TB(@DET) -1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/05/2021"
 
 - sport: "NHL"
@@ -2845,7 +2845,7 @@
   line: +110
   units: 1.0
   description: "VGK(@LAK) -1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/05/2021"
 
 - sport: "NHL"
@@ -2853,5 +2853,77 @@
   line: -115
   units: 1.0
   description: "ANA(vsSJS) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/05/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +538
+  units: 1.0
+  description: "MTL + STL + NYI + TOR win"
+  result: "PENDING"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 1.0
+  description: "MTL(@OTT) win"
+  result: "WIN"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 1.0
+  description: "MTL @OTT o6.5"
+  result: "LOSS"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: -105
+  units: 1.0
+  description: "MTL(@OTT) -1.5"
+  result: "LOSS"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 1.0
+  description: "STL(vsARI) win"
+  result: "LOSS"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "PL"
+  line: +150
+  units: 0.5
+  description: "STL(vsARI) -1.5"
+  result: "LOSS"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -110
+  units: 1.0
+  description: "NYI(vsPIT) win"
+  result: "PENDING"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "VAN @ TOR o6.5"
+  result: "PENDING"
+  date: "02/06/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -135
+  units: 1.0
+  description: "EDM @ CGY o6.0"
+  result: "PENDING"
+  date: "02/06/2021"
