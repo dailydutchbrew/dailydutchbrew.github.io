@@ -2861,7 +2861,7 @@
   line: +538
   units: 1.0
   description: "MTL + STL + NYI + TOR win"
-  result: "PENDING"
+  result: "PUSH"
   date: "02/06/2021"
 
 - sport: "NHL"
@@ -2909,7 +2909,7 @@
   line: -110
   units: 1.0
   description: "NYI(vsPIT) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/06/2021"
 
 - sport: "NHL"
@@ -2917,7 +2917,7 @@
   line: -120
   units: 1.0
   description: "VAN @ TOR o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/06/2021"
 
 - sport: "NHL"
@@ -2925,5 +2925,37 @@
   line: -135
   units: 1.0
   description: "EDM @ CGY o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/06/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "PHI @ WAS o6.0"
+  result: "PENDING"
+  date: "02/07/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "CHI @ DAL o5.5"
+  result: "PENDING"
+  date: "02/07/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +738
+  units: 1.0
+  description: "PHI + CHI + FLA + VGK wins"
+  result: "PENDING"
+  date: "02/07/2021"
+
+- sport: "NFL"
+  type: "PARLAY"
+  line: +345
+  units: 1.0
+  description: "TB win + u 56.5"
+  result: "PENDING"
+  date: "02/07/2021"
