@@ -2933,7 +2933,7 @@
   line: -110
   units: 1.0
   description: "PHI @ WAS o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/07/2021"
 
 - sport: "NHL"
@@ -2941,7 +2941,7 @@
   line: -110
   units: 1.0
   description: "CHI @ DAL o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/07/2021"
 
 - sport: "NHL"
@@ -2949,7 +2949,7 @@
   line: +738
   units: 1.0
   description: "PHI + CHI + FLA + VGK wins"
-  result: "PENDING"
+  result: "PUSH"
   date: "02/07/2021"
 
 - sport: "NFL"
@@ -2957,5 +2957,29 @@
   line: +345
   units: 1.0
   description: "TB win + u 56.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/07/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "TB @ NSH o5.5"
+  result: "PENDING"
+  date: "02/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 0.5
+  description: "STL(vsARI) win"
+  result: "PENDING"
+  date: "02/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "NYI(vsNYR) win"
+  result: "PENDING"
+  date: "02/08/2021"
