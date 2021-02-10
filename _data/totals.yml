@@ -1,19 +1,19 @@
 ---
 win: 159
-loss: 143
-push: 3
+loss: 144
+push: 4
 parlay_win: 9
-parlay_loss: 29
+parlay_loss: 31
 parlay_push: 0
 betback_win: 2
-betback_loss: 2
+betback_loss: 3
 betback_push: 7
-pending: 18
-win_pct: 0.526
+pending: 19
+win_pct: 0.525
 void: 5
-total_units: 284.1
-account_units: 8.43
-pending_units: 37.0
+total_units: 287.35
+account_units: 7.18
+pending_units: 36.25
 bank: -12.0
 futures:
 - sport: NBA
@@ -69,23 +69,27 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: DAL + IND + CHA + NO + MIL wins
+  line: "+2050"
+- sport: NBA
+  units: 1.0
+  description: Sabonis o21.5 pts
+  line: "-115"
+- sport: NBA
+  units: 1.0
+  description: Sabonis o39.5 pt+reb+ast
+  line: "-106"
+- sport: NHL
+  units: 0.25
+  description: BOS(@NYR) -1.5
+  line: "+155"
+- sport: NHL
+  units: 0.5
+  description: BOS(@NYR) win
+  line: "-165"
 - sport: NHL
   units: 1.0
-  description: PHI @ WAS o6.0
-  line: "-120"
-- sport: NHL
-  units: 1.0
-  description: EDM @ OTT o6.5
-  line: "-110"
-- sport: NHL
-  units: 1.0
-  description: DAL + VGK + WPG + CGY wins
-  line: "+630"
-- sport: NHL
-  units: 1.0
-  description: PHI @ WAS o6.0 + DET @ FLA o5.5 + EDM @ OTT o6.5
-  line: "+528"
-- sport: NHL
-  units: 1.0
-  description: TB @ NSH o5.5 + CHI @ DAL o5.5 + ANA @ VGK o5.5 + SJS @ LAK o6.0
-  line: "+1264"
+  description: TOR @ MTL o6.0
+  line: "-150"
