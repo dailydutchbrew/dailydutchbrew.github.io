@@ -3080,15 +3080,23 @@
   line: -110
   units: 0.25
   description: "EDM @ MTL o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/11/2021"
 
 - sport: "NHL"
   type: "OU"
   line: -105
   units: 0.25
+  description: "CBJ @ CHI o5.5"
+  result: "WIN"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.25
   description: "CAR @ DAL o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/11/2021"
 
 - sport: "NHL"
@@ -3096,7 +3104,7 @@
   line: -120
   units: 0.5
   description: "ANA @ VGK o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/11/2021"
 
 - sport: "NHL"
@@ -3104,7 +3112,7 @@
   line: -120
   units: 0.5
   description: "SJS @ LAK o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/11/2021"
 
 - sport: "NHL"
@@ -3112,7 +3120,7 @@
   line: -110
   units: 0.5
   description: "PIT @ NYI o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/11/2021"
 
 - sport: "NHL"
@@ -3120,5 +3128,13 @@
   line: +646
   units: 1.0
   description: "PIT + TB + CGY + VGK"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/11/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 1.0
+  description: "STL(@ARI) win"
+  result: "PENDING"
+  date: "02/12/2021"
