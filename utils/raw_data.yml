@@ -2992,7 +2992,7 @@
   line: -120
   units: 1.0
   description: "PHI @ WAS o6.0"
-  result: "PUSH"
+  result: "VOID"
   date: "02/09/2021"
 
 - sport: "NHL"
@@ -3032,7 +3032,7 @@
   line: +2050
   units: 0.5
   description: "DAL + IND + CHA + NO + MIL wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/10/2021"
 
 - sport: "NBA"
@@ -3040,7 +3040,7 @@
   line: -115
   units: 1.0
   description: "Sabonis o21.5 pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/10/2021"
 
 - sport: "NBA"
@@ -3048,7 +3048,7 @@
   line: -106
   units: 1.0
   description: "Sabonis o39.5 pt+reb+ast"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/10/2021"
 
 - sport: "NHL"
@@ -3056,7 +3056,7 @@
   line: +155
   units: 0.25
   description: "BOS(@NYR) -1.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/10/2021"
 
 - sport: "NHL"
@@ -3064,7 +3064,7 @@
   line: -165
   units: 0.5
   description: "BOS(@NYR) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/10/2021"
 
 - sport: "NHL"
@@ -3072,5 +3072,53 @@
   line: -150
   units: 1.0
   description: "TOR @ MTL o6.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "02/10/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.25
+  description: "EDM @ MTL o6.5"
+  result: "PENDING"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 0.25
+  description: "CAR @ DAL o5.5"
+  result: "PENDING"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "ANA @ VGK o5.5"
+  result: "PENDING"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "SJS @ LAK o6.0"
+  result: "PENDING"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "PIT @ NYI o5.5"
+  result: "PENDING"
+  date: "02/11/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +646
+  units: 1.0
+  description: "PIT + TB + CGY + VGK"
+  result: "PENDING"
+  date: "02/11/2021"
