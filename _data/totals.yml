@@ -1,19 +1,19 @@
 ---
-win: 165
-loss: 149
+win: 168
+loss: 152
 push: 4
 parlay_win: 9
-parlay_loss: 31
+parlay_loss: 32
 parlay_push: 0
 betback_win: 2
-betback_loss: 5
+betback_loss: 6
 betback_push: 7
-pending: 21
+pending: 19
 win_pct: 0.525
 void: 6
-total_units: 295.6
-account_units: 6.31
-pending_units: 36.0
+total_units: 301.6
+account_units: 3.22
+pending_units: 38.0
 bank: -12.0
 futures:
 - sport: NBA
@@ -69,35 +69,27 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
+- sport: NBA
+  units: 1.0
+  description: BOS(@WAS) -6.0
+  line: "-120"
+- sport: NBA
+  units: 1.0
+  description: LAL(@DEN) win
+  line: "-150"
 - sport: NHL
-  units: 0.5
-  description: BOS + MTL + VGK + WPG wins
-  line: "+727"
-- sport: NHL
-  units: 0.5
-  description: OTT @ WPG o6.0
-  line: "-125"
-- sport: NHL
-  units: 0.5
-  description: VGK @ SJS o6.0
-  line: "-125"
-- sport: NHL
-  units: 0.5
-  description: WPG + VGK wins
-  line: "+118"
-- sport: NHL
-  units: 0.5
-  description: MTL(@TOR) win
-  line: "+115"
-- sport: NHL
-  units: 0.5
-  description: MTL @ TOR o6.0
+  units: 1.0
+  description: WAS @ PIT o6.0
   line: "-145"
 - sport: NHL
-  units: 0.5
-  description: CAR @ DAL o5.5
+  units: 1.0
+  description: PIT(vs WAS) win
   line: "-120"
 - sport: NHL
-  units: 0.5
-  description: STL(@ARI) win
-  line: "-120"
+  units: 1.0
+  description: COL @ VGK o5.0
+  line: "-105"
+- sport: NHL
+  units: 1.0
+  description: VGK(vs COL) win
+  line: "+100"
