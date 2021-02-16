@@ -3256,7 +3256,7 @@
   line: -120
   units: 1.0
   description: "STL @ ARI u 5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/15/2021"
 
 - sport: "NHL"
@@ -3264,7 +3264,31 @@
   line: -115
   units: 1.0
   description: "CBJ @ CAR o 5.5"
-  result: "PENDING"
+  result: "WIN"
+  date: "02/15/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 1.0
+  description: "NYI(@BUF) win"
+  result: "WIN"
+  date: "02/15/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 1.0
+  description: "CHI(@DET) win"
+  result: "WIN"
+  date: "02/15/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -165
+  units: 1.0
+  description: "DAL(vsNSH) win"
+  result: "VOID"
   date: "02/15/2021"
 
 - sport: "NHL"
@@ -3273,20 +3297,28 @@
   units: 1.0
   description: "NYI(@BUF) win"
   result: "PENDING"
-  date: "02/15/2021"
+  date: "02/16/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "WAS @ PIT o6.5"
+  result: "PENDING"
+  date: "02/16/2021"
 
 - sport: "NHL"
   type: "ML"
-  line: -140
+  line: -145
   units: 1.0
-  description: "CHI(@DET) win"
+  description: "NYR(vsNJ) win"
   result: "PENDING"
-  date: "02/15/2021"
+  date: "02/16/2021"
 
 - sport: "NHL"
-  type: "ML"
-  line: -165
+  type: "OU"
+  line: -110
   units: 1.0
-  description: "DAL(vsNSH) win"
+  description: "MIN @ LAK o5.5"
   result: "PENDING"
-  date: "02/15/2021"
+  date: "02/16/2021"
