@@ -3328,7 +3328,7 @@
   line: -120
   units: 1.0
   description: "FLA @ CAR o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/17/2021"
 
 - sport: "NHL"
@@ -3336,7 +3336,7 @@
   line: -120
   units: 1.0
   description: "OTT @ TOR o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/17/2021"
 
 - sport: "NHL"
@@ -3344,7 +3344,7 @@
   line: -135
   units: 1.0
   description: "CHI(@DET) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/17/2021"
 
 - sport: "NHL"
@@ -3352,7 +3352,7 @@
   line: -145
   units: 1.0
   description: "CGY(vsVAN) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/17/2021"
 
 - sport: "NHL"
@@ -3360,7 +3360,7 @@
   line: -140
   units: 1.0
   description: "EDM(vsWPG) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/17/2021"
 
 - sport: "NHL"
@@ -3368,5 +3368,45 @@
   line: -110
   units: 1.0
   description: "WPG @ EDM o6.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/17/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +100
+  units: 1.0
+  description: "NYI(@PIT) win"
+  result: "PENDING"
+  date: "02/18/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 1.0
+  description: "CBJ(vsNSH) win"
+  result: "PENDING"
+  date: "02/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "NJD @ BOS u5.5"
+  result: "PENDING"
+  date: "02/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 1.0
+  description: "NYR @ PHI o5.5"
+  result: "PENDING"
+  date: "02/18/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +793
+  units: 0.5
+  description: "CBJ + NYI + ARI + STL wins"
+  result: "PENDING"
+  date: "02/18/2021"
