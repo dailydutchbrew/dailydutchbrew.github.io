@@ -3376,7 +3376,7 @@
   line: +100
   units: 1.0
   description: "NYI(@PIT) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/18/2021"
 
 - sport: "NHL"
@@ -3384,7 +3384,7 @@
   line: -120
   units: 1.0
   description: "CBJ(vsNSH) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/18/2021"
 
 - sport: "NHL"
@@ -3392,7 +3392,7 @@
   line: -110
   units: 1.0
   description: "NJD @ BOS u5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/18/2021"
 
 - sport: "NHL"
@@ -3400,7 +3400,7 @@
   line: -120
   units: 1.0
   description: "NYR @ PHI o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/18/2021"
 
 - sport: "NHL"
@@ -3408,5 +3408,53 @@
   line: +793
   units: 0.5
   description: "CBJ + NYI + ARI + STL wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "CHI @ CAR o6.0"
+  result: "PENDING"
+  date: "02/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 1.0
+  description: "FLA(@DET) win in reg"
+  result: "PENDING"
+  date: "02/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 1.0
+  description: "EDM(@CGY) win"
+  result: "PENDING"
+  date: "02/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 1.0
+  description: "WPG @ VAN o6.0"
+  result: "PENDING"
+  date: "02/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 1.0
+  description: "WPG @ VAN o6.0"
+  result: "PENDING"
+  date: "02/19/2021"
+
+- sport: "NHL"
+  type: "SALAMI"
+  line: +100
+  units: 1.0
+  description: "Away Goals > Home Goals"
+  result: "PENDING"
+  date: "02/19/2021"
