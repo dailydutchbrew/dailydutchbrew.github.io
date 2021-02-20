@@ -3416,7 +3416,7 @@
   line: -115
   units: 1.0
   description: "CHI @ CAR o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "02/19/2021"
 
 - sport: "NHL"
@@ -3424,7 +3424,7 @@
   line: -130
   units: 1.0
   description: "FLA(@DET) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "02/19/2021"
 
 - sport: "NHL"
@@ -3432,7 +3432,7 @@
   line: -105
   units: 1.0
   description: "EDM(@CGY) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/19/2021"
 
 - sport: "NHL"
@@ -3440,15 +3440,7 @@
   line: -120
   units: 1.0
   description: "WPG @ VAN o6.0"
-  result: "PENDING"
-  date: "02/19/2021"
-
-- sport: "NHL"
-  type: "ML"
-  line: -120
-  units: 1.0
-  description: "WPG @ VAN o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/19/2021"
 
 - sport: "NHL"
@@ -3456,5 +3448,45 @@
   line: +100
   units: 1.0
   description: "Away Goals > Home Goals"
-  result: "PENDING"
+  result: "WIN"
   date: "02/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 1.0
+  description: "NJD(vsBUF) win"
+  result: "PENDING"
+  date: "02/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 1.0
+  description: "FLA(@DET) win in reg"
+  result: "PENDING"
+  date: "02/20/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 1.0
+  description: "FLA @ DET o5.5"
+  result: "PENDING"
+  date: "02/20/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 1.0
+  description: "TB @ CAR o6.0"
+  result: "PENDING"
+  date: "02/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 1.0
+  description: "CBJ(vsNSH) win"
+  result: "PENDING"
+  date: "02/20/2021"
