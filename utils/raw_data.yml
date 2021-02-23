@@ -3528,7 +3528,7 @@
   line: -105
   units: 0.5
   description: "DAL(@FLA) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/22/2021"
 
 - sport: "NHL"
@@ -3536,15 +3536,15 @@
   line: -130
   units: 0.5
   description: "BUF @ NYI u5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/22/2021"
 
 - sport: "NHL"
   type: "OU"
   line: -110
   units: 0.5
-  description: "LAK @ STL u5.5"
-  result: "PENDING"
+  description: "LAK @ STL o5.5"
+  result: "LOSS"
   date: "02/22/2021"
 
 - sport: "NHL"
@@ -3552,7 +3552,7 @@
   line: +158
   units: 0.25
   description: "NYI(vsBUF) win + TOR(vsCGY) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/22/2021"
 
 - sport: "NHL"
@@ -3560,7 +3560,7 @@
   line: +167
   units: 0.25
   description: "MIN(@SJS) win + STL(vsLAK) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/22/2021"
 
 - sport: "NHL"
@@ -3568,5 +3568,53 @@
   line: -125
   units: 0.5
   description: "MIN @ SJS o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "02/22/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "BUF @ NJD o6.0"
+  result: "PENDING"
+  date: "02/23/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "NJD(vsBUF) win"
+  result: "PENDING"
+  date: "02/23/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "EDM(vsVAN) win"
+  result: "PENDING"
+  date: "02/23/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "NSH @ DET o 5.5"
+  result: "PENDING"
+  date: "02/23/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MTL @ OTT u6.0"
+  result: "PENDING"
+  date: "02/23/2021"
+
+- sport: "NHL"
+  type: "BETBACK"
+  line: +778
+  units: 0.5
+  description: "MTL + EDM + NJD + CHI wins"
+  result: "PENDING"
+  date: "02/23/2021"
