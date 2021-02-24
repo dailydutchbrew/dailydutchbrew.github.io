@@ -3575,8 +3575,8 @@
   type: "OU"
   line: -145
   units: 0.5
-  description: "BUF @ NJD o6.0"
-  result: "PENDING"
+  description: "BUF @ NJD u6.0"
+  result: "WIN"
   date: "02/23/2021"
 
 - sport: "NHL"
@@ -3584,7 +3584,7 @@
   line: -115
   units: 0.5
   description: "NJD(vsBUF) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/23/2021"
 
 - sport: "NHL"
@@ -3592,7 +3592,7 @@
   line: -130
   units: 0.5
   description: "EDM(vsVAN) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/23/2021"
 
 - sport: "NHL"
@@ -3600,7 +3600,7 @@
   line: -105
   units: 0.5
   description: "NSH @ DET o 5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/23/2021"
 
 - sport: "NHL"
@@ -3608,7 +3608,7 @@
   line: -110
   units: 0.5
   description: "MTL @ OTT u6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/23/2021"
 
 - sport: "NHL"
@@ -3616,5 +3616,37 @@
   line: +778
   units: 0.5
   description: "MTL + EDM + NJD + CHI wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/23/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "TB(vsCAR) win"
+  result: "PENDING"
+  date: "02/24/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CAR @ TB o6.0"
+  result: "PENDING"
+  date: "02/24/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -155
+  units: 0.5
+  description: "ARI(vsANA) win"
+  result: "PENDING"
+  date: "02/24/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "ANA @ ARI u5.5"
+  result: "PENDING"
+  date: "02/24/2021"
