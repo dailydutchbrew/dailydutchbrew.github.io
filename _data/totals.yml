@@ -1,6 +1,6 @@
 ---
-win: 194
-loss: 176
+win: 195
+loss: 180
 push: 4
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 18
-win_pct: 0.524
+pending: 15
+win_pct: 0.52
 void: 7
-total_units: 346.1
-account_units: -0.39
-pending_units: 34.5
+total_units: 347.1
+account_units: -0.17
+pending_units: 33.0
 bank: -12.0
 futures:
 - sport: NBA
@@ -71,21 +71,9 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 0.5
-  description: OTT(vsCGY) win
-  line: "+145"
+  description: COL(vsARI) win
+  line: "-170"
 - sport: NHL
   units: 0.5
-  description: CAR @ TB o6.0
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: BOS @ NYI u5.0
-  line: "+105"
-- sport: NHL
-  units: 0.5
-  description: NJD @ BUF u5.5
-  line: "-115"
-- sport: NHL
-  units: 0.5
-  description: MON @ WPG u6.5
-  line: "-125"
+  description: AWAY GOALS > HOME GOALS
+  line: "-140"
