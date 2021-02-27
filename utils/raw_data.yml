@@ -3696,7 +3696,7 @@
   line: -170
   units: 0.5
   description: "COL(vsARI) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/26/2021"
 
 - sport: "NHL"
@@ -3704,5 +3704,64 @@
   line: -140
   units: 0.5
   description: "AWAY GOALS > HOME GOALS"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/26/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +130
+  units: 0.25
+  description: "OTT(vsCGY) win"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +130
+  units: 0.25
+  description: "OTT(vsCGY) win"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "CAR @ FLA o6.0"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "MTL(@WPG) win"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "VGK(@ANA) reg win"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 0.5
+  description: "STL(@SJS) win"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "Away > Home goals"
+  result: "PENDING"
+  date: "02/27/2021"
+
+- type: "BANK"
+  units: -5.0
