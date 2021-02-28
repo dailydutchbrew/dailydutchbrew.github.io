@@ -1,6 +1,6 @@
 ---
-win: 196
-loss: 181
+win: 199
+loss: 184
 push: 4
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 18
 win_pct: 0.52
 void: 7
-total_units: 350.1
-account_units: 2.63
-pending_units: 35.0
+total_units: 351.35
+account_units: 3.98
+pending_units: 33.5
 bank: -17.0
 futures:
 - sport: NBA
@@ -71,29 +71,21 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 0.25
-  description: OTT(vsCGY) win
-  line: "+130"
+  description: Home > Away goals
+  line: "+110"
 - sport: NHL
   units: 0.25
-  description: OTT(vsCGY) win
-  line: "+130"
+  description: BOS(@NYR) win
+  line: "-165"
 - sport: NHL
   units: 0.5
-  description: CAR @ FLA o6.0
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: MTL(@WPG) win
-  line: "-145"
-- sport: NHL
-  units: 0.5
-  description: VGK(@ANA) reg win
-  line: "-130"
-- sport: NHL
-  units: 0.5
-  description: STL(@SJS) win
-  line: "-160"
-- sport: NHL
-  units: 0.5
-  description: Away > Home goals
-  line: "-135"
+  description: CHI(vsDET) win
+  line: "-190"
+- sport: NBA
+  units: 0.25
+  description: B. Hield o3.5 3's
+  line: "-179"
+- sport: NBA
+  units: 0.25
+  description: D. Divincenzo o1.5 3's
+  line: "-156"
