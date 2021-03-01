@@ -3763,7 +3763,7 @@
   line: +110
   units: 0.25
   description: "Home > Away goals"
-  result: "PENDING"
+  result: "WIN"
   date: "02/28/2021"
 
 - sport: "NHL"
@@ -3771,7 +3771,7 @@
   line: -165
   units: 0.25
   description: "BOS(@NYR) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/28/2021"
 
 - sport: "NHL"
@@ -3779,7 +3779,7 @@
   line: -190
   units: 0.5
   description: "CHI(vsDET) win"
-  result: "PENDING"
+  result: "WIN"
   date: "02/28/2021"
 
 - sport: "NBA"
@@ -3787,7 +3787,7 @@
   line: -179
   units: 0.25
   description: "B. Hield o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "02/28/2021"
 
 - sport: "NBA"
@@ -3795,5 +3795,53 @@
   line: -156
   units: 0.25
   description: "D. Divincenzo o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "02/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "J. Harden o3.5 3's"
+  result: "PENDING"
+  date: "03/01/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CGY @ OTT o6.0"
+  result: "PENDING"
+  date: "03/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "VAN(@WPG) win"
+  result: "PENDING"
+  date: "03/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "VGK(vsMIN) win"
+  result: "PENDING"
+  date: "03/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -155
+  units: 0.5
+  description: "STL(@ANA) win"
+  result: "PENDING"
+  date: "03/01/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -190
+  units: 0.5
+  description: "COL(vsSJS) win"
+  result: "PENDING"
+  date: "03/01/2021"

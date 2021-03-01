@@ -1,6 +1,6 @@
 ---
-win: 199
-loss: 184
+win: 203
+loss: 185
 push: 4
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 18
-win_pct: 0.52
+pending: 19
+win_pct: 0.523
 void: 7
-total_units: 351.35
-account_units: 3.98
-pending_units: 33.5
+total_units: 354.35
+account_units: 3.06
+pending_units: 35.0
 bank: -17.0
 futures:
 - sport: NBA
@@ -69,23 +69,27 @@ futures:
   description: COL to win the West Division
   line: "+175"
 non_future_pending:
-- sport: NHL
-  units: 0.25
-  description: Home > Away goals
-  line: "+110"
-- sport: NHL
-  units: 0.25
-  description: BOS(@NYR) win
-  line: "-165"
+- sport: NBA
+  units: 0.5
+  description: J. Harden o3.5 3's
+  line: "-123"
 - sport: NHL
   units: 0.5
-  description: CHI(vsDET) win
+  description: CGY @ OTT o6.0
+  line: "-115"
+- sport: NHL
+  units: 0.5
+  description: VAN(@WPG) win
+  line: "-130"
+- sport: NHL
+  units: 0.5
+  description: VGK(vsMIN) win
+  line: "-140"
+- sport: NHL
+  units: 0.5
+  description: STL(@ANA) win
+  line: "-155"
+- sport: NHL
+  units: 0.5
+  description: COL(vsSJS) win
   line: "-190"
-- sport: NBA
-  units: 0.25
-  description: B. Hield o3.5 3's
-  line: "-179"
-- sport: NBA
-  units: 0.25
-  description: D. Divincenzo o1.5 3's
-  line: "-156"
