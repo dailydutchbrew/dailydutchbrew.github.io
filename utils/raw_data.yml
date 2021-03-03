@@ -3851,7 +3851,7 @@
   line: -140
   units: 0.5
   description: "WPG(vsVAN) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/02/2021"
 
 - sport: "NHL"
@@ -3859,13 +3859,69 @@
   line: -130
   units: 0.5
   description: "CAR(@NSH) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/02/2021"
 
 - sport: "NHL"
   type: "ML"
-  line: -165
-  units: 0.5
-  description: "TB(@DAL) win"
+  line: +130
+  units: 0.25
+  description: "WAS(@BOS) win"
   result: "PENDING"
-  date: "03/02/2021"
+  date: "03/03/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +100
+  units: 0.25
+  description: "LAK(vsARI) win"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 0.25
+  description: "STL (@ANA) win"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.25
+  description: "MIN @ VGK"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 0.25
+  description: "COL(@SJS) win in reg"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -132
+  units: 0.25
+  description: "J Harden o3.5"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -122
+  units: 0.25
+  description: "D Lillard o4.5"
+  result: "PENDING"
+  date: "03/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.25
+  description: "S Curry o5.5"
+  result: "PENDING"
+  date: "03/03/2021"
