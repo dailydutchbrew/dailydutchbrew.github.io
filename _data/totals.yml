@@ -1,6 +1,6 @@
 ---
-win: 207
-loss: 188
+win: 212
+loss: 191
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 21
-win_pct: 0.524
+pending: 16
+win_pct: 0.526
 void: 7
-total_units: 357.35
-account_units: 4.48
-pending_units: 34.0
+total_units: 358.85
+account_units: 5.26
+pending_units: 33.5
 bank: -17.0
 futures:
 - sport: NBA
@@ -70,34 +70,14 @@ futures:
   line: "+175"
 non_future_pending:
 - sport: NHL
-  units: 0.25
-  description: WAS(@BOS) win
-  line: "+130"
+  units: 0.5
+  description: NYI(vsBUF) win in reg
+  line: "-125"
 - sport: NHL
-  units: 0.25
-  description: LAK(vsARI) win
-  line: "+100"
-- sport: NHL
-  units: 0.25
-  description: STL (@ANA) win
+  units: 0.5
+  description: FLA(vsNSH) win
   line: "-145"
 - sport: NHL
-  units: 0.25
-  description: MIN @ VGK
-  line: "-140"
-- sport: NHL
-  units: 0.25
-  description: COL(@SJS) win in reg
-  line: "-145"
-- sport: NBA
-  units: 0.25
-  description: J Harden o3.5
-  line: "-132"
-- sport: NBA
-  units: 0.25
-  description: D Lillard o4.5
-  line: "-122"
-- sport: NBA
-  units: 0.25
-  description: S Curry o5.5
-  line: "-114"
+  units: 0.5
+  description: MTL(vsWPG) win
+  line: "-150"
