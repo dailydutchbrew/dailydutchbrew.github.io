@@ -3931,7 +3931,7 @@
   line: -125
   units: 0.5
   description: "NYI(vsBUF) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/04/2021"
 
 - sport: "NHL"
@@ -3939,7 +3939,7 @@
   line: -145
   units: 0.5
   description: "FLA(vsNSH) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/04/2021"
 
 - sport: "NHL"
@@ -3947,5 +3947,37 @@
   line: -150
   units: 0.5
   description: "MTL(vsWPG) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/04/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "TB(@CHI) win in reg"
+  result: "PENDING"
+  date: "03/05/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "BOS(vsWAS) win"
+  result: "PENDING"
+  date: "03/05/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +100
+  units: 0.5
+  description: "COL(vsANA) -1.5"
+  result: "PENDING"
+  date: "03/05/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "VGK(@SJS) wrin in reg"
+  result: "PENDING"
+  date: "03/05/2021"
