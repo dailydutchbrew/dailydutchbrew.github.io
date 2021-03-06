@@ -1,5 +1,5 @@
 ---
-win: 215
+win: 217
 loss: 195
 push: 5
 parlay_win: 9
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 18
-win_pct: 0.524
+pending: 16
+win_pct: 0.527
 void: 7
 total_units: 363.35
-account_units: 3.38
-pending_units: 34.5
+account_units: 5.08
+pending_units: 33.5
 bank: -17.0
 futures:
 - sport: NBA
@@ -75,17 +75,9 @@ non_future_pending:
   line: "+113"
 - sport: NHL
   units: 0.5
-  description: NYI(vs BUF) reg win
-  line: "-145"
-- sport: NHL
-  units: 0.5
   description: TOR(@ VAN) win
   line: "-190"
 - sport: NHL
   units: 0.5
   description: MIN(@ ARI) win
   line: "-145"
-- sport: NHL
-  units: 0.5
-  description: FLA(@ NSH) win
-  line: "-140"

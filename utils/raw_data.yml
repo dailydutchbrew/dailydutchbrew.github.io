@@ -3978,7 +3978,7 @@
   type: "ML"
   line: -145
   units: 0.5
-  description: "VGK(@SJS) wrin in reg"
+  description: "VGK(@SJS) win in reg"
   result: "LOSS"
   date: "03/05/2021"
 
@@ -3995,7 +3995,7 @@
   line: -145
   units: 0.5
   description: "NYI(vs BUF) reg win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/06/2021"
 
 - sport: "NHL"
@@ -4019,5 +4019,5 @@
   line: -140
   units: 0.5
   description: "FLA(@ NSH) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/06/2021"
