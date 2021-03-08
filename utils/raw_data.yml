@@ -4027,7 +4027,7 @@
   line: -150
   units: 0.5
   description: "NYI(vsBUF) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/07/2021"
 
 - sport: "NHL"
@@ -4035,7 +4035,7 @@
   line: -145
   units: 0.5
   description: "PIT(vsNYR) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/07/2021"
 
 - sport: "NHL"
@@ -4043,7 +4043,7 @@
   line: -150
   units: 0.5
   description: "CAR(vsFLA) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/07/2021"
 
 - sport: "NHL"
@@ -4051,7 +4051,7 @@
   line: -150
   units: 0.5
   description: "BOS(vsNJD) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/07/2021"
 
 - sport: "NHL"
@@ -4059,5 +4059,37 @@
   line: -145
   units: 0.5
   description: "DAL(vsNSH) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/07/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -155
+  units: 1.0
+  description: "MTL(@VAN) win"
+  result: "PENDING"
+  date: "03/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 1.0
+  description: "LAK(@ANA) win"
+  result: "PENDING"
+  date: "03/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 1.0
+  description: "VGK(@MIN) win"
+  result: "PENDING"
+  date: "03/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -141
+  units: 1.0
+  description: "EDM(@OTT) win in reg"
+  result: "PENDING"
+  date: "03/08/2021"
