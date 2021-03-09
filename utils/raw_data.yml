@@ -4067,7 +4067,7 @@
   line: -155
   units: 1.0
   description: "MTL(@VAN) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/08/2021"
 
 - sport: "NHL"
@@ -4075,7 +4075,7 @@
   line: -125
   units: 1.0
   description: "LAK(@ANA) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/08/2021"
 
 - sport: "NHL"
@@ -4083,7 +4083,7 @@
   line: -120
   units: 1.0
   description: "VGK(@MIN) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/08/2021"
 
 - sport: "NHL"
@@ -4091,5 +4091,29 @@
   line: -141
   units: 1.0
   description: "EDM(@OTT) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/08/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -150
+  units: 1.0
+  description: "PHI(vsBUF) win in reg"
+  result: "PENDING"
+  date: "03/09/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 1.0
+  description: "FLA(vsCLB) win"
+  result: "PENDING"
+  date: "03/09/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +115
+  units: 1.0
+  description: "CHI(@DAL) win"
+  result: "PENDING"
+  date: "03/09/2021"
