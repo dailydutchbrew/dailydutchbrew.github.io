@@ -4099,7 +4099,7 @@
   line: -150
   units: 1.0
   description: "PHI(vsBUF) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/09/2021"
 
 - sport: "NHL"
@@ -4107,7 +4107,7 @@
   line: -135
   units: 1.0
   description: "FLA(vsCLB) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/09/2021"
 
 - sport: "NHL"
@@ -4115,5 +4115,21 @@
   line: +115
   units: 1.0
   description: "CHI(@DAL) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/09/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 1.0
+  description: "OTT(@EDM) +1.5"
+  result: "PENDING"
+  date: "03/10/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 1.0
+  description: "Ja Morant o 24 pts"
+  result: "PENDING"
+  date: "03/10/2021"

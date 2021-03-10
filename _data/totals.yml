@@ -1,6 +1,6 @@
 ---
-win: 222
-loss: 202
+win: 223
+loss: 204
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 16
-win_pct: 0.524
+pending: 15
+win_pct: 0.522
 void: 7
-total_units: 372.85
-account_units: 0.65
-pending_units: 35.0
+total_units: 374.85
+account_units: 0.39
+pending_units: 34.0
 bank: -17.0
 futures:
 - sport: NBA
@@ -71,13 +71,9 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 1.0
-  description: PHI(vsBUF) win in reg
-  line: "-150"
-- sport: NHL
+  description: OTT(@EDM) +1.5
+  line: "-125"
+- sport: NBA
   units: 1.0
-  description: FLA(vsCLB) win
-  line: "-135"
-- sport: NHL
-  units: 1.0
-  description: CHI(@DAL) win
-  line: "+115"
+  description: Ja Morant o 24 pts
+  line: "-149"
