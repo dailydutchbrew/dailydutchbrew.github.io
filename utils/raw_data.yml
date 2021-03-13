@@ -4133,3 +4133,110 @@
   description: "Ja Morant o 24 pts"
   result: "PENDING"
   date: "03/10/2021"
+
+- type: "BANK"
+  units: -5.0
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "MTL(@CGY) win"
+  result: "LOSS"
+  date: "03/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "WAS @ PHI o 6.0"
+  result: "WIN"
+  date: "03/11/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "FLA(@CLB) win"
+  result: "WIN"
+  date: "03/11/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -180
+  units: 0.5
+  description: "TOR(vsWPG) win"
+  result: "WIN"
+  date: "03/11/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -180
+  units: 0.5
+  description: "BOS(vsNYR) win"
+  result: "WIN"
+  date: "03/11/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "NJD @ NYI u5.5"
+  result: "LOSS"
+  date: "03/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 1.0
+  description: "M. Brogdon o1.5 3's"
+  result: "WIN"
+  date: "03/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 1.0
+  description: "L. James o1.5 3's"
+  result: "LOSS"
+  date: "03/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -170
+  units: 1.0
+  description: "MIN(vsARI) win"
+  result: "WIN"
+  date: "03/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -170
+  units: 1.0
+  description: "MIN(vsARI) win"
+  result: "WIN"
+  date: "03/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -180
+  units: 1.0
+  description: "BOS(vsNYR) win"
+  result: "PENDING"
+  date: "03/13/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 1.0
+  description: "DAL(@CBJ) win"
+  result: "PENDING"
+  date: "03/13/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -167
+  units: 1.0
+  description: "TB(vsNSH) win in reg"
+  result: "PENDING"
+  date: "03/13/2021"

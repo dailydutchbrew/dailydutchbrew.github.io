@@ -1,6 +1,6 @@
 ---
-win: 223
-loss: 204
+win: 230
+loss: 207
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,13 +8,13 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 15
-win_pct: 0.522
+pending: 18
+win_pct: 0.526
 void: 7
-total_units: 374.85
-account_units: 0.39
-pending_units: 34.0
-bank: -17.0
+total_units: 384.85
+account_units: 3.61
+pending_units: 37.0
+bank: -22.0
 futures:
 - sport: NBA
   units: 3.0
@@ -77,3 +77,15 @@ non_future_pending:
   units: 1.0
   description: Ja Morant o 24 pts
   line: "-149"
+- sport: NHL
+  units: 1.0
+  description: BOS(vsNYR) win
+  line: "-180"
+- sport: NHL
+  units: 1.0
+  description: DAL(@CBJ) win
+  line: "-140"
+- sport: NHL
+  units: 1.0
+  description: TB(vsNSH) win in reg
+  line: "-167"
