@@ -1,6 +1,6 @@
 ---
-win: 230
-loss: 207
+win: 231
+loss: 211
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,13 +8,13 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 18
-win_pct: 0.526
+pending: 24
+win_pct: 0.523
 void: 7
-total_units: 384.85
-account_units: 3.61
-pending_units: 37.0
-bank: -22.0
+total_units: 407.85
+account_units: 0.21
+pending_units: 55.0
+bank: -40.0
 futures:
 - sport: NBA
   units: 3.0
@@ -68,24 +68,57 @@ futures:
   units: 2.0
   description: COL to win the West Division
   line: "+175"
+- sport: MLB
+  units: 3.0
+  description: MIL o 82.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: SD o 94.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: SD o 94.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: WAS o 84.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: KC o 72.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: TOR o 87.5 wins
+  line: "-115"
+- sport: MLB
+  units: 3.0
+  description: TOR o 86.5 wins
+  line: "-115"
 non_future_pending:
 - sport: NHL
-  units: 1.0
-  description: OTT(@EDM) +1.5
-  line: "-125"
-- sport: NBA
-  units: 1.0
-  description: Ja Morant o 24 pts
-  line: "-149"
+  units: 0.5
+  description: MIN(vsARI) win in reg
+  line: "-115"
 - sport: NHL
-  units: 1.0
-  description: BOS(vsNYR) win
-  line: "-180"
-- sport: NHL
-  units: 1.0
-  description: DAL(@CBJ) win
+  units: 0.5
+  description: CAR(@DET) win in reg
   line: "-140"
 - sport: NHL
-  units: 1.0
-  description: TB(vsNSH) win in reg
-  line: "-167"
+  units: 0.5
+  description: COL(vsLAK) win in reg
+  line: "-140"
+- sport: NHL
+  units: 0.5
+  description: TOR(@OTT) +1.5
+  line: "-120"
+monthly_mls:
+- month: '12'
+  record: 24-17-0
+- month: '01'
+  record: 112-96-2
+- month: '02'
+  record: 67-72-2
+- month: '03'
+  record: 28-26-1

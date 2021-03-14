@@ -32,6 +32,10 @@ account_units = 0
 bank = 0
 futures = []
 non_future_pending = []
+monthly_mls = []
+prev_monthly_w = 0
+prev_monthly_l = 0
+prev_monthly_p = 0
 
 def calculate_american_odds_payout(units, odds)
   if odds.positive?
@@ -41,6 +45,7 @@ def calculate_american_odds_payout(units, odds)
   end
 end
 
+current_month = "12"
 bets.each do |bet|
   units = bet['units']
 
@@ -51,6 +56,19 @@ bets.each do |bet|
     next
   end
 
+  date = bet['date']
+  month = date.split('/').first
+  unless month == current_month
+    current_month_record = {
+      'month' => current_month,
+      'record' => "#{win - prev_monthly_w}-#{loss - prev_monthly_l}-#{push - prev_monthly_p}"
+    }
+    monthly_mls << current_month_record
+    prev_monthly_w = win
+    prev_monthly_l = loss
+    prev_monthly_p = push
+    current_month = month
+  end
   # account_units += units if type == BONUS
 
   line = bet['line']
@@ -108,6 +126,13 @@ bets.each do |bet|
   total_units += units
 end
 
+# Log monthly record here again, as month has not ended.
+current_month_record = {
+  'month' => current_month,
+  'record' => "#{win - prev_monthly_w}-#{loss - prev_monthly_l}-#{push - prev_monthly_p}"
+}
+monthly_mls << current_month_record
+
 totals = {
   'win' => win,
   'loss' => loss,
@@ -126,7 +151,8 @@ totals = {
   'pending_units' => pending_units,
   'bank' => bank,
   'futures' => futures,
-  'non_future_pending' => non_future_pending
+  'non_future_pending' => non_future_pending,
+  'monthly_mls' => monthly_mls
 }
 
 puts totals.inspect

@@ -4123,7 +4123,7 @@
   line: -125
   units: 1.0
   description: "OTT(@EDM) +1.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/10/2021"
 
 - sport: "NBA"
@@ -4131,7 +4131,7 @@
   line: -149
   units: 1.0
   description: "Ja Morant o 24 pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/10/2021"
 
 - type: "BANK"
@@ -4222,7 +4222,7 @@
   line: -180
   units: 1.0
   description: "BOS(vsNYR) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/13/2021"
 
 - sport: "NHL"
@@ -4230,7 +4230,7 @@
   line: -140
   units: 1.0
   description: "DAL(@CBJ) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/13/2021"
 
 - sport: "NHL"
@@ -4238,5 +4238,88 @@
   line: -167
   units: 1.0
   description: "TB(vsNSH) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/13/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "MIN(vsARI) win in reg"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "CAR(@DET) win in reg"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "COL(vsLAK) win in reg"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "TOR(@OTT) +1.5"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- type: "BANK"
+  units: -18.0
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "MIL o 82.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "SD o 94.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "WAS o 84.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "KC o 72.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "TOR o 87.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: -115
+  units: 3.0
+  description: "OAK o 86.5 wins"
+  result: "PENDING"
+  date: "03/14/2021"

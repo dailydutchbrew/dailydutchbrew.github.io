@@ -50,6 +50,7 @@ layout: default
   <h3>Units: {{ site.data.totals.account_units }} units ({{ site.data.totals.pending_units }} pending)</h3>
   <h3>Bank: {{ site.data.totals.bank }} units</h3>
 
+
   <h2>Pending:</h2>
   {%- for pending in site.data.totals.non_future_pending -%}
   <p>
@@ -61,6 +62,11 @@ layout: default
   <p>
   {{ future.sport }} - {{ future.description }} - {{ future.units }} units ({{ future.line }})
   </p>
+  {%- endfor -%}
+
+  <h2>Monthly Record:</h2>
+  {%- for month_record in site.data.totals.monthly_mls reversed -%}
+  <p>{{ month_record.month }}: {{ month_record.record}}</p>
   {%- endfor -%}
 
   <h2>Lastest Podcasts:</h2>
