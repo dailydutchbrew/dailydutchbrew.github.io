@@ -4246,7 +4246,7 @@
   line: -115
   units: 0.5
   description: "MIN(vsARI) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "NHL"
@@ -4254,7 +4254,7 @@
   line: -140
   units: 0.5
   description: "CAR(@DET) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "NHL"
@@ -4262,7 +4262,7 @@
   line: -140
   units: 0.5
   description: "COL(vsLAK) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "NHL"
@@ -4270,7 +4270,7 @@
   line: -120
   units: 0.5
   description: "TOR(@OTT) +1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - type: "BANK"
