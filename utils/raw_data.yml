@@ -4329,7 +4329,7 @@
   line: -145
   units: 0.5
   description: "STL(@LAK) win"
-  result: "PENDING"
+  result: "VOID"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4337,7 +4337,7 @@
   line: -125
   units: 0.5
   description: "TB(@NSH) -1.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4345,7 +4345,7 @@
   line: +105
   units: 0.5
   description: "WSH(@NSH) -1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4353,7 +4353,7 @@
   line: -120
   units: 0.5
   description: "VAN(@OTT) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4361,7 +4361,7 @@
   line: -105
   units: 0.5
   description: "PIT(vsBOS) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4369,15 +4369,15 @@
   line: -115
   units: 0.5
   description: "PHI(@NYR) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/15/2021"
 
 - sport: "NHL"
   type: "ML"
   line: -115
   units: 0.5
-  description: "EDM(@CGY) win"
-  result: "PENDING"
+  description: "CGY(vsEDM) win"
+  result: "WIN"
   date: "03/15/2021"
 
 - sport: "NHL"
@@ -4385,5 +4385,5 @@
   line: +100
   units: 0.5
   description: "WPG(vsMTL) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/15/2021"
