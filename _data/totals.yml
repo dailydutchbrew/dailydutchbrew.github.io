@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 30
 win_pct: 0.528
 void: 8
-total_units: 408.85
-account_units: 7.65
-pending_units: 50.0
+total_units: 414.85
+account_units: 1.65
+pending_units: 56.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,51 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+- sport: NCAA
+  units: 1.0
+  description: Illinois to make the Final Four
+  line: "+175"
+non_future_pending:
+- sport: NHL
+  units: 0.5
+  description: TB(@DAL) win
+  line: "-165"
+- sport: NHL
+  units: 0.5
+  description: TB(@DAL) win in reg
+  line: "+100"
+- sport: NHL
+  units: 0.5
+  description: NJD(vsBUF) win
+  line: "-170"
+- sport: NHL
+  units: 0.5
+  description: NJD(vsBUF) win in reg
+  line: "-120"
+- sport: NHL
+  units: 0.5
+  description: PIT(vsBOS) win
+  line: "-115"
+- sport: NHL
+  units: 0.5
+  description: CAR @ DET o5.5
+  line: "-125"
+- sport: NBA
+  units: 0.5
+  description: D. Mitchell o2.5
+  line: "-149"
+- sport: NBA
+  units: 0.5
+  description: Seth Curry o1.5
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5
+  line: "+112"
+- sport: NBA
+  units: 0.5
+  description: G Dragic o1.5
+  line: "-135"
 monthly_mls:
 - month: '12'
   record: 24-17-0

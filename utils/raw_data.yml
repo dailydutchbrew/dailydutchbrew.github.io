@@ -4387,3 +4387,91 @@
   description: "WPG(vsMTL) win"
   result: "LOSS"
   date: "03/15/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "TB(@DAL) win"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +100
+  units: 0.5
+  description: "TB(@DAL) win in reg"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -170
+  units: 0.5
+  description: "NJD(vsBUF) win"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "NJD(vsBUF) win in reg"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "PIT(vsBOS) win"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CAR @ DET o5.5"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 0.5
+  description: "D. Mitchell o2.5"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Seth Curry o1.5"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "D Robinson o3.5"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "G Dragic o1.5"
+  result: "PENDING"
+  date: "03/16/2021"
+
+- sport: "NCAA"
+  type: "F"
+  line: +175
+  units: 1.0
+  description: "Illinois to make the Final Four"
+  result: "PENDING"
+  date: "03/16/2021"
