@@ -1,6 +1,6 @@
 ---
-win: 239
-loss: 214
+win: 246
+loss: 217
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 30
-win_pct: 0.528
+pending: 26
+win_pct: 0.531
 void: 8
-total_units: 414.85
-account_units: 1.65
-pending_units: 56.0
+total_units: 417.85
+account_units: 4.78
+pending_units: 54.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -99,44 +99,28 @@ futures:
 non_future_pending:
 - sport: NHL
   units: 0.5
-  description: TB(@DAL) win
-  line: "-165"
-- sport: NHL
-  units: 0.5
-  description: TB(@DAL) win in reg
-  line: "+100"
-- sport: NHL
-  units: 0.5
-  description: NJD(vsBUF) win
-  line: "-170"
-- sport: NHL
-  units: 0.5
-  description: NJD(vsBUF) win in reg
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: PIT(vsBOS) win
-  line: "-115"
-- sport: NHL
-  units: 0.5
-  description: CAR @ DET o5.5
-  line: "-125"
+  description: STL(@LAK) win
+  line: "-140"
 - sport: NBA
   units: 0.5
-  description: D. Mitchell o2.5
-  line: "-149"
+  description: M Brogdon o2.5
+  line: "+138"
 - sport: NBA
   units: 0.5
-  description: Seth Curry o1.5
-  line: "-156"
+  description: L Markkanen o2.5
+  line: "-108"
 - sport: NBA
   units: 0.5
-  description: D Robinson o3.5
-  line: "+112"
-- sport: NBA
+  description: J Harris o2.5
+  line: "-154"
+- sport: NHL
   units: 0.5
-  description: G Dragic o1.5
-  line: "-135"
+  description: OTT(vsVAN) win
+  line: "+130"
+- sport: NHL
+  units: 0.5
+  description: PHI(vsNYR) win
+  line: "+115"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -145,4 +129,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 36-29-1
+  record: 43-32-1

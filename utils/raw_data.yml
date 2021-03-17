@@ -4393,7 +4393,7 @@
   line: -165
   units: 0.5
   description: "TB(@DAL) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -4401,7 +4401,7 @@
   line: +100
   units: 0.5
   description: "TB(@DAL) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -4409,7 +4409,7 @@
   line: -170
   units: 0.5
   description: "NJD(vsBUF) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -4417,7 +4417,7 @@
   line: -120
   units: 0.5
   description: "NJD(vsBUF) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -4425,7 +4425,7 @@
   line: -115
   units: 0.5
   description: "PIT(vsBOS) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -4433,7 +4433,7 @@
   line: -125
   units: 0.5
   description: "CAR @ DET o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NBA"
@@ -4441,7 +4441,7 @@
   line: -149
   units: 0.5
   description: "D. Mitchell o2.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NBA"
@@ -4449,7 +4449,7 @@
   line: -156
   units: 0.5
   description: "Seth Curry o1.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NBA"
@@ -4457,7 +4457,7 @@
   line: +112
   units: 0.5
   description: "D Robinson o3.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/16/2021"
 
 - sport: "NBA"
@@ -4465,7 +4465,7 @@
   line: -135
   units: 0.5
   description: "G Dragic o1.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/16/2021"
 
 - sport: "NCAA"
@@ -4475,3 +4475,51 @@
   description: "Illinois to make the Final Four"
   result: "PENDING"
   date: "03/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "STL(@LAK) win"
+  result: "PENDING"
+  date: "03/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +138
+  units: 0.5
+  description: "M Brogdon o2.5"
+  result: "PENDING"
+  date: "03/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "L Markkanen o2.5"
+  result: "PENDING"
+  date: "03/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -154
+  units: 0.5
+  description: "J Harris o2.5"
+  result: "PENDING"
+  date: "03/17/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +130
+  units: 0.5
+  description: "OTT(vsVAN) win"
+  result: "PENDING"
+  date: "03/17/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +115
+  units: 0.5
+  description: "PHI(vsNYR) win"
+  result: "PENDING"
+  date: "03/17/2021"
