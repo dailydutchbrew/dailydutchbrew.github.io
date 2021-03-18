@@ -1,6 +1,6 @@
 ---
-win: 246
-loss: 217
+win: 248
+loss: 220
 push: 5
 parlay_win: 9
 parlay_loss: 35
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 26
-win_pct: 0.531
+pending: 21
+win_pct: 0.53
 void: 8
 total_units: 417.85
-account_units: 4.78
-pending_units: 54.0
+account_units: 6.68
+pending_units: 51.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -101,26 +101,6 @@ non_future_pending:
   units: 0.5
   description: STL(@LAK) win
   line: "-140"
-- sport: NBA
-  units: 0.5
-  description: M Brogdon o2.5
-  line: "+138"
-- sport: NBA
-  units: 0.5
-  description: L Markkanen o2.5
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: J Harris o2.5
-  line: "-154"
-- sport: NHL
-  units: 0.5
-  description: OTT(vsVAN) win
-  line: "+130"
-- sport: NHL
-  units: 0.5
-  description: PHI(vsNYR) win
-  line: "+115"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -129,4 +109,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 43-32-1
+  record: 45-35-1

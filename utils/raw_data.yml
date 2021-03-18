@@ -4489,7 +4489,7 @@
   line: +138
   units: 0.5
   description: "M Brogdon o2.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/17/2021"
 
 - sport: "NBA"
@@ -4497,7 +4497,7 @@
   line: -108
   units: 0.5
   description: "L Markkanen o2.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/17/2021"
 
 - sport: "NBA"
@@ -4505,7 +4505,7 @@
   line: -154
   units: 0.5
   description: "J Harris o2.5"
-  result: "PENDING"
+  result: "WIN"
   date: "03/17/2021"
 
 - sport: "NHL"
@@ -4513,7 +4513,7 @@
   line: +130
   units: 0.5
   description: "OTT(vsVAN) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/17/2021"
 
 - sport: "NHL"
@@ -4521,5 +4521,5 @@
   line: +115
   units: 0.5
   description: "PHI(vsNYR) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/17/2021"
