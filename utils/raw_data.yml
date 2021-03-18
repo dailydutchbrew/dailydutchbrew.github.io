@@ -4481,7 +4481,7 @@
   line: -140
   units: 0.5
   description: "STL(@LAK) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/17/2021"
 
 - sport: "NBA"
@@ -4523,3 +4523,51 @@
   description: "PHI(vsNYR) win"
   result: "WIN"
   date: "03/17/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +100
+  units: 0.5
+  description: "BOS(@BUF) -1.5"
+  result: "VOID"
+  date: "03/18/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "PIT(@NUD) win in reg"
+  result: "PENDING"
+  date: "03/18/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 0.5
+  description: "CAR(vsCBJ) win in reg"
+  result: "PENDING"
+  date: "03/18/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "ARI(@ANH) win"
+  result: "PENDING"
+  date: "03/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 0.5
+  description: "B Ingram o2.5 3's"
+  result: "PENDING"
+  date: "03/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +132
+  units: 0.5
+  description: "R Covington o2.5 3's"
+  result: "PENDING"
+  date: "03/18/2021"
