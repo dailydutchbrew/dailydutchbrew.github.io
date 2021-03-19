@@ -4537,7 +4537,7 @@
   line: -115
   units: 0.5
   description: "PIT(@NUD) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/18/2021"
 
 - sport: "NHL"
@@ -4545,7 +4545,7 @@
   line: -125
   units: 0.5
   description: "CAR(vsCBJ) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/18/2021"
 
 - sport: "NHL"
@@ -4553,7 +4553,7 @@
   line: -135
   units: 0.5
   description: "ARI(@ANH) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/18/2021"
 
 - sport: "NBA"
@@ -4561,7 +4561,7 @@
   line: +106
   units: 0.5
   description: "B Ingram o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/18/2021"
 
 - sport: "NBA"
@@ -4569,5 +4569,37 @@
   line: +132
   units: 0.5
   description: "R Covington o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/18/2021"
+
+- sport: "NHL"
+  type: "P"
+  line: +147
+  units: 0.5
+  description: "MTL + TOR win"
+  result: "PENDING"
+  date: "03/19/2021"
+
+- sport: "NHL"
+  type: "P"
+  line: +168
+  units: 0.5
+  description: "STL + VGK win"
+  result: "PENDING"
+  date: "03/19/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: +570
+  units: 0.5
+  description: "J Butler o1.5 3's"
+  result: "PENDING"
+  date: "03/19/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: +112
+  units: 0.5
+  description: "J Tatum o2.5 3's"
+  result: "PENDING"
+  date: "03/19/2021"
