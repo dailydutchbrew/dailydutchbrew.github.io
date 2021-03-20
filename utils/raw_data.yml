@@ -4573,33 +4573,113 @@
   date: "03/18/2021"
 
 - sport: "NHL"
-  type: "P"
+  type: "PARLAY"
   line: +147
   units: 0.5
   description: "MTL + TOR win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/19/2021"
 
 - sport: "NHL"
-  type: "P"
+  type: "PARLAY"
   line: +168
   units: 0.5
   description: "STL + VGK win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/19/2021"
 
 - sport: "NBA"
-  type: "ML"
+  type: "P"
   line: +570
   units: 0.5
   description: "J Butler o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/19/2021"
 
 - sport: "NBA"
-  type: "ML"
+  type: "P"
   line: +112
   units: 0.5
   description: "J Tatum o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.5
+  description: "L James o2.5 3's"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "B Hield o3.5 3's"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "D Green o2.5 3's"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "PIT(@NJD) win in reg"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "FLA(vsNSH) win in reg"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "TOR(vsCGY) win in reg"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "NYI(vsPHI) win"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "CAR(vsCBJ) win in reg"
+  result: "PENDING"
+  date: "03/20/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "MTL(vsVAN) win in reg"
+  result: "PENDING"
+  date: "03/20/2021"
