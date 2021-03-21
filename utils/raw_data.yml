@@ -4683,3 +4683,59 @@
   description: "MTL(vsVAN) win in reg"
   result: "LOSS"
   date: "03/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +114
+  units: 0.5
+  description: "J Tatum o2.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +131
+  units: 0.5
+  description: "J Brown o2.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "J Harris o3.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 0.5
+  description: "L Markkanen o2.5 3's"
+  result: "PENDING"
+  date: "03/21/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +132
+  units: 0.5
+  description: "PIT + VGK win"
+  result: "PENDING"
+  date: "03/21/2021"

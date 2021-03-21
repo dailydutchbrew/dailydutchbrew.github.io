@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 27
 win_pct: 0.525
 void: 9
-total_units: 427.85
-account_units: 5.49
-pending_units: 51.0
+total_units: 431.35
+account_units: 1.99
+pending_units: 54.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -96,7 +96,35 @@ futures:
   units: 1.0
   description: Illinois to make the Final Four
   line: "+175"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: J Tatum o2.5 3's
+  line: "+114"
+- sport: NBA
+  units: 0.5
+  description: J Brown o2.5 3's
+  line: "+131"
+- sport: NBA
+  units: 0.5
+  description: J Harris o3.5 3's
+  line: "+112"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+129"
+- sport: NBA
+  units: 0.5
+  description: M Brogdon o2.5 3's
+  line: "+110"
+- sport: NBA
+  units: 0.5
+  description: L Markkanen o2.5 3's
+  line: "+106"
+- sport: NHL
+  units: 0.5
+  description: PIT + VGK win
+  line: "+132"
 monthly_mls:
 - month: '12'
   record: 24-17-0
