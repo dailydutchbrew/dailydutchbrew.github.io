@@ -1,6 +1,6 @@
 ---
-win: 249
-loss: 227
+win: 255
+loss: 231
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 30
-win_pct: 0.523
+pending: 20
+win_pct: 0.525
 void: 9
 total_units: 427.85
-account_units: 0.05
-pending_units: 56.0
+account_units: 5.49
+pending_units: 51.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -96,47 +96,7 @@ futures:
   units: 1.0
   description: Illinois to make the Final Four
   line: "+175"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: T Young o2.5 3's
-  line: "+140"
-- sport: NBA
-  units: 0.5
-  description: L James o2.5 3's
-  line: "+122"
-- sport: NBA
-  units: 0.5
-  description: B Hield o3.5 3's
-  line: "-130"
-- sport: NBA
-  units: 0.5
-  description: D Green o2.5 3's
-  line: "-123"
-- sport: NHL
-  units: 0.5
-  description: PIT(@NJD) win in reg
-  line: "-105"
-- sport: NHL
-  units: 0.5
-  description: FLA(vsNSH) win in reg
-  line: "-140"
-- sport: NHL
-  units: 0.5
-  description: TOR(vsCGY) win in reg
-  line: "-115"
-- sport: NHL
-  units: 0.5
-  description: NYI(vsPHI) win
-  line: "-130"
-- sport: NHL
-  units: 0.5
-  description: CAR(vsCBJ) win in reg
-  line: "-120"
-- sport: NHL
-  units: 0.5
-  description: MTL(vsVAN) win in reg
-  line: "-120"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -145,4 +105,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 46-42-1
+  record: 52-46-1

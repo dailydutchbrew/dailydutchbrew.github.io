@@ -4609,7 +4609,7 @@
   line: +140
   units: 0.5
   description: "T Young o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/20/2021"
 
 - sport: "NBA"
@@ -4617,7 +4617,7 @@
   line: +122
   units: 0.5
   description: "L James o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/20/2021"
 
 - sport: "NBA"
@@ -4625,7 +4625,7 @@
   line: -130
   units: 0.5
   description: "B Hield o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NBA"
@@ -4633,7 +4633,7 @@
   line: -123
   units: 0.5
   description: "D Green o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4641,7 +4641,7 @@
   line: -105
   units: 0.5
   description: "PIT(@NJD) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4649,7 +4649,7 @@
   line: -140
   units: 0.5
   description: "FLA(vsNSH) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4657,7 +4657,7 @@
   line: -115
   units: 0.5
   description: "TOR(vsCGY) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4665,7 +4665,7 @@
   line: -130
   units: 0.5
   description: "NYI(vsPHI) win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4673,7 +4673,7 @@
   line: -120
   units: 0.5
   description: "CAR(vsCBJ) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/20/2021"
 
 - sport: "NHL"
@@ -4681,5 +4681,5 @@
   line: -120
   units: 0.5
   description: "MTL(vsVAN) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/20/2021"
