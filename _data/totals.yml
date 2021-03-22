@@ -1,6 +1,6 @@
 ---
-win: 255
-loss: 231
+win: 259
+loss: 234
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 27
+pending: 29
 win_pct: 0.525
 void: 9
-total_units: 431.35
-account_units: 1.99
-pending_units: 54.5
+total_units: 435.85
+account_units: 1.79
+pending_units: 55.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -99,32 +99,40 @@ futures:
 non_future_pending:
 - sport: NBA
   units: 0.5
-  description: J Tatum o2.5 3's
-  line: "+114"
-- sport: NBA
-  units: 0.5
-  description: J Brown o2.5 3's
-  line: "+131"
-- sport: NBA
-  units: 0.5
-  description: J Harris o3.5 3's
-  line: "+112"
-- sport: NBA
-  units: 0.5
-  description: D Robinson o3.5 3's
-  line: "+129"
-- sport: NBA
-  units: 0.5
   description: M Brogdon o2.5 3's
-  line: "+110"
+  line: "-106"
 - sport: NBA
   units: 0.5
   description: L Markkanen o2.5 3's
-  line: "+106"
+  line: "+124"
+- sport: NBA
+  units: 0.5
+  description: T Rozier o3.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.5
+  description: PJ Washington o1.5 3's
+  line: "+127"
+- sport: NBA
+  units: 0.5
+  description: Tyrese Haliburton o1.5 3's
+  line: "-132"
+- sport: NBA
+  units: 0.5
+  description: B Hield o4.5 3's
+  line: "+124"
+- sport: NBA
+  units: 0.5
+  description: T Young o2.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.5
+  description: P George o3.5 3's
+  line: "+100"
 - sport: NHL
   units: 0.5
-  description: PIT + VGK win
-  line: "+132"
+  description: MIN + COL win
+  line: "+106"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -133,4 +141,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 52-46-1
+  record: 56-49-1

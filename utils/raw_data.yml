@@ -4689,7 +4689,7 @@
   line: +114
   units: 0.5
   description: "J Tatum o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/21/2021"
 
 - sport: "NBA"
@@ -4697,7 +4697,7 @@
   line: +131
   units: 0.5
   description: "J Brown o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/21/2021"
 
 - sport: "NBA"
@@ -4705,7 +4705,7 @@
   line: +112
   units: 0.5
   description: "J Harris o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/21/2021"
 
 - sport: "NBA"
@@ -4713,7 +4713,7 @@
   line: +129
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/21/2021"
 
 - sport: "NBA"
@@ -4721,7 +4721,7 @@
   line: +110
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/21/2021"
 
 - sport: "NBA"
@@ -4729,7 +4729,7 @@
   line: +106
   units: 0.5
   description: "L Markkanen o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/21/2021"
 
 - sport: "NHL"
@@ -4737,5 +4737,77 @@
   line: +132
   units: 0.5
   description: "PIT + VGK win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "L Markkanen o2.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "T Rozier o3.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "PJ Washington o1.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -132
+  units: 0.5
+  description: "Tyrese Haliburton o1.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "B Hield o4.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "P George o3.5 3's"
+  result: "PENDING"
+  date: "03/22/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +106
+  units: 0.5
+  description: "MIN + COL win"
+  result: "PENDING"
+  date: "03/22/2021"
