@@ -1,6 +1,6 @@
 ---
-win: 263
-loss: 238
+win: 270
+loss: 243
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 32
-win_pct: 0.525
+pending: 20
+win_pct: 0.526
 void: 10
 total_units: 441.85
-account_units: 1.02
-pending_units: 57.0
+account_units: 8.18
+pending_units: 51.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -96,55 +96,7 @@ futures:
   units: 1.0
   description: Illinois to make the Final Four
   line: "+175"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: K Kuzma o2.5 3's
-  line: "-105"
-- sport: NBA
-  units: 0.5
-  description: Mf Morris o1.5 3's
-  line: "+100"
-- sport: NBA
-  units: 0.5
-  description: B Ingram o2.5 3's
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: E Bledsoe o1.5 3's
-  line: "+108"
-- sport: NBA
-  units: 0.5
-  description: R Bullock o2.5 3's
-  line: "+124"
-- sport: NBA
-  units: 0.5
-  description: R Westbrook o1.5 3's
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: B Beal o2.5 3's
-  line: "-115"
-- sport: NBA
-  units: 0.5
-  description: C.J McCollum o3.5 3's
-  line: "+118"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o4.5 3's
-  line: "+114"
-- sport: NBA
-  units: 0.5
-  description: J Crowder o2.5 3's
-  line: "+106"
-- sport: NHL
-  units: 0.5
-  description: TB(@DAL) win in reg
-  line: "-105"
-- sport: NHL
-  units: 0.5
-  description: PHI(vsNJD) win in reg
-  line: "-110"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -153,4 +105,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 60-53-1
+  record: 67-58-1

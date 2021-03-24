@@ -4817,7 +4817,7 @@
   line: -105
   units: 0.5
   description: "K Kuzma o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4825,7 +4825,7 @@
   line: +100
   units: 0.5
   description: "Mf Morris o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4833,7 +4833,7 @@
   line: -108
   units: 0.5
   description: "B Ingram o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4841,7 +4841,7 @@
   line: +108
   units: 0.5
   description: "E Bledsoe o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4849,7 +4849,7 @@
   line: +124
   units: 0.5
   description: "R Bullock o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4857,7 +4857,7 @@
   line: -108
   units: 0.5
   description: "R Westbrook o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4865,7 +4865,7 @@
   line: -115
   units: 0.5
   description: "B Beal o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4873,7 +4873,7 @@
   line: +118
   units: 0.5
   description: "C.J McCollum o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4881,7 +4881,7 @@
   line: +114
   units: 0.5
   description: "D Lillard o4.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4889,7 +4889,7 @@
   line: +106
   units: 0.5
   description: "J Crowder o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NHL"
@@ -4897,7 +4897,7 @@
   line: -105
   units: 0.5
   description: "TB(@DAL) win in reg"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NHL"
@@ -4905,6 +4905,6 @@
   line: -110
   units: 0.5
   description: "PHI(vsNJD) win in reg"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
