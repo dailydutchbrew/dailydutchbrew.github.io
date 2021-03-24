@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 31
 win_pct: 0.526
 void: 10
-total_units: 441.85
-account_units: 8.18
-pending_units: 51.0
+total_units: 447.35
+account_units: 2.68
+pending_units: 56.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -96,7 +96,51 @@ futures:
   units: 1.0
   description: Illinois to make the Final Four
   line: "+175"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: J Brown o2.5 3's
+  line: "+108"
+- sport: NBA
+  units: 0.5
+  description: J Tatum o2.5 3's
+  line: "-116"
+- sport: NBA
+  units: 0.5
+  description: PJ Washington o1.5 3's
+  line: "+112"
+- sport: NBA
+  units: 0.5
+  description: T Rozier o2.5 3's
+  line: "+118"
+- sport: NBA
+  units: 0.5
+  description: T Young o2.5 3's
+  line: "-122"
+- sport: NBA
+  units: 0.5
+  description: Fred VanVleet o3.5 3's
+  line: "+136"
+- sport: NBA
+  units: 0.5
+  description: Kyle Lowry o2.5 3's
+  line: "-123"
+- sport: NBA
+  units: 0.5
+  description: Paul George o3.5 3's
+  line: "+122"
+- sport: NBA
+  units: 0.5
+  description: Karl-Anthony Towns o2.5 3's
+  line: "+122"
+- sport: NBA
+  units: 0.5
+  description: Luka Doncic o3.5 3's
+  line: "+120"
+- sport: NHL
+  units: 0.5
+  description: PIT + MIN win
+  line: "+109"
 monthly_mls:
 - month: '12'
   record: 24-17-0
