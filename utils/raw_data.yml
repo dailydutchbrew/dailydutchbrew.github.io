@@ -4945,7 +4945,7 @@
   line: -122
   units: 0.5
   description: "T Young o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4995,3 +4995,51 @@
   description: "PIT + MIN win"
   result: "WIN"
   date: "03/23/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "PIT + TOR win"
+  result: "PENDING"
+  date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "R Bullock o2.5 3's"
+  result: "PENDING"
+  date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "PENDING"
+  date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "K Kuzma o2.5 3's"
+  result: "PENDING"
+  date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +114
+  units: 0.5
+  description: "Mf Morris o1.5 3's"
+  result: "PENDING"
+  date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "D Green o2.5 3's"
+  result: "PENDING"
+  date: "03/24/2021"
