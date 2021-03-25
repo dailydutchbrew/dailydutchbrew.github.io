@@ -4913,7 +4913,7 @@
   line: +108
   units: 0.5
   description: "J Brown o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4921,7 +4921,7 @@
   line: -116
   units: 0.5
   description: "J Tatum o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4929,15 +4929,15 @@
   line: +112
   units: 0.5
   description: "PJ Washington o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
   type: "P"
   line: +118
   units: 0.5
-  description: "T Rozier o2.5 3's"
-  result: "PENDING"
+  description: "T Rozier o3.5 3's"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4953,7 +4953,7 @@
   line: +136
   units: 0.5
   description: "Fred VanVleet o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4961,7 +4961,7 @@
   line: -123
   units: 0.5
   description: "Kyle Lowry o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4969,7 +4969,7 @@
   line: +122
   units: 0.5
   description: "Paul George o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4977,7 +4977,7 @@
   line: +122
   units: 0.5
   description: "Karl-Anthony Towns o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
 
 - sport: "NBA"
@@ -4985,7 +4985,7 @@
   line: +120
   units: 0.5
   description: "Luka Doncic o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/23/2021"
 
 - sport: "NHL"
@@ -4993,5 +4993,5 @@
   line: +109
   units: 0.5
   description: "PIT + MIN win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/23/2021"
