@@ -5001,7 +5001,7 @@
   line: -120
   units: 0.5
   description: "PIT + TOR win"
-  result: "PENDING"
+  result: "WIN"
   date: "03/24/2021"
 
 - sport: "NBA"
@@ -5009,7 +5009,7 @@
   line: +120
   units: 0.5
   description: "R Bullock o2.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "03/24/2021"
 
 - sport: "NBA"
@@ -5017,7 +5017,7 @@
   line: +112
   units: 0.5
   description: "J Randle o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/24/2021"
 
 - sport: "NBA"
@@ -5025,7 +5025,7 @@
   line: +120
   units: 0.5
   description: "K Kuzma o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/24/2021"
 
 - sport: "NBA"
@@ -5033,7 +5033,7 @@
   line: +114
   units: 0.5
   description: "Mf Morris o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/24/2021"
 
 - sport: "NBA"
@@ -5041,5 +5041,69 @@
   line: +110
   units: 0.5
   description: "D Green o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +144
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +146
+  units: 0.5
+  description: "C Levert o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +102
+  units: 0.5
+  description: "J Crowder o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "K Kuzma o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.5
+  description: "Saddiq Bey o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +194
+  units: 0.5
+  description: "J Collins o1.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 2.5
+  description: "K Lowry o2.5 3's"
+  result: "PENDING"
+  date: "03/25/2021"
