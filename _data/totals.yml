@@ -1,6 +1,6 @@
 ---
-win: 275
-loss: 249
+win: 282
+loss: 255
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 26
+pending: 28
 win_pct: 0.525
-void: 10
-total_units: 450.35
-account_units: 5.14
-pending_units: 54.0
+void: 11
+total_units: 457.85
+account_units: 6.4
+pending_units: 54.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -97,30 +97,38 @@ futures:
   description: Illinois to make the Final Four
   line: "+175"
 non_future_pending:
-- sport: NHL
-  units: 0.5
-  description: PIT + TOR win
-  line: "-120"
 - sport: NBA
   units: 0.5
-  description: R Bullock o2.5 3's
+  description: K Towns o2.5 3's
   line: "+120"
 - sport: NBA
   units: 0.5
-  description: J Randle o2.5 3's
-  line: "+112"
-- sport: NBA
-  units: 0.5
-  description: K Kuzma o2.5 3's
-  line: "+120"
-- sport: NBA
-  units: 0.5
-  description: Mf Morris o1.5 3's
-  line: "+114"
+  description: B Hield o4.5 3's
+  line: "-105"
 - sport: NBA
   units: 0.5
   description: D Green o2.5 3's
-  line: "+110"
+  line: "-105"
+- sport: NBA
+  units: 0.25
+  description: K Johnson o1.5 3's
+  line: "+380"
+- sport: NBA
+  units: 0.5
+  description: B Ingram o2.5 3's
+  line: "-137"
+- sport: NBA
+  units: 0.5
+  description: S Bey o2.5 3's
+  line: "-101"
+- sport: NBA
+  units: 0.25
+  description: D Murray o1.5 3's
+  line: "+330"
+- sport: NBA
+  units: 0.5
+  description: Seth Curry o2.5 3's
+  line: "-133"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -129,4 +137,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 72-64-1
+  record: 79-70-1
