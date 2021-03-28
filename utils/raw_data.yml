@@ -5113,7 +5113,7 @@
   line: +120
   units: 0.5
   description: "K Towns o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5121,7 +5121,7 @@
   line: -105
   units: 0.5
   description: "B Hield o4.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5129,7 +5129,7 @@
   line: -105
   units: 0.5
   description: "D Green o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5137,7 +5137,7 @@
   line: +380
   units: 0.25
   description: "K Johnson o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5145,7 +5145,7 @@
   line: -137
   units: 0.5
   description: "B Ingram o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5153,7 +5153,7 @@
   line: -101
   units: 0.5
   description: "S Bey o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5161,7 +5161,7 @@
   line: +330
   units: 0.25
   description: "D Murray o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
 
 - sport: "NBA"
@@ -5169,5 +5169,53 @@
   line: -133
   units: 0.5
   description: "Seth Curry o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -127
+  units: 0.5
+  description: "J Crowder o2.5 3's"
+  result: "PENDING"
+  date: "03/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "F VanVleet o3.5 3's"
+  result: "PENDING"
+  date: "03/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "K Lowry o2.5 3's"
+  result: "PENDING"
+  date: "03/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +125
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "03/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.5
+  description: "K Kuzma o2.5 3's"
+  result: "PENDING"
+  date: "03/28/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +161
+  units: 0.5
+  description: "WAS + CBJ win"
+  result: "PENDING"
+  date: "03/28/2021"

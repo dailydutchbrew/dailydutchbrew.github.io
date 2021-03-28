@@ -1,6 +1,6 @@
 ---
-win: 282
-loss: 255
+win: 283
+loss: 262
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 28
-win_pct: 0.525
+pending: 26
+win_pct: 0.519
 void: 11
-total_units: 457.85
-account_units: 6.4
-pending_units: 54.5
+total_units: 460.85
+account_units: 4.38
+pending_units: 54.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -99,36 +99,28 @@ futures:
 non_future_pending:
 - sport: NBA
   units: 0.5
-  description: K Towns o2.5 3's
-  line: "+120"
+  description: J Crowder o2.5 3's
+  line: "-127"
 - sport: NBA
   units: 0.5
-  description: B Hield o4.5 3's
-  line: "-105"
+  description: F VanVleet o3.5 3's
+  line: "+110"
 - sport: NBA
   units: 0.5
-  description: D Green o2.5 3's
-  line: "-105"
-- sport: NBA
-  units: 0.25
-  description: K Johnson o1.5 3's
-  line: "+380"
+  description: K Lowry o2.5 3's
+  line: "-130"
 - sport: NBA
   units: 0.5
-  description: B Ingram o2.5 3's
-  line: "-137"
+  description: T Young o2.5 3's
+  line: "+125"
 - sport: NBA
   units: 0.5
-  description: S Bey o2.5 3's
-  line: "-101"
-- sport: NBA
-  units: 0.25
-  description: D Murray o1.5 3's
-  line: "+330"
-- sport: NBA
+  description: K Kuzma o2.5 3's
+  line: "+122"
+- sport: NHL
   units: 0.5
-  description: Seth Curry o2.5 3's
-  line: "-133"
+  description: WAS + CBJ win
+  line: "+161"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -137,4 +129,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 79-70-1
+  record: 80-77-1
