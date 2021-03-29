@@ -4473,7 +4473,7 @@
   line: +175
   units: 1.0
   description: "Illinois to make the Final Four"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/16/2021"
 
 - sport: "NHL"
@@ -5177,7 +5177,7 @@
   line: -127
   units: 0.5
   description: "J Crowder o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/28/2021"
 
 - sport: "NBA"
@@ -5185,7 +5185,7 @@
   line: +110
   units: 0.5
   description: "F VanVleet o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/28/2021"
 
 - sport: "NBA"
@@ -5193,7 +5193,7 @@
   line: -130
   units: 0.5
   description: "K Lowry o2.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "03/28/2021"
 
 - sport: "NBA"
@@ -5217,5 +5217,5 @@
   line: +161
   units: 0.5
   description: "WAS + CBJ win"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/28/2021"

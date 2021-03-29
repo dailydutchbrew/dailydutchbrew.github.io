@@ -1,6 +1,6 @@
 ---
 win: 283
-loss: 262
+loss: 266
 push: 5
 parlay_win: 10
 parlay_loss: 36
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 26
-win_pct: 0.519
-void: 11
+pending: 21
+win_pct: 0.515
+void: 12
 total_units: 460.85
-account_units: 4.38
-pending_units: 54.0
+account_units: 5.38
+pending_units: 51.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,23 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-- sport: NCAA
-  units: 1.0
-  description: Illinois to make the Final Four
-  line: "+175"
 non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: J Crowder o2.5 3's
-  line: "-127"
-- sport: NBA
-  units: 0.5
-  description: F VanVleet o3.5 3's
-  line: "+110"
-- sport: NBA
-  units: 0.5
-  description: K Lowry o2.5 3's
-  line: "-130"
 - sport: NBA
   units: 0.5
   description: T Young o2.5 3's
@@ -117,10 +101,6 @@ non_future_pending:
   units: 0.5
   description: K Kuzma o2.5 3's
   line: "+122"
-- sport: NHL
-  units: 0.5
-  description: WAS + CBJ win
-  line: "+161"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -129,4 +109,4 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 80-77-1
+  record: 80-81-1
