@@ -1,19 +1,19 @@
 ---
-win: 283
-loss: 266
+win: 285
+loss: 265
 push: 5
 parlay_win: 10
-parlay_loss: 36
+parlay_loss: 37
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 21
-win_pct: 0.515
+pending: 19
+win_pct: 0.518
 void: 12
 total_units: 460.85
-account_units: 5.38
-pending_units: 51.0
+account_units: 7.61
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,15 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: T Young o2.5 3's
-  line: "+125"
-- sport: NBA
-  units: 0.5
-  description: K Kuzma o2.5 3's
-  line: "+122"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -109,7 +101,7 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 80-81-1
-week_w: 0
-week_l: 3
+  record: 82-80-1
+week_w: 2
+week_l: 2
 week_p: 0

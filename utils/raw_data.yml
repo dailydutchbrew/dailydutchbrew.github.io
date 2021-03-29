@@ -5201,7 +5201,7 @@
   line: +125
   units: 0.5
   description: "T Young o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/28/2021"
 
 - sport: "NBA"
@@ -5209,11 +5209,11 @@
   line: +122
   units: 0.5
   description: "K Kuzma o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/28/2021"
 
 - sport: "NHL"
-  type: "ML"
+  type: "PARLAY"
   line: +161
   units: 0.5
   description: "WAS + CBJ win"
