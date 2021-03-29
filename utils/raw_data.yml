@@ -2078,7 +2078,7 @@
   units: 1.0
   description: "CBJ @ CHI o5.5"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NHL"
   type: "PARLAY"
@@ -2086,7 +2086,7 @@
   units: 0.5
   description: "CBJ win + CBJ @ CHI o5.5"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2094,7 +2094,7 @@
   units: 0.5
   description: "M Brogdon o2.5 3's"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2102,7 +2102,7 @@
   units: 0.5
   description: "T Young o2.5 3's"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2110,7 +2110,7 @@
   units: 0.5
   description: "B Ingram o2.5 3's"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PARLAY"
@@ -2118,7 +2118,7 @@
   units: 0.25
   description: "M Brogdon + T Young + B Ingram o2.5 3's"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2126,7 +2126,7 @@
   units: 0.5
   description: "K Lowry o2.5 3's"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2134,7 +2134,7 @@
   units: 0.5
   description: "B Hield  o3.5 3's"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2142,7 +2142,7 @@
   units: 0.5
   description: "F VanVleet  o3.5 3's"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PARLAY"
@@ -2150,7 +2150,7 @@
   units: 0.5
   description: "Lowry o2.5 + Hield o3.5 + VanVleet  o3.5 3's"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2158,7 +2158,7 @@
   units: 0.5
   description: "ATL(@WAS) -3.0"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2166,7 +2166,7 @@
   units: 0.5
   description: "IND(@CHA) -3.0"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2174,7 +2174,7 @@
   units: 0.5
   description: "MIL(@NO) -6.0"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2182,7 +2182,7 @@
   units: 0.5
   description: "SAC(@TOR) -4.0"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2190,7 +2190,7 @@
   units: 0.5
   description: "BKN(@OKC) -8.0"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "P"
@@ -2198,7 +2198,7 @@
   units: 0.5
   description: "BKN(@OKC) -5.0 HT"
   result: "WIN"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NBA"
   type: "PS"
@@ -2206,7 +2206,7 @@
   units: 0.5
   description: "DEN(@SAS) -3.0"
   result: "LOSS"
-  date: "01/29//2020"
+  date: "01/29/2020"
 
 - sport: "NHL"
   type: "BETBACK"

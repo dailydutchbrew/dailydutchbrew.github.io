@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'yaml'
+require 'date'
 
 bets = YAML.load_file('raw_data.yml')
 
@@ -36,6 +37,9 @@ monthly_mls = []
 prev_monthly_w = 0
 prev_monthly_l = 0
 prev_monthly_p = 0
+week_w = 0
+week_l = 0
+week_p = 0
 
 def calculate_american_odds_payout(units, odds)
   if odds.positive?
@@ -43,6 +47,11 @@ def calculate_american_odds_payout(units, odds)
   else
     (units / (odds.abs / 100.0).to_f) + units
   end
+end
+
+# 0 is Sunday, range to 6 would be Saturday
+def get_previous_sunday(date)
+  date - ((date.wday - 0) % 7)
 end
 
 current_month = "12"
@@ -57,6 +66,9 @@ bets.each do |bet|
   end
 
   date = bet['date']
+  is_current_week = false
+  is_current_week = true if Date.strptime(date, '%m/%d/%Y') >= get_previous_sunday(DateTime.now).to_date
+
   month = date.split('/').first
   unless month == current_month
     current_month_record = {
@@ -83,6 +95,7 @@ bets.each do |bet|
       betback_win += 1
     else
       win += 1
+      week_w += 1 if is_current_week
     end
     account_units += (potential_payout - units)
   when LOSS
@@ -92,6 +105,7 @@ bets.each do |bet|
       betback_loss += 1
     else
       loss += 1
+      week_l += 1 if is_current_week
     end
     account_units -= units
   when PUSH
@@ -101,6 +115,7 @@ bets.each do |bet|
       betback_push += 1
     else
       push += 1
+      week_p += 1 if is_current_week
     end
     account_units += units
   when PENDING
@@ -152,7 +167,10 @@ totals = {
   'bank' => bank,
   'futures' => futures,
   'non_future_pending' => non_future_pending,
-  'monthly_mls' => monthly_mls
+  'monthly_mls' => monthly_mls,
+  'week_w' => week_w,
+  'week_l' => week_l,
+  'week_p' => week_p
 }
 
 puts totals.inspect

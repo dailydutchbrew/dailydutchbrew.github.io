@@ -110,3 +110,6 @@ monthly_mls:
   record: 67-72-2
 - month: '03'
   record: 80-81-1
+week_w: 0
+week_l: 3
+week_p: 0
