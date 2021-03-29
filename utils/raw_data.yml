@@ -5219,3 +5219,43 @@
   description: "WAS + CBJ win"
   result: "LOSS"
   date: "03/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "P George o3.5 3's"
+  result: "PENDING"
+  date: "03/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +131
+  units: 0.5
+  description: "K Towns o2.5 3's"
+  result: "PENDING"
+  date: "03/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "K Porzingis o2.5 3's"
+  result: "PENDING"
+  date: "03/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +114
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "03/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "03/29/2021"

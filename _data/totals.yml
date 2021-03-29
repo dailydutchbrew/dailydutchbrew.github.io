@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 24
 win_pct: 0.518
 void: 12
-total_units: 460.85
-account_units: 7.61
-pending_units: 50.0
+total_units: 463.35
+account_units: 5.11
+pending_units: 52.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,27 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: P George o3.5 3's
+  line: "-105"
+- sport: NBA
+  units: 0.5
+  description: K Towns o2.5 3's
+  line: "+131"
+- sport: NBA
+  units: 0.5
+  description: K Porzingis o2.5 3's
+  line: "+124"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+114"
+- sport: NBA
+  units: 0.5
+  description: M Brogdon o2.5 3's
+  line: "-105"
 monthly_mls:
 - month: '12'
   record: 24-17-0
