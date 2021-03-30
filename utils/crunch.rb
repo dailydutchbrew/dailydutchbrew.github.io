@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative 'event'
+require_relative 'record'
 require 'yaml'
 require 'date'
 
@@ -22,11 +24,7 @@ betback_push = 0
 parlay_win = 0
 parlay_loss = 0
 parlay_push = 0
-win = 0
-loss = 0
-push = 0
-pending = 0
-void = 0
+ml_p_record = Record.new
 pending_units = 0
 total_units = 0
 account_units = 0
@@ -41,85 +39,68 @@ week_w = 0
 week_l = 0
 week_p = 0
 
-def calculate_american_odds_payout(units, odds)
-  if odds.positive?
-    (units * (odds.abs / 100.0)) + units
-  else
-    (units / (odds.abs / 100.0).to_f) + units
-  end
-end
-
-# 0 is Sunday, range to 6 would be Saturday
-def get_previous_sunday(date)
-  date - ((date.wday - 0) % 7)
-end
-
 current_month = "12"
 bets.each do |bet|
-  units = bet['units']
+  event = Event.new(data: bet)
+  units = event.units
 
-  type = bet['type']
-  if type == BANK
+  if event.type == BANK
     bank += units
     account_units -= units
     next
   end
 
-  date = bet['date']
-  is_current_week = false
-  is_current_week = true if Date.strptime(date, '%m/%d/%Y') >= get_previous_sunday(DateTime.now).to_date
+  date = event.date
 
   month = date.split('/').first
   unless month == current_month
     current_month_record = {
       'month' => current_month,
-      'record' => "#{win - prev_monthly_w}-#{loss - prev_monthly_l}-#{push - prev_monthly_p}"
+      'record' => "#{ml_p_record.win - prev_monthly_w}-#{ml_p_record.loss - prev_monthly_l}-#{ml_p_record.push - prev_monthly_p}"
     }
     monthly_mls << current_month_record
-    prev_monthly_w = win
-    prev_monthly_l = loss
-    prev_monthly_p = push
+    prev_monthly_w = ml_p_record.win
+    prev_monthly_l = ml_p_record.loss
+    prev_monthly_p = ml_p_record.push
     current_month = month
   end
-  # account_units += units if type == BONUS
 
-  line = bet['line']
-  result = bet['result']
-  potential_payout = calculate_american_odds_payout(units, line)
+  result = event.result
+  potential_payout = event.potential_payout
 
   case result
   when WIN
-    if type == PARLAY
+    if event.type == PARLAY
       parlay_win += 1
-    elsif type == BETBACK
+    elsif event.type == BETBACK
       betback_win += 1
     else
-      win += 1
-      week_w += 1 if is_current_week
+      ml_p_record.win += 1
+      week_w += 1 if event.current_week?
     end
     account_units += (potential_payout - units)
   when LOSS
-    if type == PARLAY
+    if event.type == PARLAY
       parlay_loss += 1
-    elsif type == BETBACK
+    elsif event.type == BETBACK
       betback_loss += 1
     else
-      loss += 1
-      week_l += 1 if is_current_week
+      ml_p_record.loss += 1
+      week_l += 1 if event.current_week?
     end
     account_units -= units
   when PUSH
-    if type == PARLAY
+    if event.type == PARLAY
       parlay_push += 1
-    elsif type == BETBACK
+    elsif event.type == BETBACK
       betback_push += 1
     else
-      push += 1
-      week_p += 1 if is_current_week
+      ml_p_record.push += 1
+      week_p += 1 if event.current_week?
     end
     account_units += units
   when PENDING
-    pending += 1
+    ml_p_record.pending += 1
     account_units -= units
     pending_units += units
 
@@ -135,7 +116,7 @@ bets.each do |bet|
       non_future_pending << payload
     end
   when VOID
-    void += 1
+    ml_p_record.void += 1
     account_units += units
   end
   total_units += units
@@ -144,23 +125,23 @@ end
 # Log monthly record here again, as month has not ended.
 current_month_record = {
   'month' => current_month,
-  'record' => "#{win - prev_monthly_w}-#{loss - prev_monthly_l}-#{push - prev_monthly_p}"
+  'record' => "#{ml_p_record.win - prev_monthly_w}-#{ml_p_record.loss - prev_monthly_l}-#{ml_p_record.push - prev_monthly_p}"
 }
 monthly_mls << current_month_record
 
 totals = {
-  'win' => win,
-  'loss' => loss,
-  'push' => push,
+  'win' => ml_p_record.win,
+  'loss' => ml_p_record.loss,
+  'push' => ml_p_record.push,
   'parlay_win' => parlay_win,
   'parlay_loss' => parlay_loss,
   'parlay_push' => parlay_push,
   'betback_win' => betback_win,
   'betback_loss' => betback_loss,
   'betback_push' => betback_push,
-  'pending' => pending,
-  'win_pct' => (win / (win + loss).to_f).round(3),
-  'void' => void,
+  'pending' => ml_p_record.pending,
+  'win_pct' => (ml_p_record.win / (ml_p_record.win + ml_p_record.loss).to_f).round(3),
+  'void' => ml_p_record.void,
   'total_units' => total_units,
   'account_units' => account_units.round(2),
   'pending_units' => pending_units,
