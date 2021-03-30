@@ -5225,7 +5225,7 @@
   line: -105
   units: 0.5
   description: "P George o3.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "03/29/2021"
 
 - sport: "NBA"
@@ -5233,7 +5233,7 @@
   line: +131
   units: 0.5
   description: "K Towns o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/29/2021"
 
 - sport: "NBA"
@@ -5241,7 +5241,7 @@
   line: +124
   units: 0.5
   description: "K Porzingis o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/29/2021"
 
 - sport: "NBA"
@@ -5249,7 +5249,7 @@
   line: +114
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/29/2021"
 
 - sport: "NBA"
@@ -5257,5 +5257,69 @@
   line: -105
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "03/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.25
+  description: "G Hayward o1.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +102
+  units: 0.5
+  description: "D Graham o3.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.25
+  description: "T Rozier o3.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -132
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -141
+  units: 0.5
+  description: "S Curry o1.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "D Green o2.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.25
+  description: "J Crowder o2.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "D Booker o1.5 3's"
+  result: "PENDING"
+  date: "03/30/2021"
