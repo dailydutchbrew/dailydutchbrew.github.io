@@ -5323,3 +5323,83 @@
   description: "D Booker o1.5 3's"
   result: "WIN"
   date: "03/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "M Beasley o2.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "T Haliburton o1.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "OG Anunoby o1.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "K Lowry o2.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "CJ McCollum o3.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "Fred VanVleet o3.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "Joe Harris o2.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "K Towns o2.5 3's"
+  result: "PENDING"
+  date: "03/31/2021"

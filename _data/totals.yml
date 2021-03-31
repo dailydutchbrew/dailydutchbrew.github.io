@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 29
 win_pct: 0.521
 void: 13
-total_units: 466.6
-account_units: 9.21
-pending_units: 50.0
+total_units: 471.6
+account_units: 4.21
+pending_units: 55.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,47 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: M Brogdon o2.5 3's
+  line: "-120"
+- sport: NBA
+  units: 0.5
+  description: M Beasley o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: T Haliburton o1.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: OG Anunoby o1.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.5
+  description: K Lowry o2.5 3's
+  line: "+104"
+- sport: NBA
+  units: 0.5
+  description: CJ McCollum o3.5 3's
+  line: "+104"
+- sport: NBA
+  units: 0.5
+  description: Fred VanVleet o3.5 3's
+  line: "+104"
+- sport: NBA
+  units: 0.5
+  description: Joe Harris o2.5 3's
+  line: "-123"
+- sport: NBA
+  units: 0.5
+  description: K Towns o2.5 3's
+  line: "+129"
 monthly_mls:
 - month: '12'
   record: 24-17-0
