@@ -1,6 +1,6 @@
 ---
-win: 288
-loss: 266
+win: 293
+loss: 269
 push: 5
 parlay_win: 10
 parlay_loss: 37
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 27
-win_pct: 0.52
+pending: 19
+win_pct: 0.521
 void: 13
 total_units: 466.6
-account_units: 6.06
-pending_units: 53.25
+account_units: 9.21
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,39 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: NBA
-  units: 0.25
-  description: G Hayward o1.5 3's
-  line: "-156"
-- sport: NBA
-  units: 0.5
-  description: D Graham o3.5 3's
-  line: "+102"
-- sport: NBA
-  units: 0.25
-  description: T Rozier o3.5 3's
-  line: "-106"
-- sport: NBA
-  units: 0.5
-  description: T Young o2.5 3's
-  line: "-132"
-- sport: NBA
-  units: 0.5
-  description: S Curry o1.5 3's
-  line: "-141"
-- sport: NBA
-  units: 0.5
-  description: D Green o2.5 3's
-  line: "-108"
-- sport: NBA
-  units: 0.25
-  description: J Crowder o2.5 3's
-  line: "+129"
-- sport: NBA
-  units: 0.5
-  description: D Booker o1.5 3's
-  line: "-156"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -133,7 +101,7 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 85-81-1
-week_w: 5
-week_l: 3
+  record: 90-84-1
+week_w: 10
+week_l: 6
 week_p: 0
