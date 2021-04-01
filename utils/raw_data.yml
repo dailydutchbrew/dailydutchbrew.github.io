@@ -5403,3 +5403,51 @@
   description: "K Towns o2.5 3's"
   result: "LOSS"
   date: "03/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 1.0
+  description: "Seth Curry o1.5 3's"
+  result: "PENDING"
+  date: "04/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "TB o 4"
+  result: "PENDING"
+  date: "04/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "CLE o 4"
+  result: "PENDING"
+  date: "04/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "SD o 4.5"
+  result: "PENDING"
+  date: "04/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "KC o 4.5"
+  result: "PENDING"
+  date: "04/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "COL o 4.0"
+  result: "PENDING"
+  date: "04/01/2021"
