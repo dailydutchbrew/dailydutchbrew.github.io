@@ -5409,7 +5409,7 @@
   line: -156
   units: 1.0
   description: "Seth Curry o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/01/2021"
 
 - sport: "MLB"
@@ -5417,7 +5417,7 @@
   line: -105
   units: 0.5
   description: "TB o 4"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/01/2021"
 
 - sport: "MLB"
@@ -5425,7 +5425,7 @@
   line: -145
   units: 0.5
   description: "CLE o 4"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/01/2021"
 
 - sport: "MLB"
@@ -5433,7 +5433,7 @@
   line: -145
   units: 0.5
   description: "SD o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/01/2021"
 
 - sport: "MLB"
@@ -5441,7 +5441,7 @@
   line: -145
   units: 0.5
   description: "KC o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/01/2021"
 
 - sport: "MLB"
@@ -5449,5 +5449,5 @@
   line: -145
   units: 0.5
   description: "COL o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/01/2021"

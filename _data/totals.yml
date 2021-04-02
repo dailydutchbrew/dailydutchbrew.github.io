@@ -1,6 +1,6 @@
 ---
-win: 299
-loss: 272
+win: 303
+loss: 274
 push: 5
 parlay_win: 10
 parlay_loss: 37
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 25
-win_pct: 0.524
+pending: 19
+win_pct: 0.525
 void: 14
 total_units: 475.1
-account_units: 7.3
-pending_units: 53.5
+account_units: 11.47
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,31 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: NBA
-  units: 1.0
-  description: Seth Curry o1.5 3's
-  line: "-156"
-- sport: MLB
-  units: 0.5
-  description: TB o 4
-  line: "-105"
-- sport: MLB
-  units: 0.5
-  description: CLE o 4
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: SD o 4.5
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: KC o 4.5
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: COL o 4.0
-  line: "-145"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -127,7 +103,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 0-0-0
-week_w: 16
-week_l: 9
+  record: 4-2-0
+week_w: 20
+week_l: 11
 week_p: 0
