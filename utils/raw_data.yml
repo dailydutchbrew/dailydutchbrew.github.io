@@ -5563,3 +5563,91 @@
   description: "D Booker o1.5 3's"
   result: "WIN"
   date: "04/02/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "D Lillard o3.5 3's"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "CWS o 4.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAA o 4.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "SD o 4.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "ARI o 3.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAD o 7.0"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "COL o 4.0"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "HOU o 4.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "OAK o 3.5"
+  result: "PENDING"
+  date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "KC o 4.5"
+  result: "PENDING"
+  date: "04/03/2021"
