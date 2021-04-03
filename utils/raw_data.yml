@@ -5473,7 +5473,7 @@
   line: -130
   units: 0.5
   description: "SD o 4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/02/2021"
 
 - sport: "MLB"
@@ -5481,7 +5481,7 @@
   line: -120
   units: 0.5
   description: "CWS o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "MLB"
@@ -5489,7 +5489,7 @@
   line: -125
   units: 0.5
   description: "LAD o 7.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "MLB"
@@ -5497,7 +5497,7 @@
   line: -135
   units: 0.5
   description: "COL o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5505,7 +5505,7 @@
   line: -141
   units: 0.5
   description: "CJ McCollum o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5513,7 +5513,7 @@
   line: -135
   units: 0.5
   description: "D Lillard o4.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5521,7 +5521,7 @@
   line: +108
   units: 0.5
   description: "J Brown o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5529,7 +5529,7 @@
   line: -105
   units: 0.5
   description: "F VanVleet o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5537,7 +5537,7 @@
   line: -108
   units: 0.5
   description: "J Crowder o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5545,7 +5545,7 @@
   line: -141
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5553,7 +5553,7 @@
   line: +106
   units: 0.5
   description: "J Tatum o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
 
 - sport: "NBA"
@@ -5561,5 +5561,5 @@
   line: -156
   units: 0.5
   description: "D Booker o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/02/2021"
