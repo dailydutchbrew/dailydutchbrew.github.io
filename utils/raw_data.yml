@@ -5697,7 +5697,7 @@
   line: -115
   units: 0.5
   description: "TEX o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5713,7 +5713,7 @@
   line: -125
   units: 0.5
   description: "CIN o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5721,5 +5721,29 @@
   line: -105
   units: 0.5
   description: "STL o 4.5"
-  result: "PENDING"
+  result: "LOSS"
+  date: "04/04/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "J Harris o 2.5 3's"
+  result: "LOSS"
+  date: "04/04/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "K Irving o 2.5 3's"
+  result: "LOSS"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "ATL win"
+  result: "LOSS"
   date: "04/04/2021"
