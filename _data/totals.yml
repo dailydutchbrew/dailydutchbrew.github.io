@@ -1,19 +1,19 @@
 ---
-win: 310
-loss: 280
+win: 316
+loss: 285
 push: 5
 parlay_win: 10
-parlay_loss: 37
+parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 30
-win_pct: 0.525
+pending: 19
+win_pct: 0.526
 void: 15
-total_units: 487.6
-account_units: 6.42
-pending_units: 55.5
+total_units: 488.6
+account_units: 11.06
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,51 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: D Robinson o3.5 3's
-  line: "+127"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o3.5 3's
-  line: "-114"
-- sport: MLB
-  units: 0.5
-  description: CWS o 4.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: LAA o 4.5
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: SD o 4.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: ARI o 3.5
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: LAD o 7.0
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: COL o 4.0
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: HOU o 4.5
-  line: "-120"
-- sport: MLB
-  units: 0.5
-  description: OAK o 3.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: KC o 4.5
-  line: "-130"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -147,7 +103,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 11-8-0
-week_w: 27
-week_l: 17
+  record: 17-13-0
+week_w: 33
+week_l: 22
 week_p: 0
