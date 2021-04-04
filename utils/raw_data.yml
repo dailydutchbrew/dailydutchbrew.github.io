@@ -5667,3 +5667,59 @@
   description: "KC + CLE win"
   result: "LOSS"
   date: "04/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "SD o 5.0"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAD o 7.0"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "COL o 4.0"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TEX o 4.0"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "KC o 5.0"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CIN o 4.5"
+  result: "PENDING"
+  date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "STL o 4.5"
+  result: "PENDING"
+  date: "04/04/2021"

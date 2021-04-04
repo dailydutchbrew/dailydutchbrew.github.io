@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 26
 win_pct: 0.526
 void: 15
-total_units: 488.6
-account_units: 11.06
-pending_units: 50.0
+total_units: 492.1
+account_units: 7.56
+pending_units: 53.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,35 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: SD o 5.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: LAD o 7.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: COL o 4.0
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: TEX o 4.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: KC o 5.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: CIN o 4.5
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: STL o 4.5
+  line: "-105"
 monthly_mls:
 - month: '12'
   record: 24-17-0
