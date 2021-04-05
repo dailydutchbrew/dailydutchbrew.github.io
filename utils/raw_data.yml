@@ -5705,7 +5705,7 @@
   line: -125
   units: 0.5
   description: "KC o 5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5747,3 +5747,59 @@
   description: "ATL win"
   result: "LOSS"
   date: "04/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "CWS o 4.5"
+  result: "LOSS"
+  date: "04/04/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "B Hield o 3.5 3's"
+  result: "PENDING"
+  date: "04/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TOR o 5.0"
+  result: "PENDING"
+  date: "04/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TOR o 5.0"
+  result: "PENDING"
+  date: "04/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "CIN o 5.0"
+  result: "PENDING"
+  date: "04/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "LAD o 4.5"
+  result: "PENDING"
+  date: "04/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "CWS o 4.0"
+  result: "PENDING"
+  date: "04/05/2021"

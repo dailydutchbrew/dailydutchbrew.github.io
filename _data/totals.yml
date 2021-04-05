@@ -1,6 +1,6 @@
 ---
 win: 318
-loss: 289
+loss: 291
 push: 5
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 23
-win_pct: 0.524
+pending: 28
+win_pct: 0.522
 void: 15
-total_units: 493.6
-account_units: 7.89
-pending_units: 52.0
+total_units: 497.1
+account_units: 4.39
+pending_units: 54.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -105,10 +105,30 @@ non_future_pending:
   units: 0.5
   description: COL o 4.0
   line: "-130"
+- sport: NBA
+  units: 0.5
+  description: B Hield o 3.5 3's
+  line: "-123"
 - sport: MLB
   units: 0.5
-  description: KC o 5.0
+  description: TOR o 5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: TOR o 5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: CIN o 5.0
+  line: "+100"
+- sport: MLB
+  units: 0.5
+  description: LAD o 4.5
   line: "-125"
+- sport: MLB
+  units: 0.5
+  description: CWS o 4.0
+  line: "-120"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -119,7 +139,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 19-17-0
+  record: 19-19-0
 week_w: 2
-week_l: 4
+week_l: 6
 week_p: 0
