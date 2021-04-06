@@ -5673,7 +5673,7 @@
   line: -125
   units: 0.5
   description: "SD o 5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5681,7 +5681,7 @@
   line: -115
   units: 0.5
   description: "LAD o 7.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5689,7 +5689,7 @@
   line: -130
   units: 0.5
   description: "COL o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/04/2021"
 
 - sport: "MLB"
@@ -5761,7 +5761,7 @@
   line: -123
   units: 0.5
   description: "B Hield o 3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/05/2021"
 
 - sport: "MLB"
@@ -5769,15 +5769,7 @@
   line: -115
   units: 0.5
   description: "TOR o 5.0"
-  result: "PENDING"
-  date: "04/05/2021"
-
-- sport: "MLB"
-  type: "OU"
-  line: -115
-  units: 0.5
-  description: "TOR o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/05/2021"
 
 - sport: "MLB"
@@ -5785,7 +5777,7 @@
   line: +100
   units: 0.5
   description: "CIN o 5.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "04/05/2021"
 
 - sport: "MLB"
@@ -5793,7 +5785,7 @@
   line: -125
   units: 0.5
   description: "LAD o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/05/2021"
 
 - sport: "MLB"
@@ -5801,5 +5793,5 @@
   line: -120
   units: 0.5
   description: "CWS o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/05/2021"
