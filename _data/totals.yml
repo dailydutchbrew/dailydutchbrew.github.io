@@ -1,6 +1,6 @@
 ---
-win: 322
-loss: 294
+win: 326
+loss: 297
 push: 6
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 26
+pending: 19
 win_pct: 0.523
 void: 15
 total_units: 500.1
-account_units: 6.05
-pending_units: 53.5
+account_units: 9.87
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,35 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: MLB
-  units: 0.5
-  description: HOU o 4.5
-  line: "-105"
-- sport: MLB
-  units: 0.5
-  description: HOU o 5.0
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: LAD o 4.5
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: CWS o 4.0
-  line: "-115"
-- sport: NBA
-  units: 0.5
-  description: Z LaVine o 2.5 3's
-  line: "-112"
-- sport: NBA
-  units: 0.5
-  description: J Tatum o 2.5 3's
-  line: "+100"
-- sport: NBA
-  units: 0.5
-  description: CJ McCollum o 3.5 3's
-  line: "+100"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -131,7 +103,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 23-22-1
-week_w: 6
-week_l: 9
+  record: 27-25-1
+week_w: 10
+week_l: 12
 week_p: 1
