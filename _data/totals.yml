@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 26
 win_pct: 0.523
 void: 15
-total_units: 500.1
-account_units: 9.87
-pending_units: 50.0
+total_units: 503.6
+account_units: 6.37
+pending_units: 53.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,35 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: K Towns o 2.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.5
+  description: R Bullock o 2.5 3's
+  line: "+129"
+- sport: NBA
+  units: 0.5
+  description: D Booker o 2.5 3's
+  line: "+158"
+- sport: MLB
+  units: 0.5
+  description: CIN o 4.5
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: MIN o 4.5
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: TOR o 5.0
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: LAD o 4.5
+  line: "-125"
 monthly_mls:
 - month: '12'
   record: 24-17-0

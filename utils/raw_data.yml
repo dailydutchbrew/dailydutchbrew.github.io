@@ -5851,3 +5851,59 @@
   description: "CJ McCollum o 3.5 3's"
   result: "LOSS"
   date: "04/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "K Towns o 2.5 3's"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "R Bullock o 2.5 3's"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +158
+  units: 0.5
+  description: "D Booker o 2.5 3's"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CIN o 4.5"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "MIN o 4.5"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TOR o 5.0"
+  result: "PENDING"
+  date: "04/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "LAD o 4.5"
+  result: "PENDING"
+  date: "04/07/2021"
