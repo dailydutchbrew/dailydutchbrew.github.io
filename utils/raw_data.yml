@@ -5913,7 +5913,7 @@
   line: +100
   units: 0.5
   description: "MIA o 3.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5921,7 +5921,7 @@
   line: -125
   units: 0.5
   description: "NYM o 4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5929,7 +5929,7 @@
   line: -125
   units: 0.5
   description: "LAA o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5937,15 +5937,7 @@
   line: -130
   units: 0.5
   description: "TOR o 4.5"
-  result: "PENDING"
-  date: "04/08/2021"
-
-- sport: "MLB"
-  type: "OU"
-  line: -130
-  units: 0.5
-  description: "TOR o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5953,7 +5945,7 @@
   line: -110
   units: 0.5
   description: "COL o 5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5961,7 +5953,7 @@
   line: -115
   units: 0.5
   description: "HOU o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "MLB"
@@ -5969,7 +5961,7 @@
   line: -110
   units: 0.5
   description: "BOS o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "NBA"
@@ -5977,7 +5969,7 @@
   line: +131
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/08/2021"
 
 - sport: "NBA"
@@ -5985,7 +5977,7 @@
   line: -133
   units: 0.5
   description: "B Hield o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
 
 - sport: "NBA"
@@ -5993,5 +5985,5 @@
   line: -130
   units: 0.5
   description: "P George o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/08/2021"
