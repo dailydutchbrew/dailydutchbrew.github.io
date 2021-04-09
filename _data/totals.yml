@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 31
 win_pct: 0.522
 void: 15
-total_units: 508.6
-account_units: 8.66
-pending_units: 50.0
+total_units: 514.6
+account_units: 2.66
+pending_units: 56.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,55 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: Seth Curry o2.5 3's
+  line: "+131"
+- sport: NBA
+  units: 0.5
+  description: R Bullock o2.5 3's
+  line: "+114"
+- sport: NBA
+  units: 0.5
+  description: J Tatum o2.5 3's
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: Z Lavine o2.5 3's
+  line: "-152"
+- sport: MLB
+  units: 0.5
+  description: NYY o 4.5
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: LAD o 5.0
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: COL o 3.5
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: PHI o 3.5
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: HOU o 4.5
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: CIN o 5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: LAA o 5.0
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: TOR o 4.0
+  line: "-130"
 monthly_mls:
 - month: '12'
   record: 24-17-0
