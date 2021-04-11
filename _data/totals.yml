@@ -1,6 +1,6 @@
 ---
 win: 345
-loss: 318
+loss: 319
 push: 7
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 32
 win_pct: 0.52
 void: 15
-total_units: 521.1
-account_units: 7.12
-pending_units: 50.5
+total_units: 527.6
+account_units: 0.62
+pending_units: 56.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -95,8 +95,56 @@ futures:
 non_future_pending:
 - sport: MLB
   units: 0.5
-  description: LAA o 5.0
+  description: BAL o 4.0
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: BOS o 5.0
   line: "-125"
+- sport: MLB
+  units: 0.5
+  description: DET o 5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: NYY o 5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: SD o 5.0
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: STL o 4.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: ATL o 4.5
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: MIN o 4.5
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: CWS o 4.0
+  line: "-135"
+- sport: NBA
+  units: 0.5
+  description: T Rozier o3.5 3's
+  line: "-115"
+- sport: NBA
+  units: 0.5
+  description: D Graham o3.5 3's
+  line: "+127"
+- sport: NBA
+  units: 0.5
+  description: R Bullock o2.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.5
+  description: Z LaVine o3.5 3's
+  line: "+100"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -107,7 +155,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 46-46-2
-week_w: 29
-week_l: 33
-week_p: 2
+  record: 46-47-2
+week_w: 0
+week_l: 0
+week_p: 0
