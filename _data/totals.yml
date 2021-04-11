@@ -1,19 +1,19 @@
 ---
-win: 339
-loss: 313
-push: 6
+win: 345
+loss: 318
+push: 7
 parlay_win: 10
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 32
+pending: 20
 win_pct: 0.52
 void: 15
 total_units: 521.1
-account_units: 0.63
-pending_units: 56.5
+account_units: 7.12
+pending_units: 50.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -95,56 +95,8 @@ futures:
 non_future_pending:
 - sport: MLB
   units: 0.5
-  description: TB o 4.0
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: NYY o 4.5
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: STL o 3.5
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: HOU o 4.5
-  line: "-120"
-- sport: MLB
-  units: 0.5
-  description: CLE o 4.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: BOS o 5.0
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: BAL o 4.0
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: TOR o 5.0
-  line: "-125"
-- sport: MLB
-  units: 0.5
   description: LAA o 5.0
   line: "-125"
-- sport: MLB
-  units: 0.5
-  description: CIN o 5.0
-  line: "-115"
-- sport: NBA
-  units: 0.5
-  description: B Hield o 3.5 3's
-  line: "-119"
-- sport: NBA
-  units: 0.5
-  description: CJ McCollum o 3.5 3's
-  line: "+114"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o 3.5 3's
-  line: "-115"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -155,7 +107,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 40-41-1
-week_w: 23
-week_l: 28
-week_p: 1
+  record: 46-46-2
+week_w: 29
+week_l: 33
+week_p: 2

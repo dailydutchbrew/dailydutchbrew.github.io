@@ -6089,7 +6089,7 @@
   line: -110
   units: 0.5
   description: "TB o 4.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6097,7 +6097,7 @@
   line: -125
   units: 0.5
   description: "NYY o 4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6105,7 +6105,7 @@
   line: -125
   units: 0.5
   description: "STL o 3.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6113,7 +6113,7 @@
   line: -120
   units: 0.5
   description: "HOU o 4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6121,7 +6121,7 @@
   line: -130
   units: 0.5
   description: "CLE o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6129,7 +6129,7 @@
   line: -110
   units: 0.5
   description: "BOS o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6137,7 +6137,7 @@
   line: -125
   units: 0.5
   description: "BAL o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6145,7 +6145,7 @@
   line: -125
   units: 0.5
   description: "TOR o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
 
 - sport: "MLB"
@@ -6161,7 +6161,7 @@
   line: -115
   units: 0.5
   description: "CIN o 5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/10/2021"
 
 - sport: "NBA"
@@ -6169,7 +6169,7 @@
   line: -119
   units: 0.5
   description: "B Hield o 3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
 
 - sport: "NBA"
@@ -6177,7 +6177,7 @@
   line: +114
   units: 0.5
   description: "CJ McCollum o 3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/10/2021"
 
 - sport: "NBA"
@@ -6185,5 +6185,5 @@
   line: -115
   units: 0.5
   description: "D Lillard o 3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/10/2021"
