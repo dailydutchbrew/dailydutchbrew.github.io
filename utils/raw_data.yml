@@ -6193,7 +6193,7 @@
   line: -120
   units: 0.5
   description: "BAL o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6201,7 +6201,7 @@
   line: -125
   units: 0.5
   description: "BOS o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6209,7 +6209,7 @@
   line: -115
   units: 0.5
   description: "DET o 5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6217,7 +6217,7 @@
   line: -115
   units: 0.5
   description: "NYY o 5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6225,7 +6225,7 @@
   line: -130
   units: 0.5
   description: "SD o 5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6233,7 +6233,7 @@
   line: -125
   units: 0.5
   description: "STL o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6241,7 +6241,7 @@
   line: -130
   units: 0.5
   description: "ATL o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6249,7 +6249,7 @@
   line: -120
   units: 0.5
   description: "MIN o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "MLB"
@@ -6257,7 +6257,7 @@
   line: -135
   units: 0.5
   description: "CWS o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/11/2021"
 
 - sport: "NBA"
@@ -6265,7 +6265,7 @@
   line: -115
   units: 0.5
   description: "T Rozier o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "NBA"
@@ -6273,7 +6273,7 @@
   line: +127
   units: 0.5
   description: "D Graham o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
 
 - sport: "NBA"
@@ -6281,7 +6281,7 @@
   line: +140
   units: 0.5
   description: "R Bullock o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/11/2021"
 
 - sport: "NBA"
@@ -6289,5 +6289,125 @@
   line: +100
   units: 0.5
   description: "Z LaVine o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "K Olynyk o1.5 3's"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -145
+  units: 0.5
+  description: "D Brooks o1.5 3's"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Bj Bogdanovoic o1.5 3's"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "BOS o 4.0"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "MIN o 4.5"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "OAK o 4.5"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "HOU o 4.5"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CWS o 4.0"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CIN o 4.0"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "SF o 4.0"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "CLE o 3.5"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "CLE o 3.5"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "TB o 4.0"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +102
+  units: 0.5
+  description: "COL + VGK win"
+  result: "PENDING"
+  date: "04/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -108
+  units: 0.5
+  description: "WPG + CAR win"
+  result: "PENDING"
+  date: "04/12/2021"
