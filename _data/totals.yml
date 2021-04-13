@@ -1,19 +1,19 @@
 ---
-win: 353
-loss: 324
-push: 7
+win: 356
+loss: 332
+push: 8
 parlay_win: 10
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 34
-win_pct: 0.521
-void: 15
+pending: 20
+win_pct: 0.517
+void: 17
 total_units: 535.1
-account_units: 0.75
-pending_units: 57.5
+account_units: 6.45
+pending_units: 50.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -93,66 +93,10 @@ futures:
   description: OAK o 86.5 wins
   line: "-115"
 non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: K Olynyk o1.5 3's
-  line: "-135"
-- sport: NBA
-  units: 0.5
-  description: D Brooks o1.5 3's
-  line: "-145"
-- sport: NBA
-  units: 0.5
-  description: Bj Bogdanovoic o1.5 3's
-  line: "-156"
-- sport: MLB
-  units: 0.5
-  description: BOS o 4.0
-  line: "-120"
-- sport: MLB
-  units: 0.5
-  description: MIN o 4.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: OAK o 4.5
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: HOU o 4.5
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: CWS o 4.0
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: CIN o 4.0
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: SF o 4.0
-  line: "-130"
 - sport: MLB
   units: 0.5
   description: CLE o 3.5
   line: "-130"
-- sport: MLB
-  units: 0.5
-  description: CLE o 3.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: TB o 4.0
-  line: "-145"
-- sport: NHL
-  units: 0.5
-  description: COL + VGK win
-  line: "+102"
-- sport: NHL
-  units: 0.5
-  description: WPG + CAR win
-  line: "-108"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -163,7 +107,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 54-52-2
-week_w: 8
-week_l: 5
-week_p: 0
+  record: 57-60-3
+week_w: 11
+week_l: 13
+week_p: 1

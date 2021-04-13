@@ -6297,7 +6297,7 @@
   line: -135
   units: 0.5
   description: "K Olynyk o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "NBA"
@@ -6305,7 +6305,7 @@
   line: -145
   units: 0.5
   description: "D Brooks o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "NBA"
@@ -6313,7 +6313,7 @@
   line: -156
   units: 0.5
   description: "Bj Bogdanovoic o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6321,7 +6321,7 @@
   line: -120
   units: 0.5
   description: "BOS o 4.0"
-  result: "PENDING"
+  result: "VOID"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6329,7 +6329,7 @@
   line: -130
   units: 0.5
   description: "MIN o 4.5"
-  result: "PENDING"
+  result: "VOID"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6337,7 +6337,7 @@
   line: -135
   units: 0.5
   description: "OAK o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6345,7 +6345,7 @@
   line: -135
   units: 0.5
   description: "HOU o 4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6353,7 +6353,7 @@
   line: -125
   units: 0.5
   description: "CWS o 4.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6361,7 +6361,7 @@
   line: -115
   units: 0.5
   description: "CIN o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6369,7 +6369,7 @@
   line: -130
   units: 0.5
   description: "SF o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6385,7 +6385,7 @@
   line: -130
   units: 0.5
   description: "CLE o 3.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "MLB"
@@ -6393,7 +6393,7 @@
   line: -145
   units: 0.5
   description: "TB o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
 
 - sport: "NHL"
@@ -6401,7 +6401,7 @@
   line: +102
   units: 0.5
   description: "COL + VGK win"
-  result: "PENDING"
+  result: "WIN"
   date: "04/12/2021"
 
 - sport: "NHL"
@@ -6409,5 +6409,5 @@
   line: -108
   units: 0.5
   description: "WPG + CAR win"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/12/2021"
