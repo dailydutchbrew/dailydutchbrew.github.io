@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 33
 win_pct: 0.517
 void: 17
-total_units: 535.1
-account_units: 6.45
-pending_units: 50.5
+total_units: 541.6
+account_units: -0.05
+pending_units: 57.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -97,6 +97,58 @@ non_future_pending:
   units: 0.5
   description: CLE o 3.5
   line: "-130"
+- sport: NHL
+  units: 0.5
+  description: FLA + BOS win
+  line: "+141"
+- sport: NHL
+  units: 0.5
+  description: TB + TOR win
+  line: "+144"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+122"
+- sport: NBA
+  units: 0.5
+  description: J Crowder o2.5 3's
+  line: "-120"
+- sport: NBA
+  units: 0.5
+  description: D Graham o3.5 3's
+  line: "+127"
+- sport: NBA
+  units: 0.5
+  description: T Rozier o3.5 3's
+  line: "+127"
+- sport: MLB
+  units: 0.5
+  description: OAK o 4.0
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: SD o 4.5
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: MIL o 3.5
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: LAA o 4.5
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: COL o 5.0
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: CIN(@SF) o 7.0
+  line: "-145"
+- sport: MLB
+  units: 0.5
+  description: TB o 4.0
+  line: "-135"
 monthly_mls:
 - month: '12'
   record: 24-17-0

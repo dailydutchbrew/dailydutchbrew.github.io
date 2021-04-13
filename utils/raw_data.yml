@@ -6411,3 +6411,107 @@
   description: "WPG + CAR win"
   result: "LOSS"
   date: "04/12/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +141
+  units: 0.5
+  description: "FLA + BOS win"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: +144
+  units: 0.5
+  description: "TB + TOR win"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +122
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "J Crowder o2.5 3's"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "D Graham o3.5 3's"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "T Rozier o3.5 3's"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "OAK o 4.0"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "SD o 4.5"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "MIL o 3.5"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "LAA o 4.5"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "COL o 5.0"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "CIN(@SF) o 7.0"
+  result: "PENDING"
+  date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "TB o 4.0"
+  result: "PENDING"
+  date: "04/13/2021"
