@@ -1,6 +1,6 @@
 ---
-win: 356
-loss: 332
+win: 361
+loss: 339
 push: 8
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 33
-win_pct: 0.517
-void: 17
+pending: 20
+win_pct: 0.516
+void: 18
 total_units: 541.6
-account_units: -0.05
-pending_units: 57.0
+account_units: 5.93
+pending_units: 50.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -97,58 +97,6 @@ non_future_pending:
   units: 0.5
   description: CLE o 3.5
   line: "-130"
-- sport: NHL
-  units: 0.5
-  description: FLA + BOS win
-  line: "+141"
-- sport: NHL
-  units: 0.5
-  description: TB + TOR win
-  line: "+144"
-- sport: NBA
-  units: 0.5
-  description: D Robinson o3.5 3's
-  line: "+122"
-- sport: NBA
-  units: 0.5
-  description: J Crowder o2.5 3's
-  line: "-120"
-- sport: NBA
-  units: 0.5
-  description: D Graham o3.5 3's
-  line: "+127"
-- sport: NBA
-  units: 0.5
-  description: T Rozier o3.5 3's
-  line: "+127"
-- sport: MLB
-  units: 0.5
-  description: OAK o 4.0
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: SD o 4.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: MIL o 3.5
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: LAA o 4.5
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: COL o 5.0
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: CIN(@SF) o 7.0
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: TB o 4.0
-  line: "-135"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -159,7 +107,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 57-60-3
-week_w: 11
-week_l: 13
+  record: 62-67-3
+week_w: 16
+week_l: 20
 week_p: 1
