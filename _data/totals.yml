@@ -1,6 +1,6 @@
 ---
-win: 361
-loss: 339
+win: 363
+loss: 341
 push: 8
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 27
 win_pct: 0.516
 void: 18
-total_units: 541.6
-account_units: 5.93
-pending_units: 50.5
+total_units: 547.1
+account_units: 2.54
+pending_units: 54.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -97,6 +97,34 @@ non_future_pending:
   units: 0.5
   description: CLE o 3.5
   line: "-130"
+- sport: MLB
+  units: 0.5
+  description: LAD o4.5
+  line: "-125"
+- sport: NBA
+  units: 0.5
+  description: Seth Curry o1.5 3's
+  line: "-143"
+- sport: NBA
+  units: 0.5
+  description: M Brogdon o2.5 3's
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: D Green o2.5 3's
+  line: "+131"
+- sport: NBA
+  units: 0.5
+  description: J Harris o2.5 3's
+  line: "-143"
+- sport: NBA
+  units: 0.5
+  description: V LaVine o3.5 3's
+  line: "+129"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+112"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -107,7 +135,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 62-67-3
-week_w: 16
-week_l: 20
+  record: 64-69-3
+week_w: 18
+week_l: 22
 week_p: 1

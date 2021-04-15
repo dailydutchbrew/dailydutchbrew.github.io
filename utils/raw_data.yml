@@ -6515,3 +6515,91 @@
   description: "TB o 4.0"
   result: "LOSS"
   date: "04/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "TOR o 4.5"
+  result: "WIN"
+  date: "04/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "NYY o5.0"
+  result: "LOSS"
+  date: "04/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAA o4.5"
+  result: "LOSS"
+  date: "04/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "LAD o4.5"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Seth Curry o1.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +131
+  units: 0.5
+  description: "D Green o2.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "J Harris o2.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +138
+  units: 0.5
+  description: "N Vucevic o2.5 3's"
+  result: "WIN"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "V LaVine o3.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +112
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "04/14/2021"
