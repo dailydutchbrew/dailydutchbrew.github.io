@@ -6545,7 +6545,7 @@
   line: -125
   units: 0.5
   description: "LAD o4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6553,7 +6553,7 @@
   line: -143
   units: 0.5
   description: "Seth Curry o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6561,7 +6561,7 @@
   line: -130
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6569,7 +6569,7 @@
   line: +131
   units: 0.5
   description: "D Green o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6577,7 +6577,7 @@
   line: -143
   units: 0.5
   description: "J Harris o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6593,7 +6593,7 @@
   line: +129
   units: 0.5
   description: "V LaVine o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/14/2021"
 
 - sport: "NBA"
@@ -6601,5 +6601,93 @@
   line: +112
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "TB o4.0"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "DET o3.0"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "OAK o4.0"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "LAD o4.5"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: +134
+  units: 0.5
+  description: "J Tatum o3.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -139
+  units: 0.5
+  description: "J Brown o2.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -139
+  units: 0.5
+  description: "J Brown o2.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -103
+  units: 0.25
+  description: "T Haliburton o1.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.25
+  description: "B Hield o3.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -156
+  units: 0.25
+  description: "D Booker o1.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: +122
+  units: 0.25
+  description: "S Curry o5.5 3's"
+  result: "PENDING"
+  date: "04/15/2021"
