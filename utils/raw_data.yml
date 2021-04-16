@@ -6609,7 +6609,7 @@
   line: -160
   units: 0.5
   description: "TB o4.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "04/15/2021"
 
 - sport: "MLB"
@@ -6617,7 +6617,7 @@
   line: -150
   units: 0.5
   description: "DET o3.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "MLB"
@@ -6625,7 +6625,7 @@
   line: -150
   units: 0.5
   description: "OAK o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "MLB"
@@ -6633,7 +6633,7 @@
   line: -130
   units: 0.5
   description: "LAD o4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6641,7 +6641,7 @@
   line: +134
   units: 0.5
   description: "J Tatum o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6649,15 +6649,7 @@
   line: -139
   units: 0.5
   description: "J Brown o2.5 3's"
-  result: "PENDING"
-  date: "04/15/2021"
-
-- sport: "NBA"
-  type: "OU"
-  line: -139
-  units: 0.5
-  description: "J Brown o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6665,7 +6657,7 @@
   line: -103
   units: 0.25
   description: "T Haliburton o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6673,7 +6665,7 @@
   line: -110
   units: 0.25
   description: "B Hield o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6681,7 +6673,7 @@
   line: -156
   units: 0.25
   description: "D Booker o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/15/2021"
 
 - sport: "NBA"
@@ -6689,5 +6681,5 @@
   line: +122
   units: 0.25
   description: "S Curry o5.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/15/2021"
