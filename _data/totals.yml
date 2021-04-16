@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 20
+pending: 32
 win_pct: 0.517
 void: 18
-total_units: 551.1
-account_units: 6.36
-pending_units: 50.5
+total_units: 557.1
+account_units: 0.36
+pending_units: 56.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -97,6 +97,54 @@ non_future_pending:
   units: 0.5
   description: CLE o 3.5
   line: "-130"
+- sport: MLB
+  units: 0.5
+  description: CIN o4.0
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: CLE o4.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: MIN o4.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: LAA o4.0
+  line: "-150"
+- sport: MLB
+  units: 0.5
+  description: DET o3.0
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: OAK o4.5
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: SD o3.0
+  line: "-135"
+- sport: MLB
+  units: 0.5
+  description: LAD o4.0
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: R Bullock o2.5 3's
+  line: "+106"
+- sport: NBA
+  units: 0.5
+  description: D White o2.5 3's
+  line: "+106"
+- sport: NBA
+  units: 0.5
+  description: D Robinson o3.5 3's
+  line: "+100"
+- sport: NHL
+  units: 0.5
+  description: COL + VGK win
+  line: "-117"
 monthly_mls:
 - month: '12'
   record: 24-17-0
