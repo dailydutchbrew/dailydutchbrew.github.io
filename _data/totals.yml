@@ -1,6 +1,6 @@
 ---
-win: 372
-loss: 348
+win: 378
+loss: 354
 push: 9
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 32
-win_pct: 0.517
+pending: 34
+win_pct: 0.516
 void: 18
-total_units: 557.1
-account_units: 0.36
-pending_units: 56.5
+total_units: 562.6
+account_units: 0.05
+pending_units: 56.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -99,52 +99,60 @@ non_future_pending:
   line: "-130"
 - sport: MLB
   units: 0.5
-  description: CIN o4.0
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: CLE o4.0
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: MIN o4.0
+  description: DET o4.0
   line: "-115"
 - sport: MLB
   units: 0.5
-  description: LAA o4.0
-  line: "-150"
-- sport: MLB
-  units: 0.5
-  description: DET o3.0
+  description: MIN o4.0
   line: "-135"
 - sport: MLB
   units: 0.5
-  description: OAK o4.5
-  line: "-120"
+  description: LAA o4.0
+  line: "-145"
 - sport: MLB
   units: 0.5
   description: SD o3.0
   line: "-135"
 - sport: MLB
   units: 0.5
-  description: LAD o4.0
-  line: "-130"
-- sport: NBA
+  description: LAD o3.5
+  line: "-120"
+- sport: MLB
   units: 0.5
-  description: R Bullock o2.5 3's
-  line: "+106"
-- sport: NBA
+  description: LAD @ SD o7.0
+  line: "-115"
+- sport: MLB
   units: 0.5
+  description: MIN @ LAA o9.0
+  line: "-115"
+- sport: NBA
+  units: 0.25
+  description: J Brown o3.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.25
+  description: S Curry o5.5 3's
+  line: "+110"
+- sport: NBA
+  units: 0.25
+  description: J Tatum o3.5 3's
+  line: "+140"
+- sport: NBA
+  units: 0.25
   description: D White o2.5 3's
-  line: "+106"
+  line: "+136"
 - sport: NBA
-  units: 0.5
-  description: D Robinson o3.5 3's
-  line: "+100"
+  units: 0.25
+  description: D Booker o2.5 3's
+  line: "+152"
+- sport: NBA
+  units: 0.25
+  description: J Crowder o2.5 3's
+  line: "+118"
 - sport: NHL
   units: 0.5
-  description: COL + VGK win
-  line: "-117"
+  description: NYR + PIT wins
+  line: "-111"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -155,7 +163,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 73-76-4
-week_w: 27
-week_l: 29
+  record: 79-82-4
+week_w: 33
+week_l: 35
 week_p: 2
