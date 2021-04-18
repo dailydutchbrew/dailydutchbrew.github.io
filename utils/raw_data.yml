@@ -6883,3 +6883,75 @@
   description: "NYR + PIT wins"
   result: "WIN"
   date: "04/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "NYY o 4.5"
+  result: "LOSS"
+  date: "04/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "STL @ PHI o 8.0"
+  result: "LOSS"
+  date: "04/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "WIN"
+  date: "04/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "J Harris o2.5 3's"
+  result: "PENDING"
+  date: "04/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "B Hield o3.5 3's"
+  result: "PENDING"
+  date: "04/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "WAS @ BOS o5.5"
+  result: "WIN"
+  date: "04/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "PIT @ BUF o6.0"
+  result: "PENDING"
+  date: "04/18/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "NYR @ NJD o6.0"
+  result: "PENDING"
+  date: "04/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "OAK o4.5"
+  result: "PENDING"
+  date: "04/18/2021"
