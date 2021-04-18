@@ -1,6 +1,6 @@
 ---
-win: 378
-loss: 354
+win: 382
+loss: 360
 push: 9
 parlay_win: 10
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 34
-win_pct: 0.516
-void: 18
-total_units: 562.6
-account_units: 0.05
-pending_units: 56.0
+pending: 19
+win_pct: 0.515
+void: 22
+total_units: 562.1
+account_units: 6.71
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,67 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: MLB
-  units: 0.5
-  description: CLE o 3.5
-  line: "-130"
-- sport: MLB
-  units: 0.5
-  description: DET o4.0
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: MIN o4.0
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: LAA o4.0
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: SD o3.0
-  line: "-135"
-- sport: MLB
-  units: 0.5
-  description: LAD o3.5
-  line: "-120"
-- sport: MLB
-  units: 0.5
-  description: LAD @ SD o7.0
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: MIN @ LAA o9.0
-  line: "-115"
-- sport: NBA
-  units: 0.25
-  description: J Brown o3.5 3's
-  line: "+140"
-- sport: NBA
-  units: 0.25
-  description: S Curry o5.5 3's
-  line: "+110"
-- sport: NBA
-  units: 0.25
-  description: J Tatum o3.5 3's
-  line: "+140"
-- sport: NBA
-  units: 0.25
-  description: D White o2.5 3's
-  line: "+136"
-- sport: NBA
-  units: 0.25
-  description: D Booker o2.5 3's
-  line: "+152"
-- sport: NBA
-  units: 0.25
-  description: J Crowder o2.5 3's
-  line: "+118"
-- sport: NHL
-  units: 0.5
-  description: NYR + PIT wins
-  line: "-111"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -163,7 +103,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 79-82-4
-week_w: 33
-week_l: 35
+  record: 83-88-4
+week_w: 37
+week_l: 41
 week_p: 2

@@ -6377,14 +6377,6 @@
   line: -130
   units: 0.5
   description: "CLE o 3.5"
-  result: "PENDING"
-  date: "04/12/2021"
-
-- sport: "MLB"
-  type: "OU"
-  line: -130
-  units: 0.5
-  description: "CLE o 3.5"
   result: "LOSS"
   date: "04/12/2021"
 
@@ -6785,7 +6777,7 @@
   line: -115
   units: 0.5
   description: "DET o4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6793,7 +6785,7 @@
   line: -135
   units: 0.5
   description: "MIN o4.0"
-  result: "PENDING"
+  result: "VOID"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6801,7 +6793,7 @@
   line: -145
   units: 0.5
   description: "LAA o4.0"
-  result: "PENDING"
+  result: "VOID"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6809,7 +6801,7 @@
   line: -135
   units: 0.5
   description: "SD o3.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6817,7 +6809,7 @@
   line: -120
   units: 0.5
   description: "LAD o3.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6825,7 +6817,7 @@
   line: -115
   units: 0.5
   description: "LAD @ SD o7.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "MLB"
@@ -6833,7 +6825,7 @@
   line: -115
   units: 0.5
   description: "MIN @ LAA o9.0"
-  result: "PENDING"
+  result: "VOID"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6841,7 +6833,7 @@
   line: +140
   units: 0.25
   description: "J Brown o3.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6849,7 +6841,7 @@
   line: +110
   units: 0.25
   description: "S Curry o5.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6857,7 +6849,7 @@
   line: +140
   units: 0.25
   description: "J Tatum o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6865,7 +6857,7 @@
   line: +136
   units: 0.25
   description: "D White o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6873,7 +6865,7 @@
   line: +152
   units: 0.25
   description: "D Booker o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "NBA"
@@ -6881,7 +6873,7 @@
   line: +118
   units: 0.25
   description: "J Crowder o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/17/2021"
 
 - sport: "NHL"
@@ -6889,5 +6881,5 @@
   line: -111
   units: 0.5
   description: "NYR + PIT wins"
-  result: "PENDING"
+  result: "WIN"
   date: "04/17/2021"
