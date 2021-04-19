@@ -1,19 +1,19 @@
 ---
-win: 384
-loss: 362
-push: 9
+win: 385
+loss: 365
+push: 10
 parlay_win: 10
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 24
-win_pct: 0.515
+pending: 22
+win_pct: 0.513
 void: 22
-total_units: 566.6
-account_units: 4.03
-pending_units: 52.5
+total_units: 568.1
+account_units: 4.53
+pending_units: 51.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -93,26 +93,18 @@ futures:
   description: OAK o 86.5 wins
   line: "-115"
 non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: J Harris o2.5 3's
-  line: "-123"
-- sport: NBA
-  units: 0.5
-  description: B Hield o3.5 3's
-  line: "-156"
-- sport: NHL
-  units: 0.5
-  description: PIT @ BUF o6.0
-  line: "-105"
-- sport: NHL
-  units: 0.5
-  description: NYR @ NJD o6.0
-  line: "+100"
 - sport: MLB
   units: 0.5
-  description: OAK o4.5
-  line: "-125"
+  description: LAD o4.5
+  line: "-135"
+- sport: NBA
+  units: 0.5
+  description: D White o2.5 3's
+  line: "+127"
+- sport: NHL
+  units: 0.5
+  description: VGK + FLA wins
+  line: "+103"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -123,7 +115,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 85-90-4
-week_w: 2
-week_l: 2
-week_p: 0
+  record: 86-93-5
+week_w: 3
+week_l: 5
+week_p: 1
