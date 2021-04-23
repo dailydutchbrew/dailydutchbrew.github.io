@@ -7025,7 +7025,7 @@
   line: -101
   units: 0.5
   description: "N Vucevic o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/21/2021"
 
 - sport: "NBA"
@@ -7033,7 +7033,7 @@
   line: -135
   units: 0.5
   description: "B Hield o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/21/2021"
 
 - sport: "NBA"
@@ -7041,7 +7041,7 @@
   line: -110
   units: 0.5
   description: "D White o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/21/2021"
 
 - sport: "NBA"
@@ -7049,7 +7049,7 @@
   line: -108
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/21/2021"
 
 - sport: "NHL"
@@ -7057,7 +7057,7 @@
   line: +128
   units: 0.5
   description: "VGK + MIN wins"
-  result: "PENDING"
+  result: "WIN"
   date: "04/21/2021"
 
 - sport: "MLB"
@@ -7065,7 +7065,7 @@
   line: -120
   units: 0.5
   description: "BAL @ MIA o7.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/21/2021"
 
 - sport: "MLB"
@@ -7073,5 +7073,85 @@
   line: -120
   units: 0.5
   description: "SF @ PHI o8.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "D Graham o2.5 3's"
+  result: "WIN"
+  date: "04/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Miles Bridges o1.5 3's"
+  result: "WIN"
+  date: "04/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -161
+  units: 0.5
+  description: "T Rozier o2.5 3's"
+  result: "LOSS"
+  date: "04/22/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +167
+  units: 0.5
+  description: "NYR + MIN wins"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "NHL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "BOS(@BUF) -1.5"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "SEA o 4.0"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "MIL o 4.0"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "PENDING"
+  date: "04/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "D Lillard o3.5 3's"
+  result: "PENDING"
+  date: "04/23/2021"
