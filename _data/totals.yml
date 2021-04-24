@@ -1,19 +1,19 @@
 ---
-win: 393
-loss: 374
+win: 394
+loss: 379
 push: 10
-parlay_win: 11
+parlay_win: 12
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 26
-win_pct: 0.512
+pending: 25
+win_pct: 0.51
 void: 22
-total_units: 579.1
-account_units: 2.28
-pending_units: 53.5
+total_units: 582.1
+account_units: 1.54
+pending_units: 53.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -93,34 +93,30 @@ futures:
   description: OAK o 86.5 wins
   line: "-115"
 non_future_pending:
-- sport: NHL
+- sport: NBA
   units: 0.5
-  description: NYR + MIN wins
-  line: "+167"
-- sport: NHL
+  description: K Lowry o2.5 3's
+  line: "-102"
+- sport: NBA
   units: 0.5
-  description: BOS(@BUF) -1.5
-  line: "-130"
+  description: R Bullock o3.5 3's
+  line: "+136"
+- sport: NBA
+  units: 0.5
+  description: F VanVleet o3.5 3's
+  line: "+136"
+- sport: NBA
+  units: 0.5
+  description: J Randle o2.5 3's
+  line: "-141"
 - sport: MLB
   units: 0.5
-  description: SEA o 4.0
+  description: PHI @ COL o10.0
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: LAA @ HOU o9.0
   line: "-120"
-- sport: MLB
-  units: 0.5
-  description: MIL o 4.0
-  line: "-125"
-- sport: NBA
-  units: 0.5
-  description: D Robinson o3.5 3's
-  line: "+104"
-- sport: NBA
-  units: 0.5
-  description: S Curry o5.5 3's
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o3.5 3's
-  line: "-115"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -131,7 +127,7 @@ monthly_mls:
 - month: '03'
   record: 96-87-1
 - month: '04'
-  record: 94-102-5
-week_w: 11
-week_l: 14
+  record: 95-107-5
+week_w: 12
+week_l: 19
 week_p: 1

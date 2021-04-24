@@ -7105,7 +7105,7 @@
   line: +167
   units: 0.5
   description: "NYR + MIN wins"
-  result: "PENDING"
+  result: "WIN"
   date: "04/23/2021"
 
 - sport: "NHL"
@@ -7113,7 +7113,7 @@
   line: -130
   units: 0.5
   description: "BOS(@BUF) -1.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/23/2021"
 
 - sport: "MLB"
@@ -7121,7 +7121,7 @@
   line: -120
   units: 0.5
   description: "SEA o 4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/23/2021"
 
 - sport: "MLB"
@@ -7129,7 +7129,7 @@
   line: -125
   units: 0.5
   description: "MIL o 4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/23/2021"
 
 - sport: "NBA"
@@ -7137,7 +7137,7 @@
   line: +104
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/23/2021"
 
 - sport: "NBA"
@@ -7145,7 +7145,7 @@
   line: -108
   units: 0.5
   description: "S Curry o5.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/23/2021"
 
 - sport: "NBA"
@@ -7153,5 +7153,53 @@
   line: -115
   units: 0.5
   description: "D Lillard o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -102
+  units: 0.5
+  description: "K Lowry o2.5 3's"
+  result: "PENDING"
+  date: "04/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +136
+  units: 0.5
+  description: "R Bullock o3.5 3's"
+  result: "PENDING"
+  date: "04/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +136
+  units: 0.5
+  description: "F VanVleet o3.5 3's"
+  result: "PENDING"
+  date: "04/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -141
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "PENDING"
+  date: "04/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "PHI @ COL o10.0"
+  result: "PENDING"
+  date: "04/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "LAA @ HOU o9.0"
+  result: "PENDING"
+  date: "04/24/2021"
