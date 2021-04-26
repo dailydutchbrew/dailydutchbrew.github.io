@@ -7209,7 +7209,7 @@
   line: -120
   units: 0.5
   description: "NJD @ PHI o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
 
 - sport: "NHL"
@@ -7217,7 +7217,7 @@
   line: -105
   units: 0.5
   description: "BUF @ NYR o6.0"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
 
 - sport: "MLB"
@@ -7225,7 +7225,7 @@
   line: -115
   units: 0.5
   description: "KC @ DET o8.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/25/2021"
 
 - sport: "MLB"
@@ -7233,7 +7233,7 @@
   line: -125
   units: 0.5
   description: "ARI @ ATL o6.5 2nd DH"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
 
 - sport: "NBA"
@@ -7241,7 +7241,7 @@
   line: +135
   units: 0.5
   description: "D Graham o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
 
 - sport: "NBA"
@@ -7249,7 +7249,7 @@
   line: -156
   units: 0.5
   description: "T Rozier o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
 
 - sport: "NBA"
@@ -7257,7 +7257,7 @@
   line: +129
   units: 0.5
   description: "J Tatum o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/25/2021"
 
 - sport: "NBA"
@@ -7265,7 +7265,7 @@
   line: -139
   units: 0.5
   description: "J Brown o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/25/2021"
 
 - sport: "NBA"
@@ -7273,5 +7273,5 @@
   line: -156
   units: 0.5
   description: "K Walker o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/25/2021"
