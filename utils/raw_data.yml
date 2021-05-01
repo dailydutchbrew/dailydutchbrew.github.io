@@ -7393,7 +7393,7 @@
   line: -111
   units: 0.5
   description: "S Curry o5.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/27/2021"
 
 - sport: "NBA"
@@ -7401,7 +7401,7 @@
   line: -109
   units: 0.5
   description: "D Graham o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/27/2021"
 
 - sport: "NBA"
@@ -7409,7 +7409,7 @@
   line: -125
   units: 0.5
   description: "D Lillard o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "04/27/2021"
 
 - sport: "NBA"
@@ -7417,7 +7417,7 @@
   line: +100
   units: 0.5
   description: "CJ McCollum o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/27/2021"
 
 - sport: "NHL"
@@ -7425,5 +7425,157 @@
   line: -120
   units: 0.5
   description: "BUF @ NYR o6.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "04/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "WIN"
+  date: "04/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "K Towns o2.5 3's"
+  result: "WIN"
+  date: "04/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -119
+  units: 0.5
+  description: "A Edwards o2.5 3's"
+  result: "WIN"
+  date: "04/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "WIN"
+  date: "04/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +134
+  units: 0.5
+  description: "CJ McCollum o 3.5 3's"
+  result: "LOSS"
+  date: "04/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -141
+  units: 0.5
+  description: "D Lillard o 3.5 3's"
+  result: "WIN"
+  date: "04/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 0.5
+  description: "D Booker o 1.5 3's"
+  result: "WIN"
+  date: "04/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "Boj Bogdanovic o 2.5 3's"
+  result: "LOSS"
+  date: "04/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "J Ingles o 3.5 3's"
+  result: "LOSS"
+  date: "04/30/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "NYY o 5.0"
+  result: "WIN"
+  date: "04/30/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "CHC @ CIN o 9.0"
+  result: "WIN"
+  date: "04/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "D Graham o 3.5 3's"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "M Bridges o 2.5 3's"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -133
+  units: 0.5
+  description: "S Curry o 5.5 3's"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "A Edwards o 2.5 3's"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "K Towns o 2.5 3's"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "ATL @ TOR o 10.0"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TOR o 4.5"
+  result: "PENDING"
+  date: "05/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "ATL o 5.5"
+  result: "PENDING"
+  date: "05/01/2021"
