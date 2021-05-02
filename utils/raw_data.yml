@@ -7521,7 +7521,7 @@
   line: +120
   units: 0.5
   description: "D Graham o 3.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "05/01/2021"
 
 - sport: "NBA"
@@ -7529,7 +7529,7 @@
   line: +140
   units: 0.5
   description: "M Bridges o 2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/01/2021"
 
 - sport: "NBA"
@@ -7537,7 +7537,7 @@
   line: -133
   units: 0.5
   description: "S Curry o 5.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/01/2021"
 
 - sport: "NBA"
@@ -7545,7 +7545,7 @@
   line: -135
   units: 0.5
   description: "A Edwards o 2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/01/2021"
 
 - sport: "NBA"
@@ -7553,7 +7553,7 @@
   line: -120
   units: 0.5
   description: "K Towns o 2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/01/2021"
 
 - sport: "MLB"
@@ -7561,7 +7561,7 @@
   line: -145
   units: 0.5
   description: "ATL @ TOR o 10.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/01/2021"
 
 - sport: "MLB"
@@ -7569,7 +7569,7 @@
   line: -115
   units: 0.5
   description: "TOR o 4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/01/2021"
 
 - sport: "MLB"
@@ -7577,5 +7577,5 @@
   line: -120
   units: 0.5
   description: "ATL o 5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/01/2021"
