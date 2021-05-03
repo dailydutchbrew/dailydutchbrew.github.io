@@ -7579,3 +7579,99 @@
   description: "ATL o 5.5"
   result: "LOSS"
   date: "05/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "NYM @ PHI o 9.0"
+  result: "WIN"
+  date: "05/02/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "ATL @ TOR o 11.0"
+  result: "LOSS"
+  date: "05/02/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "DET @ NYY o 9.0"
+  result: "LOSS"
+  date: "05/02/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "J Taytum o3.5 3's"
+  result: "WIN"
+  date: "05/02/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -141
+  units: 0.5
+  description: "D Lillard o3.5 3's"
+  result: "LOSS"
+  date: "05/02/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "L Ball o2.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -152
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -127
+  units: 0.5
+  description: "D Lillard o3.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "CJ McCollum o2.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -122
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +152
+  units: 0.5
+  description: "R Barret o2.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -145
+  units: 0.5
+  description: "M Porter Jro2.5 3's"
+  result: "PENDING"
+  date: "05/03/2021"

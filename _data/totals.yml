@@ -1,6 +1,6 @@
 ---
-win: 421
-loss: 404
+win: 423
+loss: 407
 push: 10
 parlay_win: 12
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 26
 win_pct: 0.51
 void: 23
-total_units: 605.6
-account_units: 4.18
-pending_units: 50.0
+total_units: 611.6
+account_units: 0.16
+pending_units: 53.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,35 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: L Ball o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: S Curry o5.5 3's
+  line: "-152"
+- sport: NBA
+  units: 0.5
+  description: D Lillard o3.5 3's
+  line: "-127"
+- sport: NBA
+  units: 0.5
+  description: CJ McCollum o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: J Randle o2.5 3's
+  line: "-122"
+- sport: NBA
+  units: 0.5
+  description: R Barret o2.5 3's
+  line: "+152"
+- sport: NBA
+  units: 0.5
+  description: M Porter Jro2.5 3's
+  line: "-145"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -105,7 +133,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 4-3-0
-week_w: 23
-week_l: 23
+  record: 6-6-0
+week_w: 2
+week_l: 3
 week_p: 0
