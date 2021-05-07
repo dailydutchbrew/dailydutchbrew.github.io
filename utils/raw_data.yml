@@ -7625,7 +7625,7 @@
   line: -156
   units: 0.5
   description: "L Ball o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/03/2021"
 
 - sport: "NBA"
@@ -7633,7 +7633,7 @@
   line: -152
   units: 0.5
   description: "S Curry o5.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/03/2021"
 
 - sport: "NBA"
@@ -7641,7 +7641,7 @@
   line: -127
   units: 0.5
   description: "D Lillard o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/03/2021"
 
 - sport: "NBA"
@@ -7649,7 +7649,7 @@
   line: -156
   units: 0.5
   description: "CJ McCollum o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/03/2021"
 
 - sport: "NBA"
@@ -7657,7 +7657,7 @@
   line: -122
   units: 0.5
   description: "J Randle o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/03/2021"
 
 - sport: "NBA"
@@ -7665,13 +7665,117 @@
   line: +152
   units: 0.5
   description: "R Barret o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/03/2021"
 
 - sport: "NBA"
   type: "P"
   line: -145
   units: 0.5
-  description: "M Porter Jro2.5 3's"
-  result: "PENDING"
+  description: "M Porter Jr o2.5 3's"
+  result: "LOSS"
   date: "05/03/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "WIN"
+  date: "05/04/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "B Hield o4.5 3's"
+  result: "WIN"
+  date: "05/04/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "R Bullock o2.5 3's"
+  result: "WIN"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 0.5
+  description: "K Towns o2.5 3's"
+  result: "WIN"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Tatum o3.5 3's"
+  result: "WIN"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "RJ Barrett o1.5 3's"
+  result: "WIN"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "LOSS"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "Bog Bogdanovic o3.5 3's"
+  result: "WIN"
+  date: "05/05/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "Bog Bogdanovic o3.5 3's"
+  result: "PENDING"
+  date: "05/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "S Curry o6.5 3's"
+  result: "PENDING"
+  date: "05/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "K Durant o2.5 3's"
+  result: "PENDING"
+  date: "05/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "J Harris o2.5 3's"
+  result: "PENDING"
+  date: "05/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "K Irving o2.5 3's"
+  result: "WIN"
+  date: "05/06/2021"
