@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 19
+pending: 30
 win_pct: 0.512
 void: 23
-total_units: 625.85
-account_units: 6.12
-pending_units: 50.0
+total_units: 631.35
+account_units: 0.62
+pending_units: 55.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,7 +92,51 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: Z LaVine o2.5 3's
+  line: "-123"
+- sport: NBA
+  units: 0.5
+  description: Mikal Bridges o1.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: Jayson Tatum o3.5 3's
+  line: "+110"
+- sport: NBA
+  units: 0.5
+  description: K Walker o3.5 3's
+  line: "+129"
+- sport: NBA
+  units: 0.5
+  description: J Randle o2.5 3's
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: R Bullock o2.5 3's
+  line: "-127"
+- sport: NBA
+  units: 0.5
+  description: RJ Barrett o2.5 3's
+  line: "+127"
+- sport: NBA
+  units: 0.5
+  description: K Towns o2.5 3's
+  line: "+100"
+- sport: NBA
+  units: 0.5
+  description: A Edwards o2.5 3's
+  line: "-156"
+- sport: NHL
+  units: 0.5
+  description: OTT @ CGY o5.5
+  line: "-125"
+- sport: NHL
+  units: 0.5
+  description: DAL @ CHI o5.5
+  line: "-125"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -106,6 +150,6 @@ monthly_mls:
   record: 118-129-5
 - month: '05'
   record: 26-21-0
-week_w: 22
-week_l: 18
+week_w: 0
+week_l: 0
 week_p: 0

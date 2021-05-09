@@ -7907,3 +7907,91 @@
   description: "Irving o1.5 + Lillard o3.5 + Powell o3.5 + Curry o5.5 3's"
   result: "WIN"
   date: "05/08/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "Z LaVine o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Mikal Bridges o1.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "Jayson Tatum o3.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "K Walker o3.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -127
+  units: 0.5
+  description: "R Bullock o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +127
+  units: 0.5
+  description: "RJ Barrett o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "K Towns o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "A Edwards o2.5 3's"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "OTT @ CGY o5.5"
+  result: "PENDING"
+  date: "05/09/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "DAL @ CHI o5.5"
+  result: "PENDING"
+  date: "05/09/2021"
