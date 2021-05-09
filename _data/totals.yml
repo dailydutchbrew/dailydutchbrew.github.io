@@ -1,19 +1,19 @@
 ---
-win: 434
-loss: 412
+win: 443
+loss: 422
 push: 10
-parlay_win: 12
+parlay_win: 13
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 23
-win_pct: 0.513
+pending: 19
+win_pct: 0.512
 void: 23
-total_units: 618.1
-account_units: 3.7
-pending_units: 52.0
+total_units: 625.85
+account_units: 6.12
+pending_units: 50.0
 bank: -40.0
 futures:
 - sport: NBA
@@ -92,23 +92,7 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: Bog Bogdanovic o3.5 3's
-  line: "-120"
-- sport: NBA
-  units: 0.5
-  description: S Curry o6.5 3's
-  line: "+120"
-- sport: NBA
-  units: 0.5
-  description: K Durant o2.5 3's
-  line: "-125"
-- sport: NBA
-  units: 0.5
-  description: J Harris o2.5 3's
-  line: "-120"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -121,7 +105,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 17-11-0
-week_w: 13
-week_l: 8
+  record: 26-21-0
+week_w: 22
+week_l: 18
 week_p: 0
