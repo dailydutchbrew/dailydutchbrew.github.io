@@ -8001,7 +8001,7 @@
   line: -125
   units: 0.5
   description: "TEX @ SF o7.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/10/2021"
 
 - sport: "MLB"
@@ -8009,13 +8009,101 @@
   line: -115
   units: 0.5
   description: "CIN @ PIT o7.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/10/2021"
 
 - sport: "MLB"
   type: "OU"
   line: -115
   units: 0.5
-  description: "BOX @ BAL o9.0"
-  result: "PENDING"
+  description: "BOS @ BAL o9.0"
+  result: "LOSS"
   date: "05/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "TOR @ ATL o9.0"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "CIN @ PIT o7.5"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "TEX @ SF o8.0"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +131
+  units: 0.5
+  description: "RJ Barret o2.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "S Curry o6.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "Z LaVine o2.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -102
+  units: 0.5
+  description: "K Irving o2.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Luka Doncic o2.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Kemba Walker o2.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +134
+  units: 0.5
+  description: "Duncan Robinson o3.5 3's"
+  result: "PENDING"
+  date: "05/11/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "MIL(vsORL) win"
+  result: "PENDING"
+  date: "05/11/2021"

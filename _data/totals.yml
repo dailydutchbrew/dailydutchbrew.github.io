@@ -1,6 +1,6 @@
 ---
-win: 449
-loss: 427
+win: 450
+loss: 429
 push: 10
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 22
-win_pct: 0.513
+pending: 30
+win_pct: 0.512
 void: 23
-total_units: 632.85
-account_units: 4.67
-pending_units: 51.5
+total_units: 638.35
+account_units: 0.11
+pending_units: 55.5
 bank: -40.0
 futures:
 - sport: NBA
@@ -95,16 +95,48 @@ futures:
 non_future_pending:
 - sport: MLB
   units: 0.5
-  description: TEX @ SF o7.0
-  line: "-125"
+  description: TOR @ ATL o9.0
+  line: "+100"
 - sport: MLB
   units: 0.5
   description: CIN @ PIT o7.5
-  line: "-115"
+  line: "+100"
 - sport: MLB
   units: 0.5
-  description: BOX @ BAL o9.0
-  line: "-115"
+  description: TEX @ SF o8.0
+  line: "-120"
+- sport: NBA
+  units: 0.5
+  description: RJ Barret o2.5 3's
+  line: "+131"
+- sport: NBA
+  units: 0.5
+  description: S Curry o6.5 3's
+  line: "-116"
+- sport: NBA
+  units: 0.5
+  description: Z LaVine o2.5 3's
+  line: "-116"
+- sport: NBA
+  units: 0.5
+  description: K Irving o2.5 3's
+  line: "-102"
+- sport: NBA
+  units: 0.5
+  description: Luka Doncic o2.5 3's
+  line: "-143"
+- sport: NBA
+  units: 0.5
+  description: Kemba Walker o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: Duncan Robinson o3.5 3's
+  line: "+134"
+- sport: NBA
+  units: 0.5
+  description: MIL(vsORL) win
+  line: "-120"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -117,7 +149,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 32-26-0
-week_w: 6
-week_l: 5
+  record: 33-28-0
+week_w: 7
+week_l: 7
 week_p: 0
