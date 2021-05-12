@@ -1,6 +1,6 @@
 ---
-win: 450
-loss: 429
+win: 456
+loss: 433
 push: 10
 parlay_win: 13
 parlay_loss: 39
@@ -8,13 +8,13 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 30
-win_pct: 0.512
-void: 23
-total_units: 638.35
-account_units: 0.11
-pending_units: 55.5
-bank: -40.0
+pending: 34
+win_pct: 0.513
+void: 24
+total_units: 649.85
+account_units: 1.45
+pending_units: 61.5
+bank: -46.0
 futures:
 - sport: NBA
   units: 3.0
@@ -92,51 +92,67 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
+- sport: NBA
+  units: 1.0
+  description: PHX wins West
+  line: "+600"
+- sport: NBA
+  units: 1.0
+  description: MIL wins Eest
+  line: "+350"
+- sport: NBA
+  units: 2.0
+  description: GSW makes playoffs (after play-in)
+  line: "-110"
+- sport: NBA
+  units: 2.0
+  description: WSH makes playoffs (after play-in)
+  line: "+125"
 non_future_pending:
-- sport: MLB
-  units: 0.5
-  description: TOR @ ATL o9.0
-  line: "+100"
-- sport: MLB
-  units: 0.5
-  description: CIN @ PIT o7.5
-  line: "+100"
-- sport: MLB
-  units: 0.5
-  description: TEX @ SF o8.0
-  line: "-120"
 - sport: NBA
   units: 0.5
-  description: RJ Barret o2.5 3's
-  line: "+131"
-- sport: NBA
-  units: 0.5
-  description: S Curry o6.5 3's
-  line: "-116"
-- sport: NBA
-  units: 0.5
-  description: Z LaVine o2.5 3's
-  line: "-116"
-- sport: NBA
-  units: 0.5
-  description: K Irving o2.5 3's
-  line: "-102"
-- sport: NBA
-  units: 0.5
-  description: Luka Doncic o2.5 3's
-  line: "-143"
-- sport: NBA
-  units: 0.5
-  description: Kemba Walker o2.5 3's
+  description: Bogdan Bogdanovic o3.5 3's
   line: "-156"
 - sport: NBA
   units: 0.5
-  description: Duncan Robinson o3.5 3's
-  line: "+134"
+  description: Lonnie Walker IV o1.5 3's
+  line: "-156"
 - sport: NBA
   units: 0.5
-  description: MIL(vsORL) win
+  description: Lonzo Ball o2.5 3's
+  line: "-147"
+- sport: NBA
+  units: 0.5
+  description: Bojan Bogdanovic o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: CJ McCollum o2.5 3's
   line: "-120"
+- sport: NBA
+  units: 0.5
+  description: Damian Lillard o3.5 3's
+  line: "-125"
+- sport: NBA
+  units: 0.5
+  description: Norman Powell o1.5 3's
+  line: "-192"
+- sport: MLB
+  units: 0.5
+  description: TOR @ ATL o7.5
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: SD o3.5 DH1
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: SD o4.0 DH2
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: CIN o4.0
+  line: "-125"
 monthly_mls:
 - month: '12'
   record: 24-17-0
@@ -149,7 +165,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 33-28-0
-week_w: 7
-week_l: 7
+  record: 39-32-0
+week_w: 13
+week_l: 11
 week_p: 0

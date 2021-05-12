@@ -8025,7 +8025,7 @@
   line: +100
   units: 0.5
   description: "TOR @ ATL o9.0"
-  result: "PENDING"
+  result: "VOID"
   date: "05/11/2021"
 
 - sport: "MLB"
@@ -8033,7 +8033,7 @@
   line: +100
   units: 0.5
   description: "CIN @ PIT o7.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "MLB"
@@ -8041,7 +8041,7 @@
   line: -120
   units: 0.5
   description: "TEX @ SF o8.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8049,7 +8049,7 @@
   line: +131
   units: 0.5
   description: "RJ Barret o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8057,7 +8057,7 @@
   line: -116
   units: 0.5
   description: "S Curry o6.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8065,7 +8065,7 @@
   line: -116
   units: 0.5
   description: "Z LaVine o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8073,7 +8073,7 @@
   line: -102
   units: 0.5
   description: "K Irving o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8081,7 +8081,7 @@
   line: -143
   units: 0.5
   description: "Luka Doncic o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8089,7 +8089,7 @@
   line: -156
   units: 0.5
   description: "Kemba Walker o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "NBA"
@@ -8097,13 +8097,136 @@
   line: +134
   units: 0.5
   description: "Duncan Robinson o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/11/2021"
 
 - sport: "NBA"
   type: "PS"
   line: -120
   units: 0.5
-  description: "MIL(vsORL) win"
-  result: "PENDING"
+  description: "MIL(vsORL) win -13.0"
+  result: "LOSS"
   date: "05/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Bogdan Bogdanovic o3.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Lonnie Walker IV o1.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -147
+  units: 0.5
+  description: "Lonzo Ball o2.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Bojan Bogdanovic o2.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "CJ McCollum o2.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "Damian Lillard o3.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -192
+  units: 0.5
+  description: "Norman Powell o1.5 3's"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- type: "BANK"
+  units: -6.0
+
+- sport: "NBA"
+  type: "F"
+  line: +600
+  units: 1.0
+  description: "PHX wins West"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: +350
+  units: 1.0
+  description: "MIL wins Eest"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: -110
+  units: 2.0
+  description: "GSW makes playoffs (after play-in)"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: +125
+  units: 2.0
+  description: "WSH makes playoffs (after play-in)"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TOR @ ATL o7.5"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "SD o3.5 DH1"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "SD o4.0 DH2"
+  result: "PENDING"
+  date: "05/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CIN o4.0"
+  result: "PENDING"
+  date: "05/12/2021"
