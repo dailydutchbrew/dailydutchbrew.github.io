@@ -8113,7 +8113,7 @@
   line: -156
   units: 0.5
   description: "Bogdan Bogdanovic o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8121,7 +8121,7 @@
   line: -156
   units: 0.5
   description: "Lonnie Walker IV o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8129,7 +8129,7 @@
   line: -147
   units: 0.5
   description: "Lonzo Ball o2.5 3's"
-  result: "PENDING"
+  result: "VOID"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8137,7 +8137,7 @@
   line: -156
   units: 0.5
   description: "Bojan Bogdanovic o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8145,7 +8145,7 @@
   line: -120
   units: 0.5
   description: "CJ McCollum o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8153,7 +8153,7 @@
   line: -125
   units: 0.5
   description: "Damian Lillard o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8161,7 +8161,7 @@
   line: -192
   units: 0.5
   description: "Norman Powell o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - type: "BANK"
@@ -8179,7 +8179,7 @@
   type: "F"
   line: +350
   units: 1.0
-  description: "MIL wins Eest"
+  description: "MIL wins East"
   result: "PENDING"
   date: "05/12/2021"
 
@@ -8204,7 +8204,7 @@
   line: -115
   units: 0.5
   description: "TOR @ ATL o7.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - sport: "MLB"
@@ -8212,7 +8212,7 @@
   line: -130
   units: 0.5
   description: "SD o3.5 DH1"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "MLB"
@@ -8220,7 +8220,7 @@
   line: -130
   units: 0.5
   description: "SD o4.0 DH2"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/12/2021"
 
 - sport: "MLB"
@@ -8228,5 +8228,85 @@
   line: -125
   units: 0.5
   description: "CIN o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CIN @ COL o11.0"
+  result: "WIN"
+  date: "05/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "OAK @ BOS o9.0"
+  result: "PUSH"
+  date: "05/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "TEX @ HOU o9.0"
+  result: "LOSS"
+  date: "05/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "NYY @ TB o8.0"
+  result: "WIN"
+  date: "05/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "HOU(@TEX) o5.0"
+  result: "PENDING"
+  date: "05/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "SF(@PIT) o4.0"
+  result: "PENDING"
+  date: "05/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "LAA @ BOS o9.5"
+  result: "PENDING"
+  date: "05/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CIN @ COL o10.5"
+  result: "PENDING"
+  date: "05/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "NYY @ BAL o9.0"
+  result: "PENDING"
+  date: "05/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "PHI @ TOR o10.5"
+  result: "PENDING"
+  date: "05/14/2021"
