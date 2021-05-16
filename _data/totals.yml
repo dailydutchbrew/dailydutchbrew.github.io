@@ -1,6 +1,6 @@
 ---
-win: 466
-loss: 443
+win: 477
+loss: 453
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,58 +8,14 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 38
+pending: 22
 win_pct: 0.513
 void: 25
-total_units: 668.85
-account_units: 3.33
-pending_units: 65.0
+total_units: 671.35
+account_units: 43.29
+pending_units: 35.5
 bank: -46.0
 futures:
-- sport: NBA
-  units: 3.0
-  description: PHX o 38.5 wins
-  line: "-125"
-- sport: NBA
-  units: 3.0
-  description: HOU u 35.5 wins
-  line: "-125"
-- sport: NBA
-  units: 3.0
-  description: TOR o 42.5 wins
-  line: "-120"
-- sport: NBA
-  units: 3.0
-  description: WAS o 33.5 wins
-  line: "-120"
-- sport: NBA
-  units: 3.0
-  description: GSW o 37.5 wins
-  line: "-111"
-- sport: NHL
-  units: 3.0
-  description: WPG o 60.5 points
-  line: "-115"
-- sport: NHL
-  units: 3.0
-  description: TB o 70.5 points
-  line: "-115"
-- sport: NHL
-  units: 3.0
-  description: PIT o 63.5 points
-  line: "-115"
-- sport: NHL
-  units: 1.0
-  description: CGY to win the North Division
-  line: "+700"
-- sport: NHL
-  units: 1.0
-  description: MTL to win the North Division
-  line: "+600"
-- sport: NHL
-  units: 1.0
-  description: WAS to win the East Division
-  line: "+600"
 - sport: MLB
   units: 3.0
   description: MIL o 82.5 wins
@@ -148,32 +104,12 @@ futures:
   units: 1.0
   description: VGK win West Division Playoffs
   line: "+165"
-non_future_pending:
-- sport: NHL
-  units: 0.5
-  description: BOS (@ WSH) win
-  line: "-125"
-- sport: MLB
-  units: 0.5
-  description: OAK @ MIN o8.5
-  line: "-110"
-- sport: MLB
-  units: 0.5
-  description: CSW (vs KC) o4.0
-  line: "-145"
-- sport: MLB
-  units: 0.5
-  description: PHI @ TOR o9.5
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: ATL @ MIL o8.0
-  line: "-115"
+non_future_pending: []
 monthly_mls:
 - month: '12'
-  record: 24-17-0
+  record: 28-18-0
 - month: '01'
-  record: 114-96-2
+  record: 117-99-2
 - month: '02'
   record: 67-72-2
 - month: '03'
@@ -181,7 +117,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 47-42-2
-week_w: 21
-week_l: 21
-week_p: 2
+  record: 51-48-2
+week_w: 3
+week_l: 1
+week_p: 0

@@ -6,7 +6,7 @@
   line: -125
   units: 3.0
   description: "PHX o 38.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "12/21/2020"
 
 - sport: "NBA"
@@ -14,7 +14,7 @@
   line: -125
   units: 3.0
   description: "HOU u 35.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "12/21/2020"
 
 - sport: "NBA"
@@ -22,7 +22,7 @@
   line: -120
   units: 3.0
   description: "TOR o 42.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "12/21/2020"
 
 - sport: "NBA"
@@ -30,7 +30,7 @@
   line: -120
   units: 3.0
   description: "WAS o 33.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "12/21/2020"
 
 - sport: "NBA"
@@ -38,7 +38,7 @@
   line: -111
   units: 3.0
   description: "GSW o 37.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "12/21/2020"
 
 - sport: "NBA"
@@ -694,7 +694,7 @@
   line: -115
   units: 3.0
   description: "WPG o 60.5 points"
-  result: "PENDING"
+  result: "WIN"
   date: "01/09/2020"
 
 - type: "BANK"
@@ -705,7 +705,7 @@
   line: -115
   units: 3.0
   description: "TB o 70.5 points"
-  result: "PENDING"
+  result: "WIN"
   date: "01/10/2020"
 
 - sport: "NHL"
@@ -713,7 +713,7 @@
   line: -115
   units: 3.0
   description: "PIT o 63.5 points"
-  result: "PENDING"
+  result: "WIN"
   date: "01/10/2020"
 
 - sport: "NBA"
@@ -737,7 +737,7 @@
   line: +700
   units: 1.0
   description: "CGY to win the North Division"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/01/2021"
 
 - sport: "NHL"
@@ -745,7 +745,7 @@
   line: +600
   units: 1.0
   description: "MTL to win the North Division"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/11/2021"
 
 - sport: "NHL"
@@ -753,7 +753,7 @@
   line: +600
   units: 1.0
   description: "WAS to win the East Division"
-  result: "PENDING"
+  result: "LOSS"
   date: "01/01/2021"
 
 - sport: "NHL"
@@ -8412,7 +8412,7 @@
   line: -125
   units: 0.5
   description: "BOS (@ WSH) win"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/15/2021"
 
 - sport: "MLB"
@@ -8420,7 +8420,7 @@
   line: -110
   units: 0.5
   description: "OAK @ MIN o8.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/15/2021"
 
 - sport: "MLB"
@@ -8428,7 +8428,7 @@
   line: -145
   units: 0.5
   description: "CSW (vs KC) o4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/15/2021"
 
 - sport: "MLB"
@@ -8436,7 +8436,7 @@
   line: -115
   units: 0.5
   description: "PHI @ TOR o9.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/15/2021"
 
 - sport: "MLB"
@@ -8444,5 +8444,45 @@
   line: -115
   units: 0.5
   description: "ATL @ MIL o8.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "ATL @ MIL o8.0"
+  result: "LOSS"
+  date: "05/15/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -140
+  units: 0.5
+  description: "NYI @ PIT o 5.0"
+  result: "WIN"
+  date: "05/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "PIT (vs NYI) win"
+  result: "LOSS"
+  date: "05/16/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -105
+  units: 0.5
+  description: "CHA (@ WSH) -6.0"
+  result: "WIN"
+  date: "05/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -147
+  units: 0.5
+  description: "Curry o 5.5 3's"
+  result: "WIN"
+  date: "05/16/2021"
