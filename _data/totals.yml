@@ -1,6 +1,6 @@
 ---
-win: 477
-loss: 453
+win: 486
+loss: 460
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,13 +8,13 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 22
-win_pct: 0.513
+pending: 31
+win_pct: 0.514
 void: 25
-total_units: 671.35
-account_units: 43.29
-pending_units: 35.5
-bank: -46.0
+total_units: 684.85
+account_units: 2.08
+pending_units: 40.0
+bank: -9.0
 futures:
 - sport: MLB
   units: 3.0
@@ -104,7 +104,43 @@ futures:
   units: 1.0
   description: VGK win West Division Playoffs
   line: "+165"
-non_future_pending: []
+non_future_pending:
+- sport: NBA
+  units: 0.5
+  description: IND @ WSH o237.5
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: TB @ BAL o9.0
+  line: "-110"
+- sport: NBA
+  units: 0.5
+  description: M Brogdon o2.5 3's
+  line: "+125"
+- sport: NBA
+  units: 0.5
+  description: J Holiday o2.5 3's
+  line: "+124"
+- sport: NBA
+  units: 0.5
+  description: D McDermott o2.5 3's
+  line: "+104"
+- sport: NBA
+  units: 0.5
+  description: B Beal o1.5 3's
+  line: "-167"
+- sport: NBA
+  units: 0.5
+  description: R Westbrook o1.5 3's
+  line: "-102"
+- sport: NBA
+  units: 0.5
+  description: D Sabonis o13.5 Reb
+  line: "-169"
+- sport: NBA
+  units: 0.5
+  description: R Westbrook o13.5 Reb
+  line: "-169"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -117,7 +153,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 51-48-2
-week_w: 3
-week_l: 1
+  record: 60-55-2
+week_w: 12
+week_l: 8
 week_p: 0

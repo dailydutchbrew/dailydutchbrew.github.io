@@ -8486,3 +8486,206 @@
   description: "Curry o 5.5 3's"
   result: "WIN"
   date: "05/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "CLE @ LAA"
+  result: "WIN"
+  date: "05/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "LAD (@ARI) o4.0"
+  result: "LOSS"
+  date: "05/17/2021"
+
+- type: "BANK"
+  units: +37
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "TB @ FLA o6.0"
+  result: "LOSS"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: -137
+  units: 0.5
+  description: "PJ Washington o1.5 3's"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: +102
+  units: 0.5
+  description: "K Walker o3.5 3's"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "D Graham o2.5 3's"
+  result: "LOSS"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "J Tatum o3.5 3's"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "B Beal o2.5 3's"
+  result: "LOSS"
+  date: "05/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "BOS @ TOR o9.0"
+  result: "LOSS"
+  date: "05/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "CLE @ LAA o7.5"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "BOS(@ WSH) win"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "IND(vsCHA) -3.5"
+  result: "WIN"
+  date: "05/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "L James 2.5 3's"
+  result: "LOSS"
+  date: "05/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -175
+  units: 0.5
+  description: "S Curry 5.5 3's"
+  result: "WIN"
+  date: "05/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "A Davis Jr 12.5 Reb + Ast"
+  result: "WIN"
+  date: "05/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "L James 25.5 Pts"
+  result: "LOSS"
+  date: "05/19/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "IND @ WSH o237.5"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TB @ BAL o9.0"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +125
+  units: 0.5
+  description: "M Brogdon o2.5 3's"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +124
+  units: 0.5
+  description: "J Holiday o2.5 3's"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "D McDermott o2.5 3's"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "B Beal o1.5 3's"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -102
+  units: 0.5
+  description: "R Westbrook o1.5 3's"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -169
+  units: 0.5
+  description: "D Sabonis o13.5 Reb"
+  result: "PENDING"
+  date: "05/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -169
+  units: 0.5
+  description: "R Westbrook o13.5 Reb"
+  result: "PENDING"
+  date: "05/20/2021"
