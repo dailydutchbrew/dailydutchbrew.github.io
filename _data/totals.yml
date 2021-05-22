@@ -1,6 +1,6 @@
 ---
-win: 486
-loss: 460
+win: 499
+loss: 469
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 31
-win_pct: 0.514
+pending: 43
+win_pct: 0.515
 void: 25
-total_units: 684.85
-account_units: 2.08
-pending_units: 40.0
+total_units: 702.85
+account_units: 3.05
+pending_units: 44.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -48,14 +48,6 @@ futures:
   units: 1.0
   description: MIL wins East
   line: "+350"
-- sport: NBA
-  units: 2.0
-  description: GSW makes playoffs (after play-in)
-  line: "-110"
-- sport: NBA
-  units: 2.0
-  description: WSH makes playoffs (after play-in)
-  line: "+125"
 - sport: NHL
   units: 0.5
   description: CAR to win the Stanley Cup
@@ -104,43 +96,99 @@ futures:
   units: 1.0
   description: VGK win West Division Playoffs
   line: "+165"
-non_future_pending:
 - sport: NBA
   units: 0.5
-  description: IND @ WSH o237.5
-  line: "-110"
+  description: UTA wins the West
+  line: "+325"
+- sport: NBA
+  units: 1.0
+  description: NYK (vs ATL) win Rd 1
+  line: "+110"
+- sport: NBA
+  units: 1.0
+  description: DEN (vs POR) win Rd 1
+  line: "+100"
+non_future_pending:
 - sport: MLB
   units: 0.5
-  description: TB @ BAL o9.0
+  description: TB @ TOR o9.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: CIN(vsMIL) o4.5
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: BOS(@MIL) o4.5
+  line: "-120"
+- sport: MLB
+  units: 0.5
+  description: SD(@SEA) o4.0
+  line: "-145"
+- sport: NBA
+  units: 0.5
+  description: MIA @ MIL u227.0
   line: "-110"
 - sport: NBA
   units: 0.5
-  description: M Brogdon o2.5 3's
-  line: "+125"
+  description: J Holiday o18.5 pts
+  line: "-118"
 - sport: NBA
   units: 0.5
-  description: J Holiday o2.5 3's
-  line: "+124"
+  description: D Robinson o3.5 3's
+  line: "-119"
 - sport: NBA
   units: 0.5
-  description: D McDermott o2.5 3's
-  line: "+104"
+  description: B Adebayo o16.0 Reb + Ast
+  line: "+100"
 - sport: NBA
   units: 0.5
-  description: B Beal o1.5 3's
-  line: "-167"
+  description: K Middleton o12.0 Reb + Ast
+  line: "-106"
 - sport: NBA
   units: 0.5
-  description: R Westbrook o1.5 3's
-  line: "-102"
+  description: J Holiday o13.0 Reb + Ast
+  line: "+106"
 - sport: NBA
   units: 0.5
-  description: D Sabonis o13.5 Reb
-  line: "-169"
+  description: J Holiday o6.5 Ast
+  line: "-135"
 - sport: NBA
   units: 0.5
-  description: R Westbrook o13.5 Reb
-  line: "-169"
+  description: K Irving o2.5 3's
+  line: "-111"
+- sport: NBA
+  units: 0.5
+  description: K Irving o23.5 Pts
+  line: "-120"
+- sport: NBA
+  units: 0.5
+  description: J Tatum o30.5 Pts
+  line: "-143"
+- sport: NBA
+  units: 0.5
+  description: K Walker o24.5 Pts
+  line: "+100"
+- sport: NBA
+  units: 0.5
+  description: J Tatum o3.5 3's
+  line: "+100"
+- sport: NBA
+  units: 0.5
+  description: K Walker o3.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: CJ McCollum o2.5 3's
+  line: "-156"
+- sport: NBA
+  units: 0.5
+  description: D Lillard o3.5 3's
+  line: "-143"
+- sport: NBA
+  units: 0.5
+  description: C Anthony o1.5 3's
+  line: "-156"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -153,7 +201,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 60-55-2
-week_w: 12
-week_l: 8
+  record: 73-64-2
+week_w: 23
+week_l: 17
 week_p: 0

@@ -21,6 +21,7 @@ BETBACK = 'BETBACK'
 non_future_pending = []
 monthly_mls = []
 betback_record = Record.new
+betback_record = Record.new
 parlay_record = Record.new
 ml_p_record = Record.new
 prev_month_record = Record.new

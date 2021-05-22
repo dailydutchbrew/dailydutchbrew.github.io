@@ -8188,7 +8188,7 @@
   line: -110
   units: 2.0
   description: "GSW makes playoffs (after play-in)"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8196,7 +8196,7 @@
   line: +125
   units: 2.0
   description: "WSH makes playoffs (after play-in)"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "MLB"
@@ -8623,7 +8623,7 @@
   line: -110
   units: 0.5
   description: "IND @ WSH o237.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/20/2021"
 
 - sport: "MLB"
@@ -8631,7 +8631,7 @@
   line: -110
   units: 0.5
   description: "TB @ BAL o9.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8639,7 +8639,7 @@
   line: +125
   units: 0.5
   description: "M Brogdon o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8647,7 +8647,7 @@
   line: +124
   units: 0.5
   description: "J Holiday o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8655,7 +8655,7 @@
   line: +104
   units: 0.5
   description: "D McDermott o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8663,7 +8663,7 @@
   line: -167
   units: 0.5
   description: "B Beal o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8671,7 +8671,7 @@
   line: -102
   units: 0.5
   description: "R Westbrook o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8679,7 +8679,7 @@
   line: -169
   units: 0.5
   description: "D Sabonis o13.5 Reb"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/20/2021"
 
 - sport: "NBA"
@@ -8687,5 +8687,277 @@
   line: -169
   units: 0.5
   description: "R Westbrook o13.5 Reb"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/20/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "BAL @ WSH o8.5"
+  result: "LOSS"
+  date: "05/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "ARI @ COL o 11.0"
+  result: "LOSS"
+  date: "05/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "OAK @ LAA o 9.0"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "TB @ TOR o 9.0"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "BOS @ PHI o 8.5"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "S Curry o6.5 3's"
+  result: "LOSS"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +104
+  units: 0.5
+  description: "D Green o9.5 reb"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -109
+  units: 0.5
+  description: "D Green o9.5 assists"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "D Green o28.5 Pts + Reb + Ast"
+  result: "WIN"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Valanciunas o19.5 Pts"
+  result: "LOSS"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "J Valanciunas o14.5 Rebs"
+  result: "LOSS"
+  date: "05/21/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: +325
+  units: 0.5
+  description: "UTA wins the West"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "TB @ TOR o9.0"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CIN(vsMIL) o4.5"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "BOS(@MIL) o4.5"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "SD(@SEA) o4.0"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: +110
+  units: 1.0
+  description: "NYK (vs ATL) win Rd 1"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "F"
+  line: +100
+  units: 1.0
+  description: "DEN (vs POR) win Rd 1"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MIA @ MIL u227.0"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "J Holiday o18.5 pts"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -119
+  units: 0.5
+  description: "D Robinson o3.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "B Adebayo o16.0 Reb + Ast"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.5
+  description: "K Middleton o12.0 Reb + Ast"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +106
+  units: 0.5
+  description: "J Holiday o13.0 Reb + Ast"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Holiday o6.5 Ast"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "K Irving o2.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "K Irving o23.5 Pts"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "J Tatum o30.5 Pts"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "K Walker o24.5 Pts"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "J Tatum o3.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "K Walker o3.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "CJ McCollum o2.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "D Lillard o3.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "C Anthony o1.5 3's"
+  result: "PENDING"
+  date: "05/22/2021"
