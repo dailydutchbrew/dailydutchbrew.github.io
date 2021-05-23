@@ -8791,7 +8791,7 @@
   line: -115
   units: 0.5
   description: "TB @ TOR o9.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "MLB"
@@ -8799,7 +8799,7 @@
   line: -115
   units: 0.5
   description: "CIN(vsMIL) o4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "MLB"
@@ -8807,7 +8807,7 @@
   line: -120
   units: 0.5
   description: "BOS(@MIL) o4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "MLB"
@@ -8815,7 +8815,7 @@
   line: -145
   units: 0.5
   description: "SD(@SEA) o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8839,7 +8839,7 @@
   line: -110
   units: 0.5
   description: "MIA @ MIL u227.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8847,7 +8847,7 @@
   line: -118
   units: 0.5
   description: "J Holiday o18.5 pts"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8855,31 +8855,31 @@
   line: -119
   units: 0.5
   description: "D Robinson o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
   type: "P"
   line: +100
   units: 0.5
-  description: "B Adebayo o16.0 Reb + Ast"
-  result: "PENDING"
+  description: "B Adebayo o15.5 Reb + Ast"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
   type: "P"
   line: -106
   units: 0.5
-  description: "K Middleton o12.0 Reb + Ast"
-  result: "PENDING"
+  description: "K Middleton o11.5 Reb + Ast"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
   type: "P"
   line: +106
   units: 0.5
-  description: "J Holiday o13.0 Reb + Ast"
-  result: "PENDING"
+  description: "J Holiday o12.5 Reb + Ast"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8887,7 +8887,7 @@
   line: -135
   units: 0.5
   description: "J Holiday o6.5 Ast"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8895,7 +8895,7 @@
   line: -111
   units: 0.5
   description: "K Irving o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8903,7 +8903,7 @@
   line: -120
   units: 0.5
   description: "K Irving o23.5 Pts"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8911,7 +8911,7 @@
   line: -143
   units: 0.5
   description: "J Tatum o30.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8919,7 +8919,7 @@
   line: +100
   units: 0.5
   description: "K Walker o24.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8927,7 +8927,7 @@
   line: +100
   units: 0.5
   description: "J Tatum o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8935,7 +8935,7 @@
   line: -156
   units: 0.5
   description: "K Walker o3.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8943,7 +8943,7 @@
   line: -156
   units: 0.5
   description: "CJ McCollum o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8951,7 +8951,7 @@
   line: -143
   units: 0.5
   description: "D Lillard o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
 
 - sport: "NBA"
@@ -8959,5 +8959,93 @@
   line: -156
   units: 0.5
   description: "C Anthony o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "J Randle o27.5 Pts"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "J Randle o2.5 3's"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -119
+  units: 0.5
+  description: "Bog Bogdanovic o17.5 Pts"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Bog Bogdanovic o3.5 3's"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -106
+  units: 0.5
+  description: "Boj Bogdanovic o2.5 3's"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "A Davis o 8.5 Reb"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "A Davis o 12.5 Reb + Ast"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "A Davis o 25.5 Pts"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "C Paul o9.5 Ast"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "D Green o2.5 3's"
+  result: "PENDING"
+  date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -147
+  units: 0.5
+  description: "B Beal o1.5 3's"
+  result: "PENDING"
+  date: "05/23/2021"

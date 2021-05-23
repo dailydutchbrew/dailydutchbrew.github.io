@@ -1,6 +1,6 @@
 ---
-win: 499
-loss: 469
+win: 510
+loss: 478
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 43
-win_pct: 0.515
+pending: 34
+win_pct: 0.516
 void: 25
-total_units: 702.85
-account_units: 3.05
-pending_units: 44.0
+total_units: 708.35
+account_units: 7.6
+pending_units: 39.5
 bank: -9.0
 futures:
 - sport: MLB
@@ -109,86 +109,50 @@ futures:
   description: DEN (vs POR) win Rd 1
   line: "+100"
 non_future_pending:
-- sport: MLB
-  units: 0.5
-  description: TB @ TOR o9.0
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: CIN(vsMIL) o4.5
-  line: "-115"
-- sport: MLB
-  units: 0.5
-  description: BOS(@MIL) o4.5
-  line: "-120"
-- sport: MLB
-  units: 0.5
-  description: SD(@SEA) o4.0
-  line: "-145"
 - sport: NBA
   units: 0.5
-  description: MIA @ MIL u227.0
-  line: "-110"
+  description: J Randle o27.5 Pts
+  line: "-114"
 - sport: NBA
   units: 0.5
-  description: J Holiday o18.5 pts
-  line: "-118"
+  description: J Randle o2.5 3's
+  line: "-114"
 - sport: NBA
   units: 0.5
-  description: D Robinson o3.5 3's
+  description: Bog Bogdanovic o17.5 Pts
   line: "-119"
 - sport: NBA
   units: 0.5
-  description: B Adebayo o16.0 Reb + Ast
-  line: "+100"
+  description: Bog Bogdanovic o3.5 3's
+  line: "-143"
 - sport: NBA
   units: 0.5
-  description: K Middleton o12.0 Reb + Ast
+  description: Boj Bogdanovic o2.5 3's
   line: "-106"
 - sport: NBA
   units: 0.5
-  description: J Holiday o13.0 Reb + Ast
-  line: "+106"
+  description: A Davis o 8.5 Reb
+  line: "-167"
 - sport: NBA
   units: 0.5
-  description: J Holiday o6.5 Ast
-  line: "-135"
+  description: A Davis o 12.5 Reb + Ast
+  line: "-114"
 - sport: NBA
   units: 0.5
-  description: K Irving o2.5 3's
-  line: "-111"
+  description: A Davis o 25.5 Pts
+  line: "-108"
 - sport: NBA
   units: 0.5
-  description: K Irving o23.5 Pts
-  line: "-120"
+  description: C Paul o9.5 Ast
+  line: "-110"
 - sport: NBA
   units: 0.5
-  description: J Tatum o30.5 Pts
-  line: "-143"
+  description: D Green o2.5 3's
+  line: "-108"
 - sport: NBA
   units: 0.5
-  description: K Walker o24.5 Pts
-  line: "+100"
-- sport: NBA
-  units: 0.5
-  description: J Tatum o3.5 3's
-  line: "+100"
-- sport: NBA
-  units: 0.5
-  description: K Walker o3.5 3's
-  line: "-156"
-- sport: NBA
-  units: 0.5
-  description: CJ McCollum o2.5 3's
-  line: "-156"
-- sport: NBA
-  units: 0.5
-  description: D Lillard o3.5 3's
-  line: "-143"
-- sport: NBA
-  units: 0.5
-  description: C Anthony o1.5 3's
-  line: "-156"
+  description: B Beal o1.5 3's
+  line: "-147"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -201,7 +165,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 73-64-2
-week_w: 23
-week_l: 17
+  record: 84-73-2
+week_w: 34
+week_l: 26
 week_p: 0
