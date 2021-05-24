@@ -8356,7 +8356,7 @@
   line: -160
   units: 1.0
   description: "BOS (vs WAS) win Round 1"
-  result: "PENDING"
+  result: "WIN"
   date: "05/14/2021"
 
 - sport: "NHL"
@@ -8967,7 +8967,7 @@
   line: -114
   units: 0.5
   description: "J Randle o27.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -8975,7 +8975,7 @@
   line: -114
   units: 0.5
   description: "J Randle o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -8983,7 +8983,7 @@
   line: -119
   units: 0.5
   description: "Bog Bogdanovic o17.5 Pts"
-  result: "PENDING"
+  result: "WIN"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -8991,7 +8991,7 @@
   line: -143
   units: 0.5
   description: "Bog Bogdanovic o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -8999,7 +8999,7 @@
   line: -106
   units: 0.5
   description: "Boj Bogdanovic o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9007,7 +9007,7 @@
   line: -167
   units: 0.5
   description: "A Davis o 8.5 Reb"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9015,7 +9015,7 @@
   line: -114
   units: 0.5
   description: "A Davis o 12.5 Reb + Ast"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9023,7 +9023,7 @@
   line: -108
   units: 0.5
   description: "A Davis o 25.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9031,7 +9031,7 @@
   line: -110
   units: 0.5
   description: "C Paul o9.5 Ast"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9039,7 +9039,7 @@
   line: -108
   units: 0.5
   description: "D Green o2.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/23/2021"
 
 - sport: "NBA"
@@ -9047,5 +9047,29 @@
   line: -147
   units: 0.5
   description: "B Beal o1.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Valanciunas o16.5 Pts"
+  result: "LOSS"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -104
+  units: 0.5
+  description: "J Valanciunas o13.5 Reb"
+  result: "LOSS"
+  date: "05/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -104
+  units: 0.5
+  description: "Ja Morant o7.5 Ast"
+  result: "LOSS"
+  date: "05/22/2021"

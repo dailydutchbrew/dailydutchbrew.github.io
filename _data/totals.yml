@@ -1,6 +1,6 @@
 ---
-win: 510
-loss: 478
+win: 515
+loss: 488
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 34
-win_pct: 0.516
+pending: 22
+win_pct: 0.513
 void: 25
-total_units: 708.35
-account_units: 7.6
-pending_units: 39.5
+total_units: 709.85
+account_units: 11.43
+pending_units: 33.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -70,10 +70,6 @@ futures:
   line: "-160"
 - sport: NHL
   units: 1.0
-  description: BOS (vs WAS) win Round 1
-  line: "-160"
-- sport: NHL
-  units: 1.0
   description: PIT (vs NYI) win Round 1
   line: "-140"
 - sport: NHL
@@ -108,51 +104,7 @@ futures:
   units: 1.0
   description: DEN (vs POR) win Rd 1
   line: "+100"
-non_future_pending:
-- sport: NBA
-  units: 0.5
-  description: J Randle o27.5 Pts
-  line: "-114"
-- sport: NBA
-  units: 0.5
-  description: J Randle o2.5 3's
-  line: "-114"
-- sport: NBA
-  units: 0.5
-  description: Bog Bogdanovic o17.5 Pts
-  line: "-119"
-- sport: NBA
-  units: 0.5
-  description: Bog Bogdanovic o3.5 3's
-  line: "-143"
-- sport: NBA
-  units: 0.5
-  description: Boj Bogdanovic o2.5 3's
-  line: "-106"
-- sport: NBA
-  units: 0.5
-  description: A Davis o 8.5 Reb
-  line: "-167"
-- sport: NBA
-  units: 0.5
-  description: A Davis o 12.5 Reb + Ast
-  line: "-114"
-- sport: NBA
-  units: 0.5
-  description: A Davis o 25.5 Pts
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: C Paul o9.5 Ast
-  line: "-110"
-- sport: NBA
-  units: 0.5
-  description: D Green o2.5 3's
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: B Beal o1.5 3's
-  line: "-147"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -165,7 +117,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 84-73-2
-week_w: 34
-week_l: 26
+  record: 89-83-2
+week_w: 4
+week_l: 7
 week_p: 0
