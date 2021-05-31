@@ -1,6 +1,6 @@
 ---
-win: 515
-loss: 488
+win: 544
+loss: 520
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 22
-win_pct: 0.513
+pending: 28
+win_pct: 0.511
 void: 25
-total_units: 709.85
-account_units: 11.43
-pending_units: 33.0
+total_units: 749.85
+account_units: 2.53
+pending_units: 38.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -66,18 +66,6 @@ futures:
   line: "-129"
 - sport: NHL
   units: 1.0
-  description: TB (vs FLA) win Round 1
-  line: "-160"
-- sport: NHL
-  units: 1.0
-  description: PIT (vs NYI) win Round 1
-  line: "-140"
-- sport: NHL
-  units: 1.0
-  description: WPG (@ EDM) win Round 1
-  line: "+170"
-- sport: NHL
-  units: 1.0
   description: CAR win Central Division Playoffs
   line: "+140"
 - sport: NHL
@@ -104,7 +92,43 @@ futures:
   units: 1.0
   description: DEN (vs POR) win Rd 1
   line: "+100"
-non_future_pending: []
+- sport: NFL
+  units: 3.0
+  description: TB win o11.5
+  line: "-147"
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: BAL @ MIN o9.0
+  line: "-110"
+- sport: NHL
+  units: 1.0
+  description: CAR beat TB 2nd round
+  line: "+115"
+- sport: NHL
+  units: 1.0
+  description: VGS beat COL 2nd round
+  line: "+175"
+- sport: NBA
+  units: 0.5
+  description: M Conley o17.5 Pts
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: J Morant o24.5 Pts
+  line: "-130"
+- sport: NBA
+  units: 0.5
+  description: D Brooks o21.5 Pts
+  line: "-108"
+- sport: NBA
+  units: 0.5
+  description: D Mitchell o25.5 Pts
+  line: "-114"
+- sport: NBA
+  units: 0.5
+  description: R O'Neale o1.5 3's
+  line: "+104"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -117,7 +141,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 89-83-2
+  record: 118-115-2
 week_w: 4
 week_l: 7
 week_p: 0
