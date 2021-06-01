@@ -1,6 +1,6 @@
 ---
-win: 544
-loss: 520
+win: 546
+loss: 525
 push: 12
 parlay_win: 13
 parlay_loss: 39
@@ -8,12 +8,12 @@ parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 28
-win_pct: 0.511
+pending: 23
+win_pct: 0.51
 void: 25
-total_units: 749.85
-account_units: 2.53
-pending_units: 38.0
+total_units: 750.85
+account_units: 3.49
+pending_units: 35.5
 bank: -9.0
 futures:
 - sport: MLB
@@ -109,26 +109,6 @@ non_future_pending:
   units: 1.0
   description: VGS beat COL 2nd round
   line: "+175"
-- sport: NBA
-  units: 0.5
-  description: M Conley o17.5 Pts
-  line: "-130"
-- sport: NBA
-  units: 0.5
-  description: J Morant o24.5 Pts
-  line: "-130"
-- sport: NBA
-  units: 0.5
-  description: D Brooks o21.5 Pts
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: D Mitchell o25.5 Pts
-  line: "-114"
-- sport: NBA
-  units: 0.5
-  description: R O'Neale o1.5 3's
-  line: "+104"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -141,7 +121,7 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 118-115-2
-week_w: 4
-week_l: 7
+  record: 120-120-2
+week_w: 6
+week_l: 12
 week_p: 0

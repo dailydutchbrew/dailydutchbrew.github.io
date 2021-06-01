@@ -9572,10 +9572,26 @@
 
 - sport: "NBA"
   type: "P"
+  line: -114
+  units: 0.5
+  description: "B Beal o31.5 Pts"
+  result: "LOSS"
+  date: "05/31/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "J Embiid o30.5 Pts"
+  result: "LOSS"
+  date: "05/31/2021"
+
+- sport: "NBA"
+  type: "P"
   line: -130
   units: 0.5
   description: "M Conley o17.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/31/2021"
 
 - sport: "NBA"
@@ -9583,7 +9599,7 @@
   line: -130
   units: 0.5
   description: "J Morant o24.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/31/2021"
 
 - sport: "NBA"
@@ -9591,7 +9607,7 @@
   line: -108
   units: 0.5
   description: "D Brooks o21.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/31/2021"
 
 - sport: "NBA"
@@ -9599,7 +9615,7 @@
   line: -114
   units: 0.5
   description: "D Mitchell o25.5 Pts"
-  result: "PENDING"
+  result: "WIN"
   date: "05/31/2021"
 
 - sport: "NBA"
@@ -9607,5 +9623,5 @@
   line: +104
   units: 0.5
   description: "R O'Neale o1.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "05/31/2021"
