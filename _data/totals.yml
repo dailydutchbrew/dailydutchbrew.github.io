@@ -1,19 +1,19 @@
 ---
-win: 580
-loss: 569
-push: 13
+win: 667
+loss: 643
+push: 17
 parlay_win: 13
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 16
-win_pct: 0.505
+pending: 7
+win_pct: 0.509
 void: 26
-total_units: 787.35
-account_units: 4.95
-pending_units: 26.5
+total_units: 868.85
+account_units: 20.05
+pending_units: 21.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -40,47 +40,11 @@ futures:
   units: 3.0
   description: OAK o 86.5 wins
   line: "-115"
-- sport: NBA
-  units: 1.0
-  description: PHX wins West
-  line: "+600"
-- sport: NBA
-  units: 1.0
-  description: MIL wins East
-  line: "+350"
-- sport: NBA
-  units: 0.5
-  description: UTA wins the West
-  line: "+325"
 - sport: NFL
   units: 3.0
   description: TB win o11.5
   line: "-147"
-non_future_pending:
-- sport: MLB
-  units: 0.5
-  description: BAL @ MIN o9.0
-  line: "-110"
-- sport: NBA
-  units: 0.5
-  description: UTA @ LAC o223
-  line: "-115"
-- sport: NBA
-  units: 0.5
-  description: Boj Bogdanovic o2.5 3's
-  line: "+144"
-- sport: NBA
-  units: 0.5
-  description: D Mitchell o3.5 3's
-  line: "-111"
-- sport: NBA
-  units: 0.5
-  description: D Mitchell o31.5 Pts
-  line: "-108"
-- sport: NBA
-  units: 0.5
-  description: K Leonard o28.5 Pts
-  line: "-108"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -93,9 +57,11 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 123-129-2
+  record: 126-130-2
 - month: '06'
-  record: 31-35-1
-week_w: 17
-week_l: 20
-week_p: 0
+  record: 109-103-4
+- month: '07'
+  record: 6-5-1
+week_w: 19
+week_l: 17
+week_p: 2

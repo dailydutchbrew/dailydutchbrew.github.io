@@ -8172,7 +8172,7 @@
   line: +600
   units: 1.0
   description: "PHX wins West"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8180,7 +8180,7 @@
   line: +350
   units: 1.0
   description: "MIL wins East"
-  result: "PENDING"
+  result: "WIN"
   date: "05/12/2021"
 
 - sport: "NBA"
@@ -8783,7 +8783,7 @@
   line: +325
   units: 0.5
   description: "UTA wins the West"
-  result: "PENDING"
+  result: "LOSS"
   date: "05/22/2021"
 
 - sport: "MLB"
@@ -9079,7 +9079,7 @@
   line: -110
   units: 0.5
   description: "BAL @ MIN o9.0"
-  result: "PENDING"
+  result: "WIN"
   date: "05/24/2021"
 
 - sport: "NHL"
@@ -10176,7 +10176,7 @@
   line: -115
   units: 0.5
   description: "UTA @ LAC o223"
-  result: "PENDING"
+  result: "WIN"
   date: "06/12/2021"
 
 - sport: "NBA"
@@ -10184,7 +10184,7 @@
   line: +144
   units: 0.5
   description: "Boj Bogdanovic o2.5 3's"
-  result: "PENDING"
+  result: "LOSS"
   date: "06/12/2021"
 
 - sport: "NBA"
@@ -10192,7 +10192,7 @@
   line: -111
   units: 0.5
   description: "D Mitchell o3.5 3's"
-  result: "PENDING"
+  result: "WIN"
   date: "06/12/2021"
 
 - sport: "NBA"
@@ -10200,7 +10200,7 @@
   line: -108
   units: 0.5
   description: "D Mitchell o31.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "06/12/2021"
 
 - sport: "NBA"
@@ -10208,5 +10208,1253 @@
   line: -108
   units: 0.5
   description: "K Leonard o28.5 Pts"
-  result: "PENDING"
+  result: "WIN"
   date: "06/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "K Middleton o24.5 Pts"
+  result: "LOSS"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "K Middleton o2.5 3's"
+  result: "WIN"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "K Durant o32.5 Pts"
+  result: "LOSS"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -133
+  units: 0.5
+  description: "G Antetokoumpo o32.5 Pts"
+  result: "WIN"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "D Booker o26.5 Pts"
+  result: "WIN"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "C Paul o16.5 Pts"
+  result: "WIN"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "J Crowder o2.5 3's"
+  result: "LOSS"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -127
+  units: 0.5
+  description: "M Porter Jr o2.5 3's"
+  result: "WIN"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "N Jokic o29.5 Pts"
+  result: "LOSS"
+  date: "06/13/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "LAC vs UTA o224.0"
+  result: "LOSS"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "PHI @ ATL o226.0"
+  result: "LOSS"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "D Mitchell o30.5 Pts"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "K Leonard o28.5 Pts"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "D Mitchell o3.5 3's"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "Seth Curry o2.5 3's"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "T Young o2.5 3's"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "Seth Curry o13.5 Pts"
+  result: "WIN"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "T Young o27.5 Pts"
+  result: "LOSS"
+  date: "06/14/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "MIL @ BKN u218.0"
+  result: "LOSS"
+  date: "06/15/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "K Durant o3.5 3's"
+  result: "WIN"
+  date: "06/15/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "K Middleton o2.5 3's"
+  result: "WIN"
+  date: "06/15/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -119
+  units: 0.5
+  description: "G Anteokoumpo o32.5 Pts"
+  result: "WIN"
+  date: "06/15/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "K Durant o9.5 Rebs"
+  result: "WIN"
+  date: "06/15/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "MTL @ VGK o5.0"
+  result: "PUSH"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "Trae Young o27.5 Pts"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -156
+  units: 0.5
+  description: "Trae Young o9.5 Asts"
+  result: "LOSS"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "Trae Young o2.5 3's"
+  result: "LOSS"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "Seth Curry o14.5 Pts"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "Seth Curry o2.5 3's"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "Royce O'Neale o1.5 3's"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -103
+  units: 0.5
+  description: "Bojan Bogdanovic o17.5 Pts"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "Donovan Mitchell o33.5 Pts"
+  result: "LOSS"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -132
+  units: 0.5
+  description: "Donovan Mitchell o3.5 + Boj Bogdanovic o 1.5 3's"
+  result: "WIN"
+  date: "06/16/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "K Durant o35.5 Pts"
+  result: "WIN"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "B Griffin o10.5 Pts"
+  result: "WIN"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "P Connaughton o6.5 Pts"
+  result: "LOSS"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +140
+  units: 0.5
+  description: "J Green o2.5 3's"
+  result: "LOSS"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "B Griffin o1.5 3's"
+  result: "LOSS"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "G Antetokoumpo o33.5 Pts"
+  result: "LOSS"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 1.0
+  description: "K Durant o9.5 Rebs"
+  result: "WIN"
+  date: "06/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -159
+  units: 1.0
+  description: "J Embiid o11.5 Rebs"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 1.0
+  description: "B Simmons o7.5 Asts"
+  result: "LOSS"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "Trae Young o9.5 Asts"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "Trae Young o2.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "Seth Curry o15.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "Trae Young o27.5 Pts"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +125
+  units: 0.5
+  description: "Marcus Morris o2.5 3's"
+  result: "LOSS"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "R O'Neale o1.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "Bojan Bogdanovic o2.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 0.5
+  description: "Donovan Mitchell o3.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "R Jackson o2.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "N Batum o1.5 3's"
+  result: "WIN"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -103
+  units: 0.5
+  description: "M Morris o17.5 Pts"
+  result: "LOSS"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "Paul George o31.5 Pts"
+  result: "LOSS"
+  date: "06/18/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "K Durant o35.5 Pts"
+  result: "WIN"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "G Antetokoumpo o33.5 Pts"
+  result: "WIN"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -103
+  units: 0.5
+  description: "K Middleton o25.5 Pts"
+  result: "LOSS"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "B Griffin o11.5 Pts"
+  result: "WIN"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "Kevin Durant o11.5 Rebs"
+  result: "LOSS"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "G Anteokoumpo o13.5 Rebs"
+  result: "LOSS"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "K Middleton o7.5 Rebs"
+  result: "WIN"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +134
+  units: 0.5
+  description: "K Middleton o3.5 3's"
+  result: "LOSS"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.5
+  description: "J Harden o3.5 3's"
+  result: "LOSS"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +136
+  units: 0.5
+  description: "K Durant o3.5 3's"
+  result: "WIN"
+  date: "06/19/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "D Booker o30.5 Pts"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "R Jackson o18.5 Pts"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -137
+  units: 0.5
+  description: "D Ayton o14.5 Pts"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "D Ayton o10.5 Rebs"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "M Bridges o12.5 Pts"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -149
+  units: 0.5
+  description: "M Bridges o1.5 3's"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 0.5
+  description: "J Embiid o30.5 Pts"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "Seth Curry o16.5 Pts"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +136
+  units: 0.5
+  description: "Trae Young o3.5 3's"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "B Simmons o7.5 Rebs"
+  result: "WIN"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "T Young o10.5 Asts"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "Seth Curry o3.5 3's"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "J Embiid o13.5 Rebs"
+  result: "LOSS"
+  date: "06/20/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "NYI @ TB o5.0"
+  result: "WIN"
+  date: "06/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "HOU @ BAL o10.5"
+  result: "WIN"
+  date: "06/21/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "Reggie Jackson o19.5 Pts"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "D Booker o31.5 Pts"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "D Ayton o15.5 Pts"
+  result: "WIN"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.25
+  description: "D Booker o2.5 3's"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.25
+  description: "J Crowder o2.5 3's"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +136
+  units: 0.25
+  description: "P George o3.5 3's"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +129
+  units: 0.25
+  description: "R Jackson o3.5 3's"
+  result: "LOSS"
+  date: "06/22/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -118
+  units: 0.5
+  description: "J Collins o15.5 Pts"
+  result: "WIN"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "K Middleton o7.5 Rebs"
+  result: "LOSS"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "J Collins o8.5 Rebs"
+  result: "WIN"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "K Middleton o24.5 Pts"
+  result: "LOSS"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "T Young o28.5 Pts"
+  result: "WIN"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "T Young o9.5 Asts"
+  result: "WIN"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "G Anteokoumpo o33.5 Pts"
+  result: "WIN"
+  date: "06/23/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "R Jackson o18.5 Pts"
+  result: "WIN"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "D Ayton o16.5 Pts"
+  result: "WIN"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "C Paul o16.5 Pts"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "D Booker o28.5 Pts"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "D Ayton o10.5 Rebs"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "C Paul o8.5 Asts"
+  result: "WIN"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "PHX @ LAC o221.0"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "PHX(@LAC) win"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "BAL @ TOR o10.5"
+  result: "LOSS"
+  date: "06/24/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "VGS @ MTL o5.0"
+  result: "PUSH"
+  date: "06/24/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "T Young o9.5 Ast"
+  result: "LOSS"
+  date: "06/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Collins o15.5 Pts"
+  result: "LOSS"
+  date: "06/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -167
+  units: 1.0
+  description: "J Collins o8.5 Rebs"
+  result: "LOSS"
+  date: "06/25/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "G Antetokoumpo o33.5 Pts"
+  result: "LOSS"
+  date: "06/25/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "PIT @ STL o8.0"
+  result: "LOSS"
+  date: "06/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "NYY @ BOS o10.0"
+  result: "LOSS"
+  date: "06/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CHI @ LAD o9.0"
+  result: "LOSS"
+  date: "06/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "OAK @ SF o8.0"
+  result: "WIN"
+  date: "06/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "BAL @ TOR o10.0"
+  result: "WIN"
+  date: "06/26/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "C Paul o9.5 Asts"
+  result: "LOSS"
+  date: "06/26/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "I Zubac o10.5 Rebs"
+  result: "WIN"
+  date: "06/26/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -116
+  units: 0.5
+  description: "D Ayton o16.5 Pts"
+  result: "WIN"
+  date: "06/26/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "C Paul o18.5 Pts"
+  result: "LOSS"
+  date: "06/26/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "R Jackson o18.5 Pts"
+  result: "WIN"
+  date: "06/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +105
+  units: 0.5
+  description: "NYY(@BOS) o5.0"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +115
+  units: 0.5
+  description: "CHC(@LAD) o5.0"
+  result: "WIN"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "J Holiday o20.5 Pts"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +114
+  units: 0.5
+  description: "PJ Tucker o5.5 Rebs"
+  result: "WIN"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "J Collins o15.5 Pts"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "J Collins o9.5 Rebs"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "T Young o9.5 Asts"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "C Capela o12.5 Rebs"
+  result: "LOSS"
+  date: "06/27/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "K Middleton o6.5 Rebs"
+  result: "WIN"
+  date: "06/27/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "BOS(vs KC) o5.0 runs"
+  result: "WIN"
+  date: "06/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "R Jackson o19.5 Pts"
+  result: "WIN"
+  date: "06/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "M Bridges o17.5 Pts + Rebs +Asts"
+  result: "LOSS"
+  date: "06/2/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "C Paul o17.5 Pts"
+  result: "WIN"
+  date: "06/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "D Booker o26.5 Pts"
+  result: "WIN"
+  date: "06/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "D Ayton o17.5 Pts"
+  result: "LOSS"
+  date: "06/28/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "P George o9.5 Rebs"
+  result: "WIN"
+  date: "06/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "TB(@WSH) o4.0"
+  result: "LOSS"
+  date: "06/29/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -185
+  units: 0.5
+  description: "BOS(vsKC) o5.0"
+  result: "WIN"
+  date: "06/29/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "PHI(vsMIA) o4.0"
+  result: "PUSH"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "Bogdan Bogdanovic o12.5"
+  result: "WIN"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "K Middleton o6.5 Rebs"
+  result: "WIN"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -102
+  units: 0.5
+  description: "Bogdan Bogdanovic o2.5 3's"
+  result: "WIN"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "K Middleton o2.5 3's"
+  result: "LOSS"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "P.J. Tucker o5.5 Rebs"
+  result: "LOSS"
+  date: "06/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "C Paul 19.5 Pts"
+  result: "WIN"
+  date: "06/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "D Booker 27.5 Pts"
+  result: "LOSS"
+  date: "06/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -143
+  units: 0.5
+  description: "P George 10.5 Rebs"
+  result: "LOSS"
+  date: "06/30/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -123
+  units: 0.5
+  description: "J Collins o8.5 Rebs"
+  result: "LOSS"
+  date: "07/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -122
+  units: 0.5
+  description: "C Capela o11.5 Rebs"
+  result: "LOSS"
+  date: "07/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -109
+  units: 0.5
+  description: "K Middleton o8.5 Rebs"
+  result: "WIN"
+  date: "07/01/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "PJ Tucker o5.5 Rebs"
+  result: "WIN"
+  date: "07/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "LAA(vsBAL) o5.0"
+  result: "WIN"
+  date: "07/02/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "TOR(vsTB) o4.5"
+  result: "WIN"
+  date: "07/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CHI @ CIN o9.0"
+  result: "PUSH"
+  date: "07/03/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "CWS(@DET) o4.0"
+  result: "WIN"
+  date: "07/03/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -130
+  units: 1.0
+  description: "J Collins o14.5"
+  result: "LOSS"
+  date: "07/03/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: +104
+  units: 1.0
+  description: "K Huerter o4.5 Ast"
+  result: "LOSS"
+  date: "07/03/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: +100
+  units: 1.0
+  description: "PJ Tucker o6.5 Reb"
+  result: "WIN"
+  date: "07/03/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -130
+  units: 1.0
+  description: "K Middleton o8.5 Reb"
+  result: "LOSS"
+  date: "07/03/2021"
