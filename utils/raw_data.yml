@@ -9197,7 +9197,7 @@
 - sport: "NFL"
   type: "F"
   line: -147
-  units: 3.0
+  units: 4.0
   description: "TB win o11.5"
   result: "PENDING"
   date: "05/25/2021"
@@ -11458,3 +11458,203 @@
   description: "K Middleton o8.5 Reb"
   result: "LOSS"
   date: "07/03/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -141
+  units: 4.0
+  description: "BUF win o10.5"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: +100
+  units: 4.0
+  description: "CLE win o10.5"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -110
+  units: 4.0
+  description: "TEN win o9.0"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -130
+  units: 4.0
+  description: "KC win o12.0"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -135
+  units: 4.0
+  description: "WAS win o8.0"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -115
+  units: 2.0
+  description: "SF win o10.0"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "NFL"
+  type: "F"
+  line: -110
+  units: 2.0
+  description: "LAR win o10.0"
+  result: "PENDING"
+  date: "07/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "PHI(@CHC) o 5.0"
+  result: "LOSS"
+  date: "07/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "CIN(@KC) o 4.0"
+  result: "WIN"
+  date: "07/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "TB(vsCLE) o 4.0"
+  result: "WIN"
+  date: "07/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "LAA(vsBOS) o 4.0"
+  result: "PUSH"
+  date: "07/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "BOS(@LAA) o 4.0"
+  result: "WIN"
+  date: "07/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "NYY(@SEA) o 5.0"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "PHI(@CHC) o 5.0"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "TOR(@BAL) o 6.0"
+  result: "LOSS"
+  date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "NYM(vsNYM) o 4.0"
+  result: "VOID"
+  date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "CIN(@KC) o 5.0"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "KC(vsCIN) o 4.0"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "D Ayton o 11.5 Reb"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "K Middleton o 7.5 Reb"
+  result: "LOSS"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "PJ Tucker o 5.5 Reb"
+  result: "LOSS"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "C Paul o 8.5 Ast"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "D Ayton o 15.5 Pts"
+  result: "WIN"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MIL @ PHX u219.0"
+  result: "LOSS"
+  date: "07/06/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "PHX(vsMIL) -5.0"
+  result: "WIN"
+  date: "07/06/2021"
