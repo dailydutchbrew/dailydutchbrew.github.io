@@ -1,19 +1,19 @@
 ---
-win: 667
-loss: 643
-push: 17
+win: 695
+loss: 662
+push: 19
 parlay_win: 13
 parlay_loss: 39
 parlay_push: 0
 betback_win: 2
 betback_loss: 8
 betback_push: 7
-pending: 7
-win_pct: 0.509
-void: 26
-total_units: 868.85
-account_units: 20.05
-pending_units: 21.0
+pending: 20
+win_pct: 0.512
+void: 27
+total_units: 921.85
+account_units: -5.35
+pending_units: 49.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -41,10 +41,62 @@ futures:
   description: OAK o 86.5 wins
   line: "-115"
 - sport: NFL
-  units: 3.0
+  units: 4.0
   description: TB win o11.5
   line: "-147"
-non_future_pending: []
+- sport: NFL
+  units: 4.0
+  description: BUF win o10.5
+  line: "-141"
+- sport: NFL
+  units: 4.0
+  description: CLE win o10.5
+  line: "+100"
+- sport: NFL
+  units: 4.0
+  description: TEN win o9.0
+  line: "-110"
+- sport: NFL
+  units: 4.0
+  description: KC win o12.0
+  line: "-130"
+- sport: NFL
+  units: 4.0
+  description: WAS win o8.0
+  line: "-135"
+- sport: NFL
+  units: 2.0
+  description: SF win o10.0
+  line: "-115"
+- sport: NFL
+  units: 2.0
+  description: LAR win o10.0
+  line: "-110"
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: CWS(@BAL) o5.5
+  line: "-145"
+- sport: MLB
+  units: 0.5
+  description: BOS(vsPHI) o5.5
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: CLE(vsKC) o4.0
+  line: "-145"
+- sport: MLB
+  units: 0.5
+  description: LAD(vsARI) o5.0
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: SD(vsCOL) o4.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: LAA @ SEA o8.0
+  line: "-130"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -61,7 +113,7 @@ monthly_mls:
 - month: '06'
   record: 109-103-4
 - month: '07'
-  record: 6-5-1
-week_w: 19
-week_l: 17
+  record: 34-24-3
+week_w: 28
+week_l: 19
 week_p: 2

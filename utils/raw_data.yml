@@ -11658,3 +11658,307 @@
   description: "PHX(vsMIL) -5.0"
   result: "WIN"
   date: "07/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "CLE(@TB) o 3.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "TOR @ BAL o 11.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "BOS @ LAA o 9.0"
+  result: "PUSH"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "WSH @ SD o8.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "SD(vsWSH) o4.5"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "WSH(@SD) o3.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "TOR(@BAL) o6.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "BAL(@TOR) o4.0"
+  result: "LOSS"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "BOS(@LAA) o4.5"
+  result: "LOSS"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "LAA(vsBOS) o4.0"
+  result: "WIN"
+  date: "07/07/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -170
+  units: 0.5
+  description: "ARI(vsCOL) o4.0"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "DET(@MIN) o4.0"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "MIN(vsDET) o4.0"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "DET @ MIN o9.0"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "COL(@ARI) o4.0"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "COL @ARI o9.0"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAD(@MIA) o4.0"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -166
+  units: 0.5
+  description: "LAD(@MIA) win"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "D Ayton o12.5 Rebs"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -108
+  units: 0.5
+  description: "K Middleton o7.5 Rebs"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "J Crowder o5.5 Rebs"
+  result: "WIN"
+  date: "07/08/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "G Antetokoumpo o12.5 Rebs"
+  result: "LOSS"
+  date: "07/08/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CWS o5.0"
+  result: "WIN"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CWS @ BAL o9.5"
+  result: "WIN"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "KC @ CLE o9.5"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "KC o4.0"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CLE o5.0"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "BOS(vsPHI) o5.0"
+  result: "WIN"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "TOR(vsTB) o3.5"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "MIN(vsDET) o5.0"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "LAA @ SEA o8.0"
+  result: "WIN"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "LAA(@SEA) o4.0"
+  result: "LOSS"
+  date: "07/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "CWS(@BAL) o5.5"
+  result: "PENDING"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "BOS(vsPHI) o5.5"
+  result: "PENDING"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "CLE(vsKC) o4.0"
+  result: "PENDING"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAD(vsARI) o5.0"
+  result: "PENDING"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "SD(vsCOL) o4.0"
+  result: "PENDING"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "LAA @ SEA o8.0"
+  result: "PENDING"
+  date: "07/10/2021"
