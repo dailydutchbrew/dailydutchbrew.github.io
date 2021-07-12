@@ -11920,7 +11920,7 @@
   line: -145
   units: 0.5
   description: "CWS(@BAL) o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "07/10/2021"
 
 - sport: "MLB"
@@ -11928,7 +11928,7 @@
   line: -125
   units: 0.5
   description: "BOS(vsPHI) o5.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/10/2021"
 
 - sport: "MLB"
@@ -11936,7 +11936,7 @@
   line: -145
   units: 0.5
   description: "CLE(vsKC) o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/10/2021"
 
 - sport: "MLB"
@@ -11944,7 +11944,7 @@
   line: -115
   units: 0.5
   description: "LAD(vsARI) o5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/10/2021"
 
 - sport: "MLB"
@@ -11952,7 +11952,7 @@
   line: -125
   units: 0.5
   description: "SD(vsCOL) o4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/10/2021"
 
 - sport: "MLB"
@@ -11960,5 +11960,157 @@
   line: -130
   units: 0.5
   description: "LAA @ SEA o8.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/10/2021"
+
+- sport: "MMA"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "S Thompson(vs G Burns) win"
+  result: "LOSS"
+  date: "07/10/2021"
+
+- sport: "MMA"
+  type: "P"
+  line: -180
+  units: 0.5
+  description: "T Tuivasa vs G Hardy to got the distance"
+  result: "WIN"
+  date: "07/10/2021"
+
+- sport: "MMA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "S O'Malley (vs K Moutinho) to win by KO/TKO 1st Rd"
+  result: "LOSS"
+  date: "07/10/2021"
+
+- sport: "MMA"
+  type: "ML"
+  line: -125
+  units: 0.5
+  description: "D Poirier (vs C McGregor) to win"
+  result: "WIN"
+  date: "07/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "BOS(vs PHI) o5.5"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "CWS(@ BAL) o5.5"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "TOR(@ TB) o4.0"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "COL @ SD o8.0"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "ARI @ LAA o8.5"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "PHX @ MIL u221.5"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MIL(vs PHX) -1.5 1st Quarter"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "T"
+  line: +100
+  units: 0.5
+  description: "PHX @ MIL u225.5 + MIL -0.5"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "J Crowder o 6.5 Rebs"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "G Antetokoumpo o 12.5 Rebs"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "K Middleton o 7.5 Rebs"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "D Ayton o 12.5 Rebs"
+  result: "LOSS"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "K Middleton o 2.5 3's"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "J Holiday o 7.5 Asts"
+  result: "WIN"
+  date: "07/11/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -114
+  units: 0.5
+  description: "C Paul o 21.5 Pts"
+  result: "LOSS"
+  date: "07/11/2021"
