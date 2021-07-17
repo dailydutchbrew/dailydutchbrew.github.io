@@ -12114,3 +12114,139 @@
   description: "C Paul o 21.5 Pts"
   result: "LOSS"
   date: "07/11/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: +850
+  units: 0.25
+  description: "T Story to win the HR Derby"
+  result: "LOSS"
+  date: "07/12/2021"
+
+- sport: "MLB"
+  type: "F"
+  line: +550
+  units: 0.25
+  description: "P Alonso to win the HR Derby"
+  result: "WIN"
+  date: "07/12/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "AL to win All-star game"
+  result: "WIN"
+  date: "07/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "D Booker o2.5 3's"
+  result: "LOSS"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Crowder o2.5 3's"
+  result: "WIN"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "K Middleton o2.5 3's"
+  result: "WIN"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -111
+  units: 0.5
+  description: "J Crowder o10.5 Pts"
+  result: "WIN"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "C Paul o 8.5 Asts"
+  result: "LOSS"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "G Antetokoumpo o 12.5 Rebs"
+  result: "WIN"
+  date: "07/14/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "PJ Tucker o 10.5 Pts + Rebs"
+  result: "LOSS"
+  date: "07/14/2021"
+
+- sport: "MLB"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "BOS @ NYY o10.0"
+  result: "VOID"
+  date: "07/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +100
+  units: 0.5
+  description: "BOS @ NYY o10.0"
+  result: "VOID"
+  date: "07/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "MIA @ PHI o6.5 Gm1"
+  result: "WIN"
+  date: "07/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "SD @ WSH o5.0 5in"
+  result: "WIN"
+  date: "07/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: +110
+  units: 0.5
+  description: "SD @ WSH o10.0"
+  result: "WIN"
+  date: "07/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "SD(@WSH) o5.0"
+  result: "WIN"
+  date: "07/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "WSH(vsSD) o4.0"
+  result: "WIN"
+  date: "07/16/2021"

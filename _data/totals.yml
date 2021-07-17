@@ -1,6 +1,6 @@
 ---
-win: 707
-loss: 675
+win: 718
+loss: 679
 push: 19
 parlay_win: 13
 parlay_loss: 39
@@ -9,10 +9,10 @@ betback_win: 2
 betback_loss: 8
 betback_push: 7
 pending: 14
-win_pct: 0.512
-void: 27
-total_units: 931.35
-account_units: -4.14
+win_pct: 0.514
+void: 29
+total_units: 939.35
+account_units: 0.9
 pending_units: 46.0
 bank: -9.0
 futures:
@@ -89,7 +89,7 @@ monthly_mls:
 - month: '06'
   record: 109-103-4
 - month: '07'
-  record: 46-37-3
-week_w: 7
-week_l: 8
+  record: 57-41-3
+week_w: 18
+week_l: 12
 week_p: 0
