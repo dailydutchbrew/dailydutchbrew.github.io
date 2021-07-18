@@ -2,6 +2,8 @@
 
 require_relative 'event'
 require_relative 'record'
+require_relative 'event_rule'
+require_relative 'record_update_session'
 require 'yaml'
 require 'date'
 
@@ -21,11 +23,45 @@ BETBACK = 'BETBACK'
 non_future_pending = []
 monthly_mls = []
 betback_record = Record.new
-betback_record = Record.new
 parlay_record = Record.new
 ml_p_record = Record.new
 prev_month_record = Record.new
 week_record = Record.new
+records = [
+  Record.new(
+    name: 'future_record',
+    rules: [EventRule.new('type', Event::FUTURE)]
+  ),
+  Record.new(
+    name: 'parlay_record',
+    rules: [EventRule.new('type', Event::PARLAY, include_parlay: true)]
+  ),
+  Record.new(
+    name: 'betback_record',
+    rules: [EventRule.new('type', Event::BETBACK, include_parlay: true)]
+  ),
+  Record.new(
+    name: 'nba_record',
+    rules: [EventRule.new('sport', 'NBA')]
+  ),
+  Record.new(
+    name: 'nhl_record',
+    rules: [EventRule.new('sport', 'NHL')]
+  ),
+  Record.new(
+    name: 'mlb_record',
+    rules: [EventRule.new('sport', 'MLB')]
+  ),
+  Record.new(
+    name: 'nfl_record',
+    rules: [EventRule.new('sport', 'NFL')]
+  ),
+  Record.new(
+    name: 'mma_record',
+    rules: [EventRule.new('sport', 'MMA')]
+  )
+]
+record_update_session = RecordUpdateSession.new(records)
 pending_units = 0
 total_units = 0
 account_units = 0
@@ -61,36 +97,20 @@ bets.each do |bet|
   result = event.result
   potential_payout = event.potential_payout
 
+  record_update_session.update_records(event)
+
   case result
   when WIN
-    if event.type == PARLAY
-      parlay_record.win += 1
-    elsif event.type == BETBACK
-      betback_record.win += 1
-    else
-      ml_p_record.win += 1
-      week_record.win += 1 if event.current_week?
-    end
+    ml_p_record.win += 1
+    week_record.win += 1 if event.current_week?
     account_units += (potential_payout - units)
   when LOSS
-    if event.type == PARLAY
-      parlay_record.loss += 1
-    elsif event.type == BETBACK
-      betback_record.loss += 1
-    else
-      ml_p_record.loss += 1
-      week_record.loss += 1 if event.current_week?
-    end
+    ml_p_record.loss += 1
+    week_record.loss += 1 if event.current_week?
     account_units -= units
   when PUSH
-    if event.type == PARLAY
-      parlay_record.push += 1
-    elsif event.type == BETBACK
-      betback_record.push += 1
-    else
-      ml_p_record.push += 1
-      week_record.push += 1 if event.current_week?
-    end
+    ml_p_record.push += 1
+    week_record.push += 1 if event.current_week?
     account_units += units
   when PENDING
     ml_p_record.pending += 1
@@ -126,12 +146,6 @@ totals = {
   'win' => ml_p_record.win,
   'loss' => ml_p_record.loss,
   'push' => ml_p_record.push,
-  'parlay_win' => parlay_record.win,
-  'parlay_loss' => parlay_record.loss,
-  'parlay_push' => parlay_record.push,
-  'betback_win' => betback_record.win,
-  'betback_loss' => betback_record.loss,
-  'betback_push' => betback_record.push,
   'pending' => ml_p_record.pending,
   'win_pct' => (ml_p_record.win / (ml_p_record.win + ml_p_record.loss).to_f).round(3),
   'void' => ml_p_record.void,
@@ -146,6 +160,20 @@ totals = {
   'week_l' => week_record.loss,
   'week_p' => week_record.push
 }
+
+record_update_session.records.each do |record|
+  totals.merge!(
+    {
+      record.name => "#{record.win}-#{record.loss}-#{record.push}",
+      "#{record.name}_win_pct" => record.win_pct,
+      "#{record.name}_units" => record.units
+    }
+  )
+end
+
+puts record_update_session.records.count
+
+puts record_update_session.records.first.inspect
 
 puts totals.inspect
 

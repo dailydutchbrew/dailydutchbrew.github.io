@@ -3,6 +3,17 @@
 require 'date'
 
 class Event
+  WIN = 'WIN'
+  LOSS = 'LOSS'
+  PUSH = 'PUSH'
+  PENDING = 'PENDING'
+  VOID = 'VOID'
+  BANK = 'BANK'
+  FUTURE = 'F'
+  BONUS = 'BONUS'
+  PARLAY = 'PARLAY'
+  BETBACK = 'BETBACK'
+
   attr_reader :type, :sport, :line, :units, :description, :result, :date
 
   def initialize(data:)
