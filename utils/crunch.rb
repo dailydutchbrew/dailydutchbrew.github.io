@@ -99,40 +99,42 @@ bets.each do |bet|
 
   record_update_session.update_records(event)
 
-  case result
-  when WIN
-    ml_p_record.win += 1
-    week_record.win += 1 if event.current_week?
-    account_units += (potential_payout - units)
-  when LOSS
-    ml_p_record.loss += 1
-    week_record.loss += 1 if event.current_week?
-    account_units -= units
-  when PUSH
-    ml_p_record.push += 1
-    week_record.push += 1 if event.current_week?
-    account_units += units
-  when PENDING
-    ml_p_record.pending += 1
-    account_units -= units
-    pending_units += units
+  unless event.type == 'PARLAY' || event.type == 'BETBACK'
+    case result
+    when WIN
+      ml_p_record.win += 1
+      week_record.win += 1 if event.current_week?
+      account_units += (potential_payout - units)
+    when LOSS
+      ml_p_record.loss += 1
+      week_record.loss += 1 if event.current_week?
+      account_units -= units
+    when PUSH
+      ml_p_record.push += 1
+      week_record.push += 1 if event.current_week?
+      account_units += units
+    when PENDING
+      ml_p_record.pending += 1
+      account_units -= units
+      pending_units += units
 
-    payload = {
-      'sport' => bet['sport'],
-      'units' => units,
-      'description' => bet['description'],
-      'line' => "%+d" % bet['line']
-    }
-    if bet['type'] == FUTURE
-      futures << payload
-    else
-      non_future_pending << payload
+      payload = {
+        'sport' => bet['sport'],
+        'units' => units,
+        'description' => bet['description'],
+        'line' => "%+d" % bet['line']
+      }
+      if bet['type'] == FUTURE
+        futures << payload
+      else
+        non_future_pending << payload
+      end
+    when VOID
+      ml_p_record.void += 1
+      account_units += units
     end
-  when VOID
-    ml_p_record.void += 1
-    account_units += units
+    total_units += units
   end
-  total_units += units
 end
 
 # Log monthly record here again, as month has not ended.

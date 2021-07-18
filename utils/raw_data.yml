@@ -12250,3 +12250,179 @@
   description: "WSH(vsSD) o4.0"
   result: "WIN"
   date: "07/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MIL @ CIN o8.0"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "P Connaughton o1.5 3's"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "C Johnson o9.5 Pts"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Crowder o2.5 3s"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "J Crowder o11.5 Pts"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "PHX -1.0 @ 1H"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "PHX(vs MIL) win"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "MMA"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "Misha Tate(vs Marion Reneau) win"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -145
+  units: 0.5
+  description: "K Middleton o2.5 3's"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "J Holiday o 13.5 Reb + Asts"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "G Antetokuompo o 13.5 Rebs"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "D Ayton o 12.5 Rebs"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "M Bridges o 10.5 Pts"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "D Booker o 28.5 Pts"
+  result: "WIN"
+  date: "07/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "SD @ WSH o9.5"
+  result: "VOID"
+  date: "07/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "MIA @ PHI o9.5"
+  result: "LOSS"
+  date: "07/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "KC(vsBAL) o5.0"
+  result: "PENDING"
+  date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TB @ ATL o9.0"
+  result: "PENDING"
+  date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "TOR(vsTEX) o4.0"
+  result: "WIN"
+  date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "NYM(@PIT) o4.0"
+  result: "PENDING"
+  date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "SEA @ LAA o8.0"
+  result: "PENDING"
+  date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "BOS @ NYY o9.0"
+  result: "PENDING"
+  date: "07/18/2021"

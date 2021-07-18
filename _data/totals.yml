@@ -1,13 +1,13 @@
 ---
-win: 733
-loss: 726
-push: 26
-pending: 14
-win_pct: 0.502
-void: 29
-total_units: 939.35
-account_units: 0.9
-pending_units: 46.0
+win: 726
+loss: 687
+push: 19
+pending: 19
+win_pct: 0.514
+void: 30
+total_units: 918.25
+account_units: -11.96
+pending_units: 48.5
 bank: -9.0
 futures:
 - sport: MLB
@@ -66,25 +66,45 @@ futures:
   units: 2.0
   description: LAR win o10.0
   line: "-110"
-non_future_pending: []
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: KC(vsBAL) o5.0
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: TB @ ATL o9.0
+  line: "-110"
+- sport: MLB
+  units: 0.5
+  description: NYM(@PIT) o4.0
+  line: "-130"
+- sport: MLB
+  units: 0.5
+  description: SEA @ LAA o8.0
+  line: "-145"
+- sport: MLB
+  units: 0.5
+  description: BOS @ NYY o9.0
+  line: "-135"
 monthly_mls:
 - month: '12'
   record: 28-18-0
 - month: '01'
-  record: 126-127-5
+  record: 117-99-2
 - month: '02'
-  record: 69-87-6
+  record: 67-72-2
 - month: '03'
-  record: 97-89-1
+  record: 96-87-1
 - month: '04'
-  record: 120-131-5
+  record: 118-129-5
 - month: '05'
-  record: 127-130-2
+  record: 126-130-2
 - month: '06'
   record: 109-103-4
 - month: '07'
-  record: 57-41-3
-week_w: 0
+  record: 65-49-3
+week_w: 1
 week_l: 0
 week_p: 0
 future_record: 19-16-0
@@ -96,18 +116,18 @@ parlay_record_units: 1.375
 betback_record: 2-8-7
 betback_record_win_pct: 0.2
 betback_record_units: 0.0
-nba_record: 390-380-0
-nba_record_win_pct: 0.506
-nba_record_units: 0.0
+nba_record: 395-387-0
+nba_record_win_pct: 0.505
+nba_record_units: 0.9347826086956522
 nhl_record: 189-155-9
 nhl_record_win_pct: 0.549
 nhl_record_units: 1.76923076923077
-mlb_record: 127-122-10
-mlb_record_win_pct: 0.51
-mlb_record_units: 0.9545454545454546
+mlb_record: 129-123-10
+mlb_record_win_pct: 0.512
+mlb_record_units: 0.0
 nfl_record: 6-17-0
 nfl_record_win_pct: 0.261
 nfl_record_units: 0.0
-mma_record: 5-4-0
-mma_record_win_pct: 0.556
-mma_record_units: 0.9
+mma_record: 6-4-0
+mma_record_win_pct: 0.6
+mma_record_units: 0.803030303030303
