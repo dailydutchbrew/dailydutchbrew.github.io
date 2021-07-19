@@ -12384,7 +12384,7 @@
   line: -110
   units: 0.5
   description: "KC(vsBAL) o5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/18/2021"
 
 - sport: "MLB"
@@ -12392,7 +12392,7 @@
   line: -110
   units: 0.5
   description: "TB @ ATL o9.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/18/2021"
 
 - sport: "MLB"
@@ -12408,7 +12408,7 @@
   line: -130
   units: 0.5
   description: "NYM(@PIT) o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/18/2021"
 
 - sport: "MLB"
@@ -12416,7 +12416,7 @@
   line: -145
   units: 0.5
   description: "SEA @ LAA o8.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/18/2021"
 
 - sport: "MLB"
@@ -12424,5 +12424,5 @@
   line: -135
   units: 0.5
   description: "BOS @ NYY o9.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/18/2021"
