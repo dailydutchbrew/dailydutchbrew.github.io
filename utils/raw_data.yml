@@ -12426,3 +12426,51 @@
   description: "BOS @ NYY o9.0"
   result: "WIN"
   date: "07/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "CWS(vsMIN) o4.0"
+  result: "LOSS"
+  date: "07/19/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "MIA @ WSH o9.0"
+  result: "LOSS"
+  date: "07/19/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "BOS @ TOR o10.0"
+  result: "WIN"
+  date: "07/19/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "BOS(@TOR) o5.0"
+  result: "WIN"
+  date: "07/19/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TOR(vsBOS) o5.0"
+  result: "LOSS"
+  date: "07/19/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAA @ OAK o4.0 live"
+  result: "WIN"
+  date: "07/19/2021"
