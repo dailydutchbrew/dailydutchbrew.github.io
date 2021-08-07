@@ -12,7 +12,7 @@ class Record
     @push = 0
     @pending = 0
     @void = 0
-    @units = 0
+    @units = 0.0
     @name = name
     @rules = rules
   end

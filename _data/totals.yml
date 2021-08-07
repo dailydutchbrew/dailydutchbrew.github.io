@@ -1,13 +1,13 @@
 ---
-win: 733
-loss: 691
-push: 19
-pending: 14
-win_pct: 0.515
-void: 30
-total_units: 921.25
-account_units: -8.67
-pending_units: 46.0
+win: 806
+loss: 752
+push: 37
+pending: 24
+win_pct: 0.517
+void: 36
+total_units: 1005.25
+account_units: -5.64
+pending_units: 51.0
 bank: -9.0
 futures:
 - sport: MLB
@@ -66,7 +66,47 @@ futures:
   units: 2.0
   description: LAR win o10.0
   line: "-110"
-non_future_pending: []
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: CIN(vsPIT) o5.0
+  line: "-190"
+- sport: MLB
+  units: 0.5
+  description: CIN(vsPIT) o5.5
+  line: "-145"
+- sport: MLB
+  units: 0.5
+  description: CLE(vsDET) o4.0
+  line: "-210"
+- sport: MLB
+  units: 0.5
+  description: CLE(vsDET) o4.5
+  line: "-150"
+- sport: MLB
+  units: 0.5
+  description: ATL(vsWSH) o5.0
+  line: "-125"
+- sport: MLB
+  units: 0.5
+  description: COL(vsMIA) o5.0
+  line: "-165"
+- sport: MLB
+  units: 0.5
+  description: COL(vsMIA) o5.5
+  line: "-115"
+- sport: MLB
+  units: 0.5
+  description: STL(vsKC) o4.0
+  line: "-150"
+- sport: MLB
+  units: 0.5
+  description: SD(vsARI) o4.5
+  line: "-165"
+- sport: MLB
+  units: 0.5
+  description: SD(vsARI) o5.0
+  line: "-125"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -83,31 +123,33 @@ monthly_mls:
 - month: '06'
   record: 109-103-4
 - month: '07'
-  record: 72-53-3
-week_w: 8
-week_l: 4
-week_p: 0
+  record: 112-91-16
+- month: '08'
+  record: 33-23-5
+week_w: 33
+week_l: 23
+week_p: 5
 future_record: 19-16-0
 future_record_win_pct: 0.543
-future_record_units: 1.625
+future_record_units: 28.09419369962848
 parlay_record: 13-39-0
 parlay_record_win_pct: 0.25
-parlay_record_units: 1.375
+parlay_record_units: -0.9274999999999998
 betback_record: 2-8-7
 betback_record_win_pct: 0.2
-betback_record_units: 0.0
-nba_record: 395-387-0
-nba_record_win_pct: 0.505
-nba_record_units: 0.9347826086956522
+betback_record_units: 5.414999999999999
+nba_record: 396-389-0
+nba_record_win_pct: 0.504
+nba_record_units: -4.756684589792545
 nhl_record: 189-155-9
 nhl_record_win_pct: 0.549
-nhl_record_units: 1.76923076923077
-mlb_record: 136-127-10
-mlb_record_win_pct: 0.517
-mlb_record_units: 0.9347826086956522
-nfl_record: 6-17-0
-nfl_record_win_pct: 0.261
-nfl_record_units: 0.0
+nhl_record_units: 12.75253302859275
+mlb_record: 196-176-28
+mlb_record_win_pct: 0.527
+mlb_record_units: -10.643809815119946
+nfl_record: 7-17-0
+nfl_record_win_pct: 0.292
+nfl_record_units: -6.551756264724779
 mma_record: 6-4-0
 mma_record_win_pct: 0.6
-mma_record_units: 0.803030303030303
+mma_record_units: -0.459018759018759

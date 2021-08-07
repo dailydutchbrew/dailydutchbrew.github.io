@@ -15,27 +15,27 @@ class RecordUpdateSession
       when Event::WIN
         if record.rules_match?(event)
           record.win += 1
-          record.units += event.potential_payout - record.units
+          record.units += event.potential_payout - event.units
         end
       when Event::LOSS
         if record.rules_match?(event)
           record.loss += 1
-          record.units -= record.units
+          record.units -= event.units
         end
       when Event::PUSH
         if record.rules_match?(event)
           record.push += 1
-          record.units += record.units
+          #record.units += record.units
         end
       when Event::VOID
         if record.rules_match?(event)
           record.void += 1
-          record.units += record.units
+          #record.units += event.units
         end
       when Event::PENDING
         if record.rules_match?(event)
           record.pending += 1
-          record.units -= record.units
+          #record.units -= event.units
         end
       end
     end
