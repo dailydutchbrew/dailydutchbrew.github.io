@@ -13744,7 +13744,7 @@
   line: -190
   units: 0.5
   description: "CIN(vsPIT) o5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13752,7 +13752,7 @@
   line: -145
   units: 0.5
   description: "CIN(vsPIT) o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13760,7 +13760,7 @@
   line: -210
   units: 0.5
   description: "CLE(vsDET) o4.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13768,7 +13768,7 @@
   line: -150
   units: 0.5
   description: "CLE(vsDET) o4.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13776,7 +13776,7 @@
   line: -125
   units: 0.5
   description: "ATL(vsWSH) o5.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13784,7 +13784,7 @@
   line: -165
   units: 0.5
   description: "COL(vsMIA) o5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13792,7 +13792,7 @@
   line: -115
   units: 0.5
   description: "COL(vsMIA) o5.5"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13800,7 +13800,7 @@
   line: -150
   units: 0.5
   description: "STL(vsKC) o4.0"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13808,7 +13808,7 @@
   line: -165
   units: 0.5
   description: "SD(vsARI) o4.5"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
 
 - sport: "MLB"
@@ -13816,5 +13816,5 @@
   line: -125
   units: 0.5
   description: "SD(vsARI) o5.0"
-  result: "PENDING"
+  result: "WIN"
   date: "08/07/2021"
