@@ -25,17 +25,17 @@ class RecordUpdateSession
       when Event::PUSH
         if record.rules_match?(event)
           record.push += 1
-          #record.units += record.units
+#          record.units += event.units
         end
       when Event::VOID
         if record.rules_match?(event)
           record.void += 1
-          #record.units += event.units
+#          record.units += event.units
         end
       when Event::PENDING
         if record.rules_match?(event)
           record.pending += 1
-          #record.units -= event.units
+#          record.units -= event.units
         end
       end
     end
