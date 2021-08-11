@@ -14018,3 +14018,67 @@
   description: "MIA @ SD o4.0"
   result: "WIN"
   date: "08/09/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -185
+  units: 0.5
+  description: "OAK(@CLE) o4.0"
+  result: "PUSH"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "OAK(@CLE) o4.5"
+  result: "LOSS"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "TB(@BOS) o4.0"
+  result: "WIN"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -190
+  units: 0.5
+  description: "TB(@BOS) o3.5"
+  result: "WIN"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -180
+  units: 0.5
+  description: "CWS(@MIN) o4.5"
+  result: "LOSS"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "CWS(@MIN) o5.0"
+  result: "LOSS"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "DET(@BAL) o4.5"
+  result: "WIN"
+  date: "08/10/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "DET(@BAL) o5.0"
+  result: "WIN"
+  date: "08/10/2021"

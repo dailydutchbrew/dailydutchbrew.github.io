@@ -1,12 +1,12 @@
 ---
-win: 831
-loss: 761
-push: 38
+win: 835
+loss: 764
+push: 39
 pending: 14
 win_pct: 0.522
 void: 36
-total_units: 1016.25
-account_units: 3.14
+total_units: 1020.25
+account_units: 3.4
 pending_units: 46.0
 bank: -9.0
 futures:
@@ -85,10 +85,10 @@ monthly_mls:
 - month: '07'
   record: 112-91-16
 - month: '08'
-  record: 58-32-6
-week_w: 18
-week_l: 6
-week_p: 1
+  record: 62-35-7
+week_w: 22
+week_l: 9
+week_p: 2
 future_record: 19-16-0
 future_record_win_pct: 0.543
 future_record_units: 28.09419369962848
@@ -104,9 +104,9 @@ nba_record_units: -4.756684589792545
 nhl_record: 189-155-9
 nhl_record_win_pct: 0.549
 nhl_record_units: 12.75253302859275
-mlb_record: 221-185-29
-mlb_record_win_pct: 0.544
-mlb_record_units: -7.1139104947726794
+mlb_record: 225-188-30
+mlb_record_win_pct: 0.545
+mlb_record_units: -7.35060691239015
 nfl_record: 7-17-0
 nfl_record_win_pct: 0.292
 nfl_record_units: -6.551756264724779
