@@ -1,13 +1,13 @@
 ---
-win: 835
-loss: 764
-push: 39
-pending: 14
-win_pct: 0.522
-void: 36
-total_units: 1020.25
-account_units: 3.4
-pending_units: 46.0
+win: 950
+loss: 866
+push: 60
+pending: 15
+win_pct: 0.523
+void: 39
+total_units: 1140.25
+account_units: 5.86
+pending_units: 46.5
 bank: -9.0
 futures:
 - sport: MLB
@@ -66,7 +66,11 @@ futures:
   units: 2.0
   description: LAR win o10.0
   line: "-110"
-non_future_pending: []
+non_future_pending:
+- sport: MLB
+  units: 0.5
+  description: TOR(@LAA) o4.0
+  line: "-135"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -85,10 +89,12 @@ monthly_mls:
 - month: '07'
   record: 112-91-16
 - month: '08'
-  record: 62-35-7
-week_w: 22
-week_l: 9
-week_p: 2
+  record: 164-131-23
+- month: '09'
+  record: 13-6-5
+week_w: 27
+week_l: 17
+week_p: 8
 future_record: 19-16-0
 future_record_win_pct: 0.543
 future_record_units: 28.09419369962848
@@ -104,9 +110,9 @@ nba_record_units: -4.756684589792545
 nhl_record: 189-155-9
 nhl_record_win_pct: 0.549
 nhl_record_units: 12.75253302859275
-mlb_record: 225-188-30
-mlb_record_win_pct: 0.545
-mlb_record_units: -7.35060691239015
+mlb_record: 340-290-51
+mlb_record_win_pct: 0.54
+mlb_record_units: -16.387106767070676
 nfl_record: 7-17-0
 nfl_record_win_pct: 0.292
 nfl_record_units: -6.551756264724779
