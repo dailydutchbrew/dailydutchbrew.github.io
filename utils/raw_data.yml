@@ -16018,3 +16018,187 @@
   description: "LAA(vsTEX) o4.0"
   result: "PUSH"
   date: "09/04/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: +180
+  units: 0.25
+  description: "PENN(@WIN) win"
+  result: "WIN"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "PENN(@WIN) -6.0"
+  result: "WIN"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -135
+  units: 0.5
+  description: "ALA(@MIA) -18.0"
+  result: "WIN"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "GA(@CLEM) -3.0"
+  result: "LOSS"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "GA(@CLEM) win"
+  result: "LOSS"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "LSU(@UCLA) +9.5"
+  result: "LOSS"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "UCLA(vsLSU) +3.0"
+  result: "WIN"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "CAL(vsNV) win"
+  result: "LOSS"
+  date: "09/04/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "NV(@CAL) +3.5"
+  result: "WIN"
+  date: "09/04/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "TOR(vsOAK) o5.0"
+  result: "WIN"
+  date: "09/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "NYM(@WSH) o4.5"
+  result: "WIN"
+  date: "09/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "TB(vsMIN) o5.0"
+  result: "PUSH"
+  date: "09/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "NYY(vsBAL) o6.0"
+  result: "WIN"
+  date: "09/05/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "FSU(vsND) +7.5"
+  result: "WIN"
+  date: "09/05/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: +230
+  units: 0.5
+  description: "FSU(vsND) WIN"
+  result: "WIN"
+  date: "09/05/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -200
+  units: 0.5
+  description: "BOS(vsTB) o4.0"
+  result: "WIN"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -185
+  units: 0.5
+  description: "KC(@BAL) o4.0"
+  result: "LOSS"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "DET(@PIT) o4.0"
+  result: "LOSS"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "PIT(vsDET) o3.0"
+  result: "WIN"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "TOR(@NYY) o4.0"
+  result: "WIN"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -170
+  units: 0.5
+  description: "NYM(vsWSH) o4.0"
+  result: "LOSS"
+  date: "09/06/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "SF(@COL) o5.5"
+  result: "PENDING"
+  date: "09/06/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "MISS(@LOU) -9.5"
+  result: "PENDING"
+  date: "09/06/2021"
