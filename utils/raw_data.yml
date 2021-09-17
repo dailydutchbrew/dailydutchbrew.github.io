@@ -16658,3 +16658,227 @@
   description: "Darren Waller o70.5 Rec yds"
   result: "WIN"
   date: "09/13/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -170
+  units: 0.5
+  description: "CIN(@PIT) o4.0"
+  result: "WIN"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "CLE @ MIN o7.5"
+  result: "WIN"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "HOU(@TEX) o5.0"
+  result: "LOSS"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "NYY(@BAL) o6.0"
+  result: "WIN"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "CWS(vsLAA) o5.0"
+  result: "WIN"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "LAD(vsARI) o5.0"
+  result: "WIN"
+  date: "09/14/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "MIL(@DET) o5.0"
+  result: "LOSS"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "MIA(@WSH) o4.0"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "OAK @ KC o8.0"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "CIN(@PIT) o4.0"
+  result: "PUSH"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -140
+  units: 0.5
+  description: "CIN(@PIT) win"
+  result: "LOSS"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -180
+  units: 0.5
+  description: "NYY(@BAL) win"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "NYY(@BAL) o5.0"
+  result: "LOSS"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "HOU(@TEX) o5.0"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -210
+  units: 0.5
+  description: "HOU(@TEX) win"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "OAK(@KC) win"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "SD(@SF) o4.0"
+  result: "WIN"
+  date: "09/15/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "OAK(@KC) o4.5"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "SF(vsSD) o4.0"
+  result: "PUSH"
+  date: "09/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "CIN @ PIT o8.0"
+  result: "LOSS"
+  date: "09/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "PIT(vsCIN) o3.0"
+  result: "LOSS"
+  date: "09/16/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "CIN(@PIT) o4.0"
+  result: "LOSS"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "NYG @ WAS o40.0"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: +190
+  units: 0.25
+  description: "NYG @ WAS o48.0"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "NYG(@WAS) +4.0"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -160
+  units: 0.5
+  description: "S. Shepard o5.0 rec"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "D Jones o235.5 pass yds"
+  result: "WIN"
+  date: "09/16/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "S Barkley o44.5 rush yds"
+  result: "WIN"
+  date: "09/16/2021"
