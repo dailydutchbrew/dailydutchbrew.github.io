@@ -4281,7 +4281,7 @@
   line: -115
   units: 3.0
   description: "MIL o 82.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "MLB"
@@ -4289,7 +4289,7 @@
   line: -115
   units: 3.0
   description: "SD o 94.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/14/2021"
 
 - sport: "MLB"
@@ -4297,7 +4297,7 @@
   line: -115
   units: 3.0
   description: "WAS o 84.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/14/2021"
 
 - sport: "MLB"
@@ -4305,7 +4305,7 @@
   line: -115
   units: 3.0
   description: "KC o 72.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "MLB"
@@ -4313,7 +4313,7 @@
   line: -115
   units: 3.0
   description: "TOR o 87.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "03/14/2021"
 
 - sport: "MLB"
@@ -4321,7 +4321,7 @@
   line: -115
   units: 3.0
   description: "OAK o 86.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "03/14/2021"
 
 - sport: "NHL"
@@ -16882,3 +16882,1203 @@
   description: "S Barkley o44.5 rush yds"
   result: "WIN"
   date: "09/16/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "Central Florida(@Louisville) -6.5"
+  result: "LOSS"
+  date: "09/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "CWS(@TEX) o5.0"
+  result: "WIN"
+  date: "09/17/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "HOU(vsARI) o5.0"
+  result: "LOSS"
+  date: "09/17/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "Cincinnati(@Indiana) -3.0"
+  result: "WIN"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "BOS(vsBAL) o6.0"
+  result: "WIN"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "DET(@TB) o3.0"
+  result: "WIN"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "TB(vsDET) o4.0"
+  result: "LOSS"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "DET @ TB o8.0"
+  result: "LOSS"
+  date: "09/18/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "Memphis(vs Mississippi State) +3.5"
+  result: "WIN"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 1.0
+  description: "CWS(@TEX) o4.0"
+  result: "LOSS"
+  date: "09/18/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "Penn State(vs Auburn) -4.5"
+  result: "WIN"
+  date: "09/18/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "OAK(@LAA) o4.0"
+  result: "LOSS"
+  date: "09/18/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "Arizona State(@BYU) -3.0"
+  result: "LOSS"
+  date: "09/18/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "CIN(vsCHI) +3.0"
+  result: "PUSH"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -130
+  units: 0.5
+  description: "CIN(vsCHI) +9.5, NYG +10.0"
+  result: "WIN"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -140
+  units: 0.5
+  description: "LAR(@IND) -3.0"
+  result: "PUSH"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: +260
+  units: 0.5
+  description: "SEA win, DEN win, NE win, PIT win"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "DEN win, NE win"
+  result: "WIN"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: +150
+  units: 0.5
+  description: "DEN win, NE win, PIT win"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "D Henderson Jr. o57.5 Rush ydsn"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "BUF(@MIA) win"
+  result: "WIN"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Landry o5.5 rec"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Landry o61.5 rec yds"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Jefferson o 71.5 rec yds"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "C.E.H o17.5 rec yds"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "Hardman o37.5 rec yds"
+  result: "WIN"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -145
+  units: 1.0
+  description: "KC(@BAL) -3.0s"
+  result: "LOSS"
+  date: "09/19/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "GB(vsDET) o6.5 1Q"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "GB(vsDET) o14.5 1H"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "GB(vsDET) o7.0 1H"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "DET @ GB o48.0"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "GB(vsDET) o30.5"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -130
+  units: 0.5
+  description: "TB -3.0 + GB -2.0 + SEA +3.5"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "GB(vsDET) -3.5 LIVE"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "GB o3.5 TDs"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "J Goff o258.5 Pass yds"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -115
+  units: 0.5
+  description: "D'Andre Swift o4.5 rec"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +160
+  units: 0.5
+  description: "J Williams at least 1 TD"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -150
+  units: 0.5
+  description: "MVS o2.5 rec"
+  result: "LOSS"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "Aa Rodgers over 2.5 Pass TDs"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -140
+  units: 0.5
+  description: "J Williams o 2.5 rec"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +115
+  units: 0.5
+  description: "J Goff o1.5 Pass TDs"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "T Hockenson o 56.5 Rec yds"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "J Goff o23.5 Pass Completions"
+  result: "WIN"
+  date: "09/20/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "CWS(@DET) o2.5 1H"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "CWS(@DET) o5.0"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -164
+  units: 0.5
+  description: "CWS(@DET) win"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "NYM(@BOS) o4.0"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "SEA @ OAK o8.0"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "OAK(vsSEA) o4.0"
+  result: "LOSS"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "SEA(@OAK) o3.5"
+  result: "WIN"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "HOU(@LAA) o5.0"
+  result: "WIN"
+  date: "09/21/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "PHI(vsBAL) o5.0"
+  result: "LOSS"
+  date: "09/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "NYY(vsTEX) o5.0"
+  result: "WIN"
+  date: "09/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "LAD(@COL) o5.0"
+  result: "LOSS"
+  date: "09/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "SD(@SF) o4.0"
+  result: "WIN"
+  date: "09/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "SF(@SD) o4.0"
+  result: "WIN"
+  date: "09/22/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "SF @ SD o8.5"
+  result: "WIN"
+  date: "09/22/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "CAR(@HOU) -2.0 + CAR @ HOU o37.0"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "HOU(vsCAR) +15.0 + CAR @ HOU o37.0"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +220
+  units: 0.25
+  description: "CAR @ HOU DEF TD score"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "B. Cooks o5.5 rec"
+  result: "WIN"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -140
+  units: 0.5
+  description: "D. Johnson o2.0 rec"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "C Conley o2.5 rec"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +110
+  units: 0.5
+  description: "A Miller o2.5 rec"
+  result: "WIN"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "R Anderson o46.5 rec yds"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +150
+  units: 0.5
+  description: "R Anderson score TD"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +175
+  units: 0.5
+  description: "B Cooks score TD"
+  result: "LOSS"
+  date: "09/23/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "B Cooks o 67.5 rec yds"
+  result: "WIN"
+  date: "09/23/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "STL @ CHC o8.5"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -148
+  units: 0.5
+  description: "STL(@CHC) win"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "MIA @ TB o8.0"
+  result: "PUSH"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "KC @ DET 8.0"
+  result: "LOSS"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "TEX @ BAL o9.0"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "PIT @ PHI o9.0"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -147
+  units: 0.5
+  description: "TOR(@MIN) win"
+  result: "LOSS"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "STL(@CHC) o8.5"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -200
+  units: 0.5
+  description: "SF(@COL) win"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -240
+  units: 0.5
+  description: "LAD(@ARI) win"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -128
+  units: 0.5
+  description: "SEA(@LAA) win"
+  result: "WIN"
+  date: "09/24/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: +240
+  units: 0.25
+  description: "ND win +240 LIVE"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "ND(@WIS) +9.5 LIVE"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "Toledo(@Ball State) -5.0"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "STL @ CHC o10.0"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "CHC(vsSTL) o4.0"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "STL(@CHC) o5.0"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "STL(@CHC) win"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: +310
+  units: 0.25
+  description: "NC State(vs Clemson) win"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "NC State(vs Clemson) +10.5"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MMA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "Dvalishvili + Daukaus win"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "West Virginia(@Oklahoma) +17.0"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: +550
+  units: 0.25
+  description: "West Virginia(@Oklahoma) win"
+  result: "LOSS"
+  date: "09/25/2021"
+
+- sport: "MMA"
+  type: "P"
+  line: +300
+  units: 0.5
+  description: "Rozenstruik win inside"
+  result: "LOSS"
+  date: "09/25/2021"
+
+- sport: "MMA"
+  type: "ML"
+  line: -165
+  units: 0.5
+  description: "Robbie Lawler(vs Nick Diaz) win"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -147
+  units: 0.5
+  description: "SF(@COL) win"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "MMA"
+  type: "P"
+  line: -165
+  units: 0.5
+  description: "Volkanovski + Shevchenko wins"
+  result: "WIN"
+  date: "09/25/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -125
+  units: 1.0
+  description: "ATL(@NYG) +3.0"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -105
+  units: 1.0
+  description: "ARI @ JAX o52.0"
+  result: "LOSS"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "NE(vsNO) win"
+  result: "LOSS"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "SEA @ MIN o54.0"
+  result: "LOSS"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -125
+  units: 1.0
+  description: "TB(@LAR) win"
+  result: "LOSS"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -120
+  units: 0.5
+  description: "TB @ LAR o55.0"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "LVR(vsMIA) win"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -150
+  units: 0.5
+  description: "GB(@SF) o21.5 1H"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -110
+  units: 0.5
+  description: "GB @ SF o51.0"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 1.0
+  description: "GB +10.0 + o44.5"
+  result: "WIN"
+  date: "09/26/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "PIT @ CIN o9.0"
+  result: "WIN"
+  date: "09/27/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "CWS @ DET o9.0"
+  result: "WIN"
+  date: "09/27/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "KC @ CLE o9.0"
+  result: "WIN"
+  date: "09/27/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 1.0
+  description: "PHI(@DAL) +10.5 + o44.5"
+  result: "LOSS"
+  date: "09/27/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "MIA @ NYM o5.5"
+  result: "WIN"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "CHC @ PIT o8.0"
+  result: "WIN"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "BOS(@BAL) o5.0"
+  result: "LOSS"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "ML"
+  line: -130
+  units: 0.5
+  description: "TOR(vsNYY) win"
+  result: "LOSS"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "LAA @ TEX o9.0"
+  result: "LOSS"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 0.5
+  description: "WSH @ COL o11.0"
+  result: "LOSS"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -165
+  units: 0.5
+  description: "SF(vsARI) o4.0"
+  result: "WIN"
+  date: "09/28/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -160
+  units: 0.5
+  description: "BOS @ BAL o9.0"
+  result: "LOSS"
+  date: "09/29/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "CHC @ PIT o8.0"
+  result: "LOSS"
+  date: "09/29/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "CLE @ KC o9.0"
+  result: "WIN"
+  date: "09/29/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -155
+  units: 1.0
+  description: "LAA(@TEX) o4.0"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "JAX(@CIN) o7.5 1H"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -135
+  units: 0.5
+  description: "CIN(vsJAX) o13.5 1H"
+  result: "LOSS"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "JAX(@CIN)o18.5"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "JAX @ CIN o46.0"
+  result: "LOSS"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -130
+  units: 0.5
+  description: "JAX(@CIN) +14.0 + o40.0"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -165
+  units: 0.5
+  description: "J Burrow o1.5 pass TD"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -160
+  units: 0.5
+  description: "M Jones Jr o5.0 rec"
+  result: "LOSS"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +130
+  units: 0.5
+  description: "D Chark Jr o4.0 rec"
+  result: "LOSS"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Chase o0.5 TD scored"
+  result: "LOSS"
+  date: "09/30/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "J Robinson o52.5 rush yds"
+  result: "WIN"
+  date: "09/30/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "TOR(vsBAL) o6.0"
+  result: "PUSH"
+  date: "10/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "BOS @ WSH o9.0"
+  result: "LOSS"
+  date: "10/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -115
+  units: 0.5
+  description: "LAA @ SEA o7.5"
+  result: "LOSS"
+  date: "10/01/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -145
+  units: 0.5
+  description: "TB @ NYY o8.0"
+  result: "WIN"
+  date: "10/02/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "ARK(@GEORGIA) +18"
+  result: "LOSS"
+  date: "10/02/2021"
+
+- sport: "CFB"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "Wisconsin(vs Michigan) win"
+  result: "LOSS"
+  date: "10/02/2021"
+
+- sport: "MLB"
+  type: "OU"
+  line: -150
+  units: 1.0
+  description: "BAL @ TOR o8.0"
+  result: "WIN"
+  date: "10/02/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -135
+  units: 0.5
+  description: "Notre Dame(@Cincinati) +3.0"
+  result: "LOSS"
+  date: "10/02/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "BC(@Clemson) +14.5"
+  result: "WIN"
+  date: "10/02/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 1.0
+  description: "KC @ PHI o54.5"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -145
+  units: 1.0
+  description: "CHI(vsDET) win"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 1.0
+  description: "KC(@PHI) -6.5"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 1.0
+  description: "WAS @ ATL -1.0"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -135
+  units: 1.0
+  description: "BAL @ DEN u45.5"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 1.0
+  description: "BAL(@DEN) +7 u50.0"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 1.0
+  description: "GB(vsPIT) -0.5 + KC(@PHI) -1.00"
+  result: "WIN"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +260
+  units: 0.5
+  description: "NE(vsTB) win"
+  result: "LOSS"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -125
+  units: 1.0
+  description: "TB(@NE) -6.5"
+  result: "LOSS"
+  date: "10/03/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 1.0
+  description: "NE(vsTB) +14.0 + o56.5"
+  result: "WIN"
+  date: "10/03/2021"

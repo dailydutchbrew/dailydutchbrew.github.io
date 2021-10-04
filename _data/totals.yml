@@ -1,39 +1,15 @@
 ---
-win: 1016
-loss: 903
-push: 66
-pending: 14
-win_pct: 0.529
+win: 1101
+loss: 970
+push: 70
+pending: 8
+win_pct: 0.532
 void: 39
-total_units: 1193.85
-account_units: 17.73
-pending_units: 46.0
+total_units: 1276.85
+account_units: 39.04
+pending_units: 28.0
 bank: -9.0
 futures:
-- sport: MLB
-  units: 3.0
-  description: MIL o 82.5 wins
-  line: "-115"
-- sport: MLB
-  units: 3.0
-  description: SD o 94.5 wins
-  line: "-115"
-- sport: MLB
-  units: 3.0
-  description: WAS o 84.5 wins
-  line: "-115"
-- sport: MLB
-  units: 3.0
-  description: KC o 72.5 wins
-  line: "-115"
-- sport: MLB
-  units: 3.0
-  description: TOR o 87.5 wins
-  line: "-115"
-- sport: MLB
-  units: 3.0
-  description: OAK o 86.5 wins
-  line: "-115"
 - sport: NFL
   units: 4.0
   description: TB win o11.5
@@ -75,7 +51,7 @@ monthly_mls:
 - month: '02'
   record: 67-72-2
 - month: '03'
-  record: 96-87-1
+  record: 99-90-1
 - month: '04'
   record: 118-129-5
 - month: '05'
@@ -87,13 +63,15 @@ monthly_mls:
 - month: '08'
   record: 164-132-23
 - month: '09'
-  record: 79-42-11
-week_w: 29
-week_l: 8
-week_p: 2
-future_record: 19-16-0
-future_record_win_pct: 0.543
-future_record_units: 28.09419369962848
+  record: 150-99-14
+- month: '10'
+  record: 11-7-1
+week_w: 8
+week_l: 2
+week_p: 0
+future_record: 22-19-0
+future_record_win_pct: 0.537
+future_record_units: 26.920280656150222
 parlay_record: 13-39-0
 parlay_record_win_pct: 0.25
 parlay_record_units: -0.9274999999999998
@@ -106,12 +84,12 @@ nba_record_units: -4.756684589792545
 nhl_record: 189-155-9
 nhl_record_win_pct: 0.549
 nhl_record_units: 12.75253302859275
-mlb_record: 377-314-57
-mlb_record_win_pct: 0.546
-mlb_record_units: -15.140804900456173
-nfl_record: 27-20-0
-nfl_record_win_pct: 0.574
-nfl_record_units: 0.6751992539069421
-mma_record: 6-4-0
-mma_record_win_pct: 0.6
-mma_record_units: -0.459018759018759
+mlb_record: 412-340-59
+mlb_record_win_pct: 0.548
+mlb_record_units: -16.07343235627814
+nfl_record: 64-54-2
+nfl_record_win_pct: 0.542
+nfl_record_units: 0.21230141406007896
+mma_record: 9-5-0
+mma_record_win_pct: 0.643
+mma_record_units: 0.14704184704184697
