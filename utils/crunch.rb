@@ -74,8 +74,8 @@ bets.each do |bet|
   units = event.units
 
   if event.type == BANK
-    bank += units
-    account_units -= units
+  #  bank += units
+  #  account_units -= units
     next
   end
 
