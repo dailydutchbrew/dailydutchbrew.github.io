@@ -19154,3 +19154,91 @@
   description: "WPG @ SJS 6.0"
   result: "WIN"
   date: "10/16/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -150
+  units: 0.5
+  description: "MIA(@JAX) win"
+  result: "LOSS"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "CIN(@DET) -3.0"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "GB(@CHI) -4.5"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "GB(@CHI) -4.5"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "KC(@WAS) -1 + GB(@CHI) 0.0"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "LAR(@NYG) -8.0"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "KC @ WAS o54.0"
+  result: "LOSS"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "MIN(@CAR) win"
+  result: "WIN"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "CLE(vsARI) -3.0"
+  result: "LOSS"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -135
+  units: 0.5
+  description: "DEN(vsLV) -3.0"
+  result: "LOSS"
+  date: "10/17/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "LAR(@NYG) -2.0 + PIT(vsSEA) +1.0"
+  result: "WIN"
+  date: "10/17/2021"
