@@ -20179,3 +20179,283 @@
   result: "LOSS"
   date: "11/14/2021"
 
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "LAR(@SF) -3.0"
+  result: "LOSS"
+  date: "11/15/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "WSH(@ANA) win"
+  result: "LOSS"
+  date: "11/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 0.5
+  description: "FLA(vsNYI) win"
+  result: "WIN"
+  date: "11/16/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -150
+  units: 0.5
+  description: "COL(@VAN) win"
+  result: "WIN"
+  date: "11/17/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "NE@(ATL) -6.0"
+  result: "WIN"
+  date: "11/18/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +735
+  units: 0.5
+  description: "WPG(@VAN) -1.5 + COL(@SEA) -1.5"
+  result: "LOSS"
+  date: "11/19/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 0.5
+  description: "WSH(@SJS) win"
+  result: "WIN"
+  date: "11/20/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "SF(@JAX) -6.5"
+  result: "WIN"
+  date: "11/21/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "NO(@PHI) +3.0"
+  result: "LOSS"
+  date: "11/21/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "KC(vsDAL)"
+  result: "WIN"
+  date: "11/21/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "SEA(vsARI) -2.5)"
+  result: "LOSS"
+  date: "11/21/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +215
+  units: 0.5
+  description: "PIT(@LAC) win"
+  result: "LOSS"
+  date: "11/21/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -125
+  units: 0.5
+  description: "TB(vsNYG) o30.5"
+  result: "LOSS"
+  date: "11/22/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -105
+  units: 0.5
+  description: "EDM(@DAL) win"
+  result: "LOSS"
+  date: "11/23/2021"
+
+- sport: "NHL"
+  type: "PARLAY"
+  line: +989
+  units: 0.25
+  description: "PHI @ FLA o6.0, WPG @ CBJ o5.5, BOS @ BUF o5.5, ANA @ COL o5.5"
+  result: "LOSS"
+  date: "11/24/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "CHI(@DET) -2.0"
+  result: "PUSH"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "D Montgomery o100.5 rush + rec"
+  result: "LOSS"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -155
+  units: 0.5
+  description: "D Montgomery 1+ TD"
+  result: "LOSS"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -150
+  units: 0.5
+  description: "E Elliot 1+ TD"
+  result: "WIN"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -135
+  units: 0.5
+  description: "H Renfrow o5.5 receptions"
+  result: "WIN"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -145
+  units: 0.5
+  description: "E Elliot o20.5 rec yds"
+  result: "WIN"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "E Elliot o3.5 receptions"
+  result: "WIN"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "E Elliot o68.5 rush yds"
+  result: "LOSS"
+  date: "11/25/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +115
+  units: 0.5
+  description: "E Sanders o3.5 rec"
+  result: "LOSS"
+  date: "11/25/2021"
+
+- sport: "CFB"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "North Carolina @ NC State o62.5"
+  result: "WIN"
+  date: "11/26/2021"
+
+- sport: "NBA"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "GSW(vsPOR) -6.0"
+  result: "WIN"
+  date: "11/26/2021"
+
+- sport: "CBB"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "Gonzaga(vsDuke) win"
+  result: "LOSS"
+  date: "11/26/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "Michigan(vsOhioState) +8.0"
+  result: "WIN"
+  date: "11/27/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "Alabama(@Auburn) -20.0"
+  result: "LOSS"
+  date: "11/27/2021"
+
+- sport: "CFB"
+  type: "PS"
+  line: -145
+  units: 0.5
+  description: "Oklahoma State(vsOklahoma) -3.0"
+  result: "WIN"
+  date: "11/27/2021"
+
+- sport: "NHL"
+  type: "PS"
+  line: +100
+  units: 0.5
+  description: "EDM(@VGK)"
+  result: "WIN"
+  date: "11/27/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "HOU(vsNYJ) -2.5"
+  result: "LOSS"
+  date: "11/28/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "PIT(@CIN) +4.5"
+  result: "LOSS"
+  date: "11/28/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -135
+  units: 0.5
+  description: "LAR(@GB) win"
+  result: "LOSS"
+  date: "11/28/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "CLE(@BAL) +3.0"
+  result: "LOSS"
+  date: "11/28/2021"
+
