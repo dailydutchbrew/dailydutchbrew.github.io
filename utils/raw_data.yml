@@ -20459,3 +20459,443 @@
   result: "LOSS"
   date: "11/28/2021"
 
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "SEA @ WAS o40.5 + SEA(@WAS) +6.0"
+  result: "LOSS"
+  date: "11/29/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -110
+  units: 0.5
+  description: "SEA(@WAS) win"
+  result: "LOSS"
+  date: "11/29/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -110
+  units: 0.5
+  description: "SEA @ WAS o46.0"
+  result: "LOSS"
+  date: "11/29/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -105
+  units: 0.5
+  description: "R Wilson o 1.5 Pass TD"
+  result: "WIN"
+  date: "11/29/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "LOSS"
+  date: "11/30/2021"
+
+- sport: "NCAAB"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "Duke(@Ohio State) -2.0"
+  result: "LOSS"
+  date: "11/30/2021"
+
+- sport: "NHL"
+  type: "SALAMI"
+  line: -125
+  units: 0.5
+  description: "Home goals > Away goals"
+  result: "WIN"
+  date: "12/1/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "M Ingram o3.5 receptions"
+  result: "LOSS"
+  date: "12/2/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -125
+  units: 0.5
+  description: "CGY(@ANA) win"
+  result: "WIN"
+  date: "12/3/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -115
+  units: 0.5
+  description: "FLA(vsSTL) win in REG"
+  result: "LOSS"
+  date: "12/4/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "GSW(vsSAS) -9.0"
+  result: "LOSS"
+  date: "12/4/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "LAC @ CIN o50.0"
+  result: "WIN"
+  date: "12/5/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -120
+  units: 0.5
+  description: "ARI(@CHI) o24.5"
+  result: "WIN"
+  date: "12/5/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "TB @ ATL o50.5"
+  result: "LOSS"
+  date: "12/5/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -110
+  units: 0.5
+  description: "MIN(@DET) o27.5"
+  result: "LOSS"
+  date: "12/5/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -120
+  units: 0.5
+  description: "NE(@BUF) +3.0"
+  result: "WIN"
+  date: "12/6/2021"
+
+- sport: "NHL"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "EDM(vsMIN) -125"
+  result: "LOSS"
+  date: "12/7/2021"
+
+- sport: "NHL"
+  type: "SALAMI"
+  line: -110
+  units: 0.5
+  description: "Away Goals > Home Goals"
+  result: "LOSS"
+  date: "12/8/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "PIT(@MIN) +3.5"
+  result: "LOSS"
+  date: "12/9/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +150
+  units: 0.5
+  description: "PIT(@MIN) win"
+  result: "LOSS"
+  date: "12/9/2021"
+
+- sport: "NHL"
+  type: "OU"
+  line: -105
+  units: 0.5
+  description: "BOS @ EDM o6.0"
+  result: "LOSS"
+  date: "12/9/2021"
+
+- sport: "NBA"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "BKN(@ATL) +1.5"
+  result: "LOSS"
+  date: "12/10/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: -110
+  units: 0.5
+  description: "Seth Curry o14.5 pts"
+  result: "LOSS"
+  date: "12/11/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "CAR(vsATL) -1.0"
+  result: "LOSS"
+  date: "12/12/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: -145
+  units: 0.5
+  description: "CLE(vsBAL) win"
+  result: "WIN"
+  date: "12/12/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -125
+  units: 0.5
+  description: "SF(@CIN) -1.0"
+  result: "WIN"
+  date: "12/12/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "BUF(@TB) +3.5"
+  result: "LOSS"
+  date: "12/12/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +120
+  units: 0.5
+  description: "S Curry o6.5 3's"
+  result: "LOSS"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +115
+  units: 0.5
+  description: "LAR(@ARI) win"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -135
+  units: 0.5
+  description: "LAR(@ARI) +3.0"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "LAR @ ARI o45.0 + LAR(@ARI) +8.5"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "D Hopkins o58.5 yds rec"
+  result: "LOSS"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "K Murray o0.5 TD"
+  result: "LOSS"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "K Murray o30.5 rush yd"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -140
+  units: 0.5
+  description: "C Kupp o7.5 rec"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "C Kupp ATD"
+  result: "WIN"
+  date: "12/13/2021"
+
+- sport: "NBA"
+  type: "P"
+  line: +100
+  units: 0.5
+  description: "S Curry o5.5 3's"
+  result: "LOSS"
+  date: "12/14/2021"
+
+- sport: "NHL"
+  type: "ML"
+  line: -160
+  units: 0.5
+  description: "ANA(vsSEA) win"
+  result: "WIN"
+  date: "12/15/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "NE(@IND) +8.5, NE @ IND o39.0"
+  result: "LOSS"
+  date: "12/18/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -130
+  units: 0.5
+  description: "NE(@IND) +3.0"
+  result: "LOSS"
+  date: "12/18/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -120
+  units: 0.5
+  description: "NE(@IND) o1.5 field goals"
+  result: "LOSS"
+  date: "12/18/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "GB(@BAL) -3.0, JAX(vsHOU) 0.0"
+  result: "LOSS"
+  date: "12/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "BUF(vsCAR) -7.0 + CIN(@DEN) +10.0"
+  result: "WIN"
+  date: "12/19/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -120
+  units: 0.5
+  description: "SF(vsATL) -2.5 + TB(vsNO) -5.5"
+  result: "LOSS"
+  date: "12/19/2021"
+
+- sport: "NFL"
+  type: "OU"
+  line: -130
+  units: 0.5
+  description: "NO @ TB o47.5"
+  result: "LOSS"
+  date: "12/19/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -115
+  units: 0.5
+  description: "CLE(vsLV) +3.0"
+  result: "WIN"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +125
+  units: 0.5
+  description: "CLE(vsLV) win"
+  result: "LOSS"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Jefferson ATD"
+  result: "WIN"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -125
+  units: 0.5
+  description: "J Jacobs ATD"
+  result: "LOSS"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -130
+  units: 0.5
+  description: "N Chubb ATD"
+  result: "WIN"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "P"
+  line: -140
+  units: 0.5
+  description: "D Cook ATD"
+  result: "LOSS"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -110
+  units: 0.5
+  description: "CHI(vsMIN) +7.0"
+  result: "LOSS"
+  date: "12/20/2021"
+
+- sport: "NFL"
+  type: "ML"
+  line: +250
+  units: 0.25
+  description: "CHI(vsMIN) win"
+  result: "LOSS"
+  date: "12/21/2021"
+
+- sport: "NFL"
+  type: "T"
+  line: -140
+  units: 0.5
+  description: "WAS @ PHI o27.5 , SEA @ LAR o33.5 , WAS(@PHI) +21.5 , LAR(@SEA) +6.0"
+  result: "LOSS"
+  date: "12/21/2021"
+
+- sport: "NFL"
+  type: "PS"
+  line: -135
+  units: 0.5
+  description: "SF(@TEN) -3.0"
+  result: "LOSS"
+  date: "12/21/2021"
+

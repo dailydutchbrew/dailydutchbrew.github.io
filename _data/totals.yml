@@ -1,12 +1,12 @@
 ---
-win: 1241
-loss: 1107
+win: 1260
+loss: 1143
 push: 76
 pending: 19
-win_pct: 0.529
+win_pct: 0.524
 void: 39
-total_units: 1485.6
-account_units: 5.69
+total_units: 1512.85
+account_units: -4.27
 pending_units: 70.0
 bank: 0
 futures:
@@ -111,9 +111,11 @@ monthly_mls:
 - month: '10'
   record: 113-101-6
 - month: '11'
-  record: 38-43-1
-week_w: 0
-week_l: 4
+  record: 39-48-1
+- month: '12'
+  record: 18-31-0
+week_w: 4
+week_l: 10
 week_p: 0
 future_record: 22-19-0
 future_record_win_pct: 0.537
@@ -124,18 +126,18 @@ parlay_record_units: -1.9274999999999998
 betback_record: 2-8-7
 betback_record_win_pct: 0.2
 betback_record_units: 5.414999999999999
-nba_record: 401-393-0
-nba_record_win_pct: 0.505
-nba_record_units: -3.9803194895144007
-nhl_record: 205-171-9
-nhl_record_win_pct: 0.545
-nhl_record_units: 10.484014761779884
+nba_record: 401-399-0
+nba_record_win_pct: 0.501
+nba_record_units: -6.9803194895144
+nhl_record: 208-175-9
+nhl_record_win_pct: 0.543
+nhl_record_units: 9.596514761779884
 mlb_record: 456-374-62
 mlb_record_win_pct: 0.549
 mlb_record_units: -10.640774689670437
-nfl_record: 126-124-5
-nfl_record_win_pct: 0.504
-nfl_record_units: -8.319975360553592
+nfl_record: 142-149-5
+nfl_record_win_pct: 0.488
+nfl_record_units: -13.889167289453168
 mma_record: 10-5-0
 mma_record_win_pct: 0.667
 mma_record_units: 1.117915633449614
