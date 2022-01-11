@@ -1,47 +1,15 @@
 ---
-win: 1260
-loss: 1143
-push: 76
-pending: 19
-win_pct: 0.524
+win: 1264
+loss: 1145
+push: 78
+pending: 11
+win_pct: 0.525
 void: 39
 total_units: 1512.85
-account_units: -4.27
-pending_units: 70.0
+account_units: 32.75
+pending_units: 42.0
 bank: 0
-futures:
-- sport: NFL
-  units: 4.0
-  description: TB win o11.5
-  line: "-147"
-- sport: NFL
-  units: 4.0
-  description: BUF win o10.5
-  line: "-141"
-- sport: NFL
-  units: 4.0
-  description: CLE win o10.5
-  line: "+100"
-- sport: NFL
-  units: 4.0
-  description: TEN win o9.0
-  line: "-110"
-- sport: NFL
-  units: 4.0
-  description: KC win o12.0
-  line: "-130"
-- sport: NFL
-  units: 4.0
-  description: WAS win o8.0
-  line: "-135"
-- sport: NFL
-  units: 2.0
-  description: SF win o10.0
-  line: "-115"
-- sport: NFL
-  units: 2.0
-  description: LAR win o10.0
-  line: "-110"
+futures: []
 non_future_pending:
 - sport: NHL
   units: 2.0
@@ -99,11 +67,11 @@ monthly_mls:
 - month: '04'
   record: 118-129-5
 - month: '05'
-  record: 126-130-2
+  record: 127-130-2
 - month: '06'
   record: 109-103-4
 - month: '07'
-  record: 112-91-16
+  record: 115-93-18
 - month: '08'
   record: 164-132-23
 - month: '09'
@@ -114,12 +82,12 @@ monthly_mls:
   record: 39-48-1
 - month: '12'
   record: 18-31-0
-week_w: 4
-week_l: 10
+week_w: 0
+week_l: 0
 week_p: 0
-future_record: 22-19-0
-future_record_win_pct: 0.537
-future_record_units: 26.920280656150222
+future_record: 26-21-2
+future_record_win_pct: 0.553
+future_record_units: 29.932793978693937
 parlay_record: 13-42-0
 parlay_record_win_pct: 0.236
 parlay_record_units: -1.9274999999999998
@@ -135,9 +103,9 @@ nhl_record_units: 9.596514761779884
 mlb_record: 456-374-62
 mlb_record_win_pct: 0.549
 mlb_record_units: -10.640774689670437
-nfl_record: 142-149-5
-nfl_record_win_pct: 0.488
-nfl_record_units: -13.889167289453168
+nfl_record: 146-151-7
+nfl_record_win_pct: 0.492
+nfl_record_units: -10.876653966909444
 mma_record: 10-5-0
 mma_record_win_pct: 0.667
 mma_record_units: 1.117915633449614

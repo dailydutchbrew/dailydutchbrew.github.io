@@ -9199,7 +9199,7 @@
   line: -147
   units: 4.0
   description: "TB win o11.5"
-  result: "PENDING"
+  result: "WIN"
   date: "05/25/2021"
 
 - sport: "NBA"
@@ -11464,7 +11464,7 @@
   line: -141
   units: 4.0
   description: "BUF win o10.5"
-  result: "PENDING"
+  result: "WIN"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11472,7 +11472,7 @@
   line: +100
   units: 4.0
   description: "CLE win o10.5"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11480,7 +11480,7 @@
   line: -110
   units: 4.0
   description: "TEN win o9.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11488,7 +11488,7 @@
   line: -130
   units: 4.0
   description: "KC win o12.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11496,7 +11496,7 @@
   line: -135
   units: 4.0
   description: "WAS win o8.0"
-  result: "PENDING"
+  result: "LOSS"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11504,7 +11504,7 @@
   line: -115
   units: 2.0
   description: "SF win o10.0"
-  result: "PENDING"
+  result: "PUSH"
   date: "07/04/2021"
 
 - sport: "NFL"
@@ -11512,7 +11512,7 @@
   line: -110
   units: 2.0
   description: "LAR win o10.0"
-  result: "PENDING"
+  result: "WIN"
   date: "07/04/2021"
 
 - sport: "MLB"
