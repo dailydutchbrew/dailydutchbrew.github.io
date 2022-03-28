@@ -1,28 +1,20 @@
 ---
-win: 1264
-loss: 1145
+win: 1267
+loss: 1150
 push: 78
-pending: 11
-win_pct: 0.525
+pending: 3
+win_pct: 0.524
 void: 39
 total_units: 1512.85
-account_units: 32.75
-pending_units: 42.0
+account_units: 54.92
+pending_units: 12.0
 bank: 0
 futures: []
 non_future_pending:
 - sport: NHL
-  units: 2.0
-  description: PIT Make Playoffs NO
-  line: "+160"
-- sport: NHL
   units: 4.0
   description: EDM o97.5 PTs
   line: "-116"
-- sport: NHL
-  units: 4.0
-  description: NYI o98.5 Pts
-  line: "-120"
 - sport: NHL
   units: 4.0
   description: TOR o105.5 Pts
@@ -31,30 +23,6 @@ non_future_pending:
   units: 4.0
   description: WPG o92.5 Pts
   line: "-130"
-- sport: NHL
-  units: 4.0
-  description: CHI o91.5 Pts
-  line: "-115"
-- sport: NBA
-  units: 4.0
-  description: ATL o46.5 wins
-  line: "-120"
-- sport: NBA
-  units: 4.0
-  description: CHI o42.5 wins
-  line: "-120"
-- sport: NBA
-  units: 4.0
-  description: BKN o56.5 wins
-  line: "-111"
-- sport: NBA
-  units: 4.0
-  description: MEM o40.5 wins
-  line: "-132"
-- sport: NBA
-  units: 4.0
-  description: TOR o36.5 wins
-  line: "-105"
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -77,7 +45,7 @@ monthly_mls:
 - month: '09'
   record: 150-99-14
 - month: '10'
-  record: 113-101-6
+  record: 116-106-6
 - month: '11'
   record: 39-48-1
 - month: '12'
@@ -94,12 +62,12 @@ parlay_record_units: -1.9274999999999998
 betback_record: 2-8-7
 betback_record_win_pct: 0.2
 betback_record_units: 5.414999999999999
-nba_record: 401-399-0
-nba_record_win_pct: 0.501
-nba_record_units: -6.9803194895144
-nhl_record: 208-175-9
-nhl_record_win_pct: 0.543
-nhl_record_units: 9.596514761779884
+nba_record: 404-401-0
+nba_record_win_pct: 0.502
+nba_record_units: -4.807159316354228
+nhl_record: 208-178-9
+nhl_record_win_pct: 0.539
+nhl_record_units: -0.40348523822011995
 mlb_record: 456-374-62
 mlb_record_win_pct: 0.549
 mlb_record_units: -10.640774689670437

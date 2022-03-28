@@ -18832,7 +18832,7 @@
   line: +160
   units: 2.0
   description: "PIT Make Playoffs NO"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NHL"
@@ -18848,7 +18848,7 @@
   line: -120
   units: 4.0
   description: "NYI o98.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NHL"
@@ -18872,7 +18872,7 @@
   line: -115
   units: 4.0
   description: "CHI o91.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NBA"
@@ -18880,7 +18880,7 @@
   line: -120
   units: 4.0
   description: "ATL o46.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NBA"
@@ -18888,7 +18888,7 @@
   line: -120
   units: 4.0
   description: "CHI o42.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "10/12/2021"
 
 - sport: "NBA"
@@ -18896,7 +18896,7 @@
   line: -111
   units: 4.0
   description: "BKN o56.5 wins"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NBA"
@@ -18904,7 +18904,7 @@
   line: -132
   units: 4.0
   description: "MEM o40.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "10/12/2021"
 
 - sport: "NBA"
@@ -18912,7 +18912,7 @@
   line: -105
   units: 4.0
   description: "TOR o36.5 wins"
-  result: "PENDING"
+  result: "WIN"
   date: "10/12/2021"
 
 - sport: "MLB"
