@@ -1,28 +1,16 @@
 ---
-win: 1267
-loss: 1150
+win: 1269
+loss: 1151
 push: 78
-pending: 3
+pending: 0
 win_pct: 0.524
 void: 39
 total_units: 1512.85
-account_units: 54.92
-pending_units: 12.0
+account_units: 69.7
+pending_units: 0
 bank: 0
 futures: []
-non_future_pending:
-- sport: NHL
-  units: 4.0
-  description: EDM o97.5 PTs
-  line: "-116"
-- sport: NHL
-  units: 4.0
-  description: TOR o105.5 Pts
-  line: "-120"
-- sport: NHL
-  units: 4.0
-  description: WPG o92.5 Pts
-  line: "-130"
+non_future_pending: []
 monthly_mls:
 - month: '12'
   record: 28-18-0
@@ -45,7 +33,7 @@ monthly_mls:
 - month: '09'
   record: 150-99-14
 - month: '10'
-  record: 116-106-6
+  record: 118-107-6
 - month: '11'
   record: 39-48-1
 - month: '12'
@@ -65,9 +53,9 @@ betback_record_units: 5.414999999999999
 nba_record: 404-401-0
 nba_record_win_pct: 0.502
 nba_record_units: -4.807159316354228
-nhl_record: 208-178-9
-nhl_record_win_pct: 0.539
-nhl_record_units: -0.40348523822011995
+nhl_record: 210-179-9
+nhl_record_win_pct: 0.54
+nhl_record_units: 2.37812395718218
 mlb_record: 456-374-62
 mlb_record_win_pct: 0.549
 mlb_record_units: -10.640774689670437

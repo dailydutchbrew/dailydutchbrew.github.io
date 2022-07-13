@@ -18840,7 +18840,7 @@
   line: -116
   units: 4.0
   description: "EDM o97.5 PTs"
-  result: "PENDING"
+  result: "WIN"
   date: "10/12/2021"
 
 - sport: "NHL"
@@ -18856,7 +18856,7 @@
   line: -120
   units: 4.0
   description: "TOR o105.5 Pts"
-  result: "PENDING"
+  result: "WIN"
   date: "10/12/2021"
 
 - sport: "NHL"
@@ -18864,7 +18864,7 @@
   line: -130
   units: 4.0
   description: "WPG o92.5 Pts"
-  result: "PENDING"
+  result: "LOSS"
   date: "10/12/2021"
 
 - sport: "NHL"
